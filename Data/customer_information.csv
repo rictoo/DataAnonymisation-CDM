@@ -1,0 +1,1001 @@
+given_name,surname,gender,birthdate,country_of_birth,current_country,phone_number,postcode,national_insurance_number,bank_account_number,cc_status,weight,height,blood_group,avg_n_drinks_per_week,avg_n_cigret_per_week,education_level,n_countries_visited
+Lorraine,Reed,F,1984-07-05,Armenia,United Kingdom,(07700) 900876,LS5 8FN,ZZ 19 48 92 T,051157818,0,74.2,1.73,B+,6.5,218.8,phD,48
+Edward,Williams,M,1997-06-17,Northern Mariana Islands,United Kingdom,(07700) 900 877,M0U 1RA,ZZ 753513 T,103328715,0,69.4,1.74,O-,0.7,43.6,primary,42
+Hannah,Turner,F,1990-06-15,Venezuela,United Kingdom,+447700 900148,SO1 8HZ,ZZ 947196 T,069342327,0,98.6,1.88,B+,7.8,59.1,bachelor,9
+Christine,Osborne,F,2000-07-29,Eritrea,United Kingdom,+447700 900112,B18 8LW,ZZ 39 69 47 T,085159170,0,62.0,1.56,O+,4.6,284.2,primary,32
+Francesca,Yates,F,1968-11-04,Ecuador,United Kingdom,07700 900 413,TQ2 6BE,ZZ 30 98 91 T,011399166,0,96.3,1.81,A-,4.4,348.8,secondary,34
+Joanne,Middleton,F,1963-10-15,Argentina,United Kingdom,+44(0)7700 900 032,CM7H 0XS,ZZ 141314 T,066208707,0,43.4,1.59,A-,5.7,219.3,other,7
+Joel,Spencer,M,1982-07-08,Cook Islands,United Kingdom,(07700) 900579,L02 5WL,ZZ 97 20 76 T,108456420,0,77.5,1.55,B+,2.4,79.5,secondary,34
+Leonard,Marshall,M,1987-01-20,Saint Vincent and the Grenadines,United Kingdom,07700 900508,CR3 5ZN,ZZ 599246 T,126109351,0,59.0,1.89,A+,8.4,48.0,other,24
+Tracy,Smith,F,1999-04-07,Kiribati,United Kingdom,+447700 900 960,WR96 2TD,ZZ278789T,010754702,0,83.1,1.42,A+,1.2,148.1,secondary,17
+Gavin,Kay,M,1998-12-21,Belize,United Kingdom,+44(0)7700900206,KT5A 0AW,ZZ 131934 T,052176102,0,80.0,1.74,A+,5.2,47.0,bachelor,47
+Ashley,Johnston,M,1963-10-08,Tokelau,United Kingdom,(07700) 900285,G4 0BH,ZZ 485590 T,129776587,0,43.6,1.83,A+,1.8,293.3,primary,42
+Craig,Martin,M,1995-11-05,French Guiana,United Kingdom,07700 900 224,HR5 5ZB,ZZ 42 29 45 T,078241736,0,52.6,1.84,AB+,2.5,288.1,bachelor,29
+Peter,Brookes,M,1991-06-26,Saint Lucia,United Kingdom,07700 900465,KT1 8UU,ZZ517176T,014522969,1,64.1,1.91,O+,3.0,406.9,secondary,44
+Frances,Hopkins,F,1961-08-26,Congo,United Kingdom,+44(0)7700900306,E6 7UY,ZZ 361534 T,102635111,0,80.0,1.84,B+,9.6,322.0,secondary,31
+Bruce,Day,M,1991-09-03,Korea,United Kingdom,+44(0)7700 900317,EN30 9FE,ZZ 76 58 21 T,107296681,0,77.9,1.57,O+,4.3,67.7,secondary,29
+Mandy,Davies,F,1977-10-31,Syrian Arab Republic,United Kingdom,+447700 900738,L0F 5BW,ZZ 49 26 94 T,127118011,0,77.5,1.79,B+,9.0,183.8,secondary,45
+Jade,Clarke,F,1976-05-02,American Samoa,United Kingdom,+447700 900522,LE5V 8WB,ZZ 189163 T,058967690,0,41.5,1.95,O+,10.0,74.7,phD,10
+Francesca,Barnes,F,1957-04-14,Palestinian Territory,United Kingdom,07700 900 248,M5B 4NS,ZZ602234T,125007629,0,90.1,1.88,O+,4.1,34.6,bachelor,24
+Grace,Ball,F,1996-11-07,Saint Barthelemy,United Kingdom,07700 900256,W6 0EU,ZZ 00 99 25 T,028536718,0,98.4,1.91,A+,3.6,365.0,secondary,27
+Robert,Morrison,M,1987-09-07,New Zealand,United Kingdom,+44(0)7700 900519,TN2 4EW,ZZ 06 75 37 T,061007408,0,36.2,1.88,A+,3.5,464.0,bachelor,4
+Elliot,King,M,1994-10-20,Turkey,United Kingdom,(07700) 900 318,NG6V 1FS,ZZ 611611 T,072076606,0,72.5,1.54,O-,6.1,267.8,bachelor,37
+Frederick,Bell,M,1977-12-21,Saint Helena,United Kingdom,(07700) 900151,N0 5GA,ZZ 51 92 30 T,041045095,0,48.6,1.51,O-,7.4,245.2,secondary,14
+Connor,Taylor,M,1968-08-12,Korea,United Kingdom,07700 900754,B35 7NN,ZZ 529118 T,104262236,0,55.3,1.82,A-,1.8,12.3,secondary,35
+Charles,Buckley,M,1971-12-30,Saudi Arabia,United Kingdom,07700900456,BH2W 6DD,ZZ 64 86 29 T,074513756,0,93.3,1.99,A+,6.6,131.7,primary,38
+Stanley,Wells,M,1959-10-30,Honduras,United Kingdom,+447700 900 065,DL54 1GE,ZZ189276T,036623752,0,73.2,1.9,O+,8.7,136.8,masters,11
+Amber,Sanders,F,1987-05-11,Niue,United Kingdom,+44(0)7700 900173,AB7 0HN,ZZ 48 92 67 T,027386406,0,49.0,1.97,O+,2.5,106.7,secondary,3
+Darren,Dixon,M,2001-05-19,Armenia,United Kingdom,07700 900 468,S7B 5NH,ZZ 101448 T,061832165,0,59.3,1.68,A+,5.9,431.9,secondary,27
+Jacob,Bird,M,1965-01-14,Montenegro,United Kingdom,+447700900381,RH86 4TQ,ZZ 221166 T,107284570,0,60.7,1.74,A+,1.4,244.0,secondary,47
+Lynne,Lloyd,F,1989-02-26,Puerto Rico,United Kingdom,+447700900570,GU27 9HA,ZZ760811T,116050193,0,93.7,1.45,O+,5.8,481.0,secondary,14
+David,Watkins,M,1999-06-20,Reunion,United Kingdom,(07700) 900329,DG1 7PR,ZZ 56 62 72 T,095232757,0,95.4,1.8,O+,2.8,293.2,secondary,25
+Georgina,Pugh,F,1989-05-14,Iceland,United Kingdom,+44(0)7700900337,B60 1GQ,ZZ 23 94 91 T,128456701,0,57.0,1.98,A+,9.5,470.7,masters,32
+Vanessa,Harrison,F,2001-03-09,Zimbabwe,United Kingdom,+44(0)7700 900869,LU47 5LB,ZZ 02 50 40 T,031639686,0,90.2,1.77,A+,3.5,74.1,other,25
+Jamie,Price,M,1978-12-29,Netherlands,United Kingdom,07700 900915,NN7 4AW,ZZ 35 13 85 T,043444869,0,59.0,1.48,O+,1.9,255.7,secondary,7
+Pamela,Jones,F,1972-03-21,Aruba,United Kingdom,(07700) 900810,ME70 7TT,ZZ 11 31 26 T,047916869,1,97.5,1.94,O+,3.3,40.6,secondary,13
+Michael,Schofield,M,1972-11-19,Liechtenstein,United Kingdom,(07700) 900 245,KY1 9XH,ZZ 478978 T,114430197,0,82.2,1.41,O+,1.5,39.8,secondary,34
+Adam,Thompson,M,1984-02-09,Egypt,United Kingdom,(07700) 900 408,S0B 4EY,ZZ384331T,094535743,0,71.2,1.92,O+,2.7,65.7,secondary,16
+Iain,Thompson,M,1956-12-11,Mexico,United Kingdom,+447700900559,BB2P 2WD,ZZ 37 93 32 T,046599274,0,79.4,1.82,A+,3.8,90.6,masters,5
+Michelle,Richards,F,1957-08-29,Mali,United Kingdom,+44(0)7700 900 577,AL3 7UX,ZZ142963T,064603058,0,85.5,1.56,A-,5.9,136.4,secondary,11
+Harry,Ward,M,1985-11-29,Paraguay,United Kingdom,+44(0)7700900345,CW4A 9XB,ZZ 250700 T,040035103,0,87.0,1.45,B-,3.1,288.8,other,33
+Kyle,Page,M,1984-08-26,Burkina Faso,United Kingdom,(07700) 900 762,HA2 6RA,ZZ488709T,026620820,0,68.2,1.72,O+,2.8,64.4,secondary,48
+Graeme,Taylor,M,1990-11-11,Tajikistan,United Kingdom,+44(0)7700900215,G30 8GD,ZZ919729T,100456004,0,70.3,1.67,O+,4.6,362.1,secondary,45
+Rachael,Archer,F,1975-10-23,Paraguay,United Kingdom,07700900738,CW6 4UR,ZZ 48 48 70 T,099840763,0,56.3,1.85,O+,2.4,80.3,masters,48
+Darren,Ahmed,M,1989-08-23,Austria,United Kingdom,07700 900 404,SL9Y 3WW,ZZ643195T,049852251,0,90.8,1.67,O-,5.8,410.4,other,41
+Christopher,Grant,M,1959-05-18,Monaco,United Kingdom,07700900554,GY5R 9SG,ZZ 29 07 25 T,017493189,0,60.9,1.44,B+,2.6,424.5,primary,48
+Phillip,White,M,1967-09-20,Malta,United Kingdom,07700900129,S6 4NA,ZZ448885T,063620825,0,36.1,1.51,A-,9.3,49.8,other,44
+Mohamed,Harrison,M,1994-03-22,Hungary,United Kingdom,(07700)900708,RH93 5WG,ZZ 357039 T,044261973,0,50.1,1.77,A+,0.2,214.4,secondary,14
+Terence,Reid,M,1986-06-28,Tonga,United Kingdom,+447700900132,BR66 4SQ,ZZ 514070 T,053666608,0,43.5,1.41,A+,6.2,487.1,other,22
+Iain,Hall,M,1994-08-06,Brunei Darussalam,United Kingdom,+44(0)7700 900 450,LN82 1YQ,ZZ013187T,015056243,0,66.9,1.99,A+,7.8,144.2,secondary,34
+Dennis,Davies,M,1996-06-04,Cameroon,United Kingdom,+447700 900 480,G27 8BX,ZZ 625911 T,092434545,0,68.6,1.65,O+,2.9,353.3,secondary,19
+Danielle,Weston,F,1986-12-14,United States of America,United Kingdom,07700900782,G8 5DH,ZZ 793782 T,125278089,0,38.0,1.54,A+,8.1,492.7,other,45
+Luke,Perry,M,1979-04-04,Afghanistan,United Kingdom,07700 900169,OL7 6WQ,ZZ 125022 T,015930602,1,51.2,1.46,O-,2.3,344.9,secondary,37
+Geraldine,Kemp,F,1982-05-25,United States Minor Outlying Islands,United Kingdom,07700 900 925,S0 5ZZ,ZZ497620T,084361516,0,59.6,1.62,O+,2.4,85.9,secondary,17
+Helen,Payne,F,1957-05-05,Christmas Island,United Kingdom,+447700 900 905,TQ87 1BX,ZZ408115T,061702842,0,67.7,1.97,O+,8.7,470.1,masters,36
+Karen,Savage,F,1978-11-14,Cayman Islands,United Kingdom,+447700900222,L95 7RB,ZZ 34 52 35 T,042675927,1,64.4,1.44,A+,1.5,208.7,secondary,31
+Alex,Armstrong,M,1956-10-21,Central African Republic,United Kingdom,+44(0)7700 900 062,B05 0BE,ZZ 922606 T,079532583,0,97.9,1.73,A+,5.9,448.4,secondary,28
+Raymond,Ashton,M,1960-11-10,Bulgaria,United Kingdom,+447700 900 951,YO63 6JR,ZZ 76 91 44 T,095809973,0,61.1,1.55,B-,3.1,186.5,secondary,38
+Terence,White,M,1997-06-19,Gibraltar,United Kingdom,+447700 900 180,S06 6ET,ZZ 722576 T,039481551,0,91.1,1.43,A+,4.5,52.3,secondary,38
+Rachel,Johnson,F,1988-01-21,Niue,United Kingdom,+447700900034,N46 4XS,ZZ 64 63 52 T,031952062,0,81.2,1.52,A+,6.8,439.6,secondary,16
+Gerard,Matthews,M,1961-01-27,Norway,United Kingdom,+44(0)7700900168,NR2E 3GJ,ZZ 82 75 94 T,125164258,0,35.5,1.62,O+,9.2,44.7,secondary,3
+Terry,Knight,M,1978-06-20,Marshall Islands,United Kingdom,+44(0)7700900268,EC6 6UW,ZZ661220T,109813994,0,53.1,1.53,A+,5.8,347.6,bachelor,48
+Douglas,Griffiths,M,2002-09-29,Saint Martin,United Kingdom,+44(0)7700 900 261,B1 7PE,ZZ 759473 T,038818206,0,74.0,1.75,AB+,0.2,348.2,masters,26
+Danny,Baker,M,1991-01-30,Ireland,United Kingdom,+44(0)7700 900 376,BA9 6GT,ZZ 061965 T,048707912,0,41.3,1.67,B-,6.9,45.4,secondary,22
+Wendy,Lee,F,1989-04-02,Mexico,United Kingdom,+44(0)7700 900674,L85 4ZF,ZZ117696T,091473141,0,75.2,1.48,AB+,8.7,251.4,other,28
+Rachel,Evans,F,1962-04-19,Burundi,United Kingdom,+44(0)7700 900029,L0A 8ZU,ZZ 178551 T,110337443,0,97.9,1.95,A+,1.7,194.6,other,16
+Nathan,Bailey,M,1980-01-15,Yemen,United Kingdom,+447700900511,OX6 5RF,ZZ 43 75 46 T,102165872,0,64.0,1.94,A+,6.6,220.1,secondary,35
+Geoffrey,Lynch,M,1981-05-03,Niue,United Kingdom,(07700)900645,TD41 4ET,ZZ 53 25 73 T,026678791,0,38.9,1.44,O-,7.4,449.0,bachelor,27
+Dylan,Quinn,M,1983-01-23,Macao,United Kingdom,(07700) 900735,B1H 6JS,ZZ 90 61 43 T,125212508,1,58.5,1.68,A-,9.8,87.3,secondary,35
+Connor,Watson,M,1956-06-10,Hong Kong,United Kingdom,+447700900021,L1T 3AW,ZZ 618233 T,076706367,0,66.0,1.57,A+,5.1,184.0,secondary,18
+Nicola,Richards,F,1974-03-20,Antarctica (the territory South of 60 deg S),United Kingdom,+44(0)7700 900 555,LE2W 4EE,ZZ029263T,105368812,0,41.3,1.61,O+,6.6,198.6,other,19
+Heather,Webb,F,1988-03-09,British Virgin Islands,United Kingdom,+447700900772,NR52 4RD,ZZ 853735 T,086070863,0,87.8,1.99,O+,7.6,349.1,secondary,9
+Francis,Wilson,M,1972-04-17,El Salvador,United Kingdom,+447700 900723,GL57 8DH,ZZ810250T,069276367,0,63.1,1.71,O+,9.6,58.7,secondary,30
+Rachael,Lucas,F,1982-06-28,Australia,United Kingdom,(07700)900835,S29 9HZ,ZZ037958T,123000233,0,95.8,1.99,A-,3.8,73.9,bachelor,34
+Melissa,Cameron,F,1997-05-25,Czech Republic,United Kingdom,+44(0)7700 900186,RH4X 7HG,ZZ857675T,081231267,0,67.4,1.75,A+,1.7,429.8,secondary,25
+Dale,Walters,M,1970-03-08,Uganda,United Kingdom,(07700)900006,E69 8HA,ZZ 287468 T,091197032,0,98.7,1.65,O+,1.2,135.6,secondary,21
+Anna,Richards,F,1980-05-22,Georgia,United Kingdom,07700 900039,N2 4EY,ZZ436685T,049410253,0,81.4,1.78,A-,4.3,307.3,secondary,41
+Aimee,Jackson,F,1988-11-23,Bahrain,United Kingdom,+447700900765,SS01 9FF,ZZ 16 30 44 T,071545934,0,69.9,1.47,A-,4.1,160.5,primary,37
+Mathew,Freeman,M,1978-12-10,Malawi,United Kingdom,+447700900027,M5 5EZ,ZZ 614918 T,029270837,0,80.7,1.78,O-,1.0,433.6,primary,28
+Kyle,Glover,M,1970-08-27,Christmas Island,United Kingdom,+44(0)7700900363,W5C 5XH,ZZ 75 24 80 T,025450198,0,58.7,1.51,A+,5.2,421.4,secondary,13
+Thomas,Harris,M,1963-09-10,Chad,United Kingdom,+44(0)7700900438,N7B 8XS,ZZ 19 75 24 T,046400046,0,49.4,1.46,A+,0.7,32.8,phD,10
+Lisa,Taylor,F,2000-11-19,Germany,United Kingdom,(07700)900840,EH8E 9BR,ZZ493458T,087165285,0,64.7,1.49,A+,4.3,264.1,secondary,40
+Margaret,Wilson,F,1988-05-15,Hungary,United Kingdom,07700 900 314,G2 0QW,ZZ183744T,076702853,0,36.9,1.94,A-,8.8,345.4,other,38
+Oliver,Smith,M,1970-12-13,South Georgia and the South Sandwich Islands,United Kingdom,(07700) 900228,NP0 3SG,ZZ 82 92 38 T,050730621,0,59.5,1.62,A+,5.0,340.9,secondary,27
+Karl,Lowe,M,1970-05-08,Hungary,United Kingdom,+447700900871,E80 0JR,ZZ465641T,039330084,0,38.0,1.98,A+,1.8,306.4,secondary,44
+Janet,Marshall,F,1972-10-31,Korea,United Kingdom,+44(0)7700900298,AL9 5QQ,ZZ842073T,106574728,1,68.0,1.58,O+,9.3,260.4,secondary,44
+Frank,Little,M,2003-08-05,United States Minor Outlying Islands,United Kingdom,(07700)900596,PA68 9JH,ZZ348282T,108887549,0,51.1,1.59,O+,4.6,222.3,secondary,44
+Alexandra,Atkins,F,2000-02-28,Mali,United Kingdom,07700 900 347,BR0H 4AH,ZZ 92 59 40 T,110092432,1,59.5,1.98,O+,6.8,122.4,secondary,10
+Lynn,West,F,1980-08-11,Togo,United Kingdom,(07700)900196,B2 9XL,ZZ363522T,082998693,0,64.5,1.7,O+,8.4,69.5,secondary,42
+Aimee,Singh,F,1971-04-26,Australia,United Kingdom,07700 900 069,G8 6NP,ZZ 930525 T,114779544,0,45.2,1.58,A+,4.2,53.8,bachelor,14
+Josephine,Hamilton,F,1966-10-01,Ukraine,United Kingdom,07700 900848,JE9R 2ZS,ZZ 19 12 74 T,111644151,0,98.4,1.96,A-,2.4,125.2,secondary,4
+Kathryn,Mason,F,1960-12-22,Algeria,United Kingdom,07700 900 902,S6 0PF,ZZ 69 30 36 T,010962840,0,59.5,1.89,O+,9.5,176.0,phD,39
+Dennis,Gibbons,M,1993-01-25,Azerbaijan,United Kingdom,+44(0)7700900782,G3K 1YU,ZZ443600T,091042284,0,53.8,1.92,A+,2.1,91.5,secondary,38
+Mary,Singh,F,1963-09-07,Zimbabwe,United Kingdom,(07700)900052,PA1 5HL,ZZ577881T,025766879,0,35.0,1.66,A+,2.1,466.2,secondary,43
+Julia,Pickering,F,1960-12-04,United States of America,United Kingdom,(07700) 900 268,CT1 2BR,ZZ 911849 T,055769590,0,74.4,1.47,O+,6.4,406.0,secondary,46
+Donald,Lewis,M,1971-09-12,Singapore,United Kingdom,+447700900065,TQ8 3YD,ZZ156938T,018810952,0,81.5,1.65,A+,1.1,408.7,secondary,44
+Nicola,Hewitt,F,1968-02-16,Guam,United Kingdom,(07700) 900776,L7 2BU,ZZ 264973 T,017992978,0,59.3,1.71,O+,7.4,2.6,bachelor,46
+Sally,Whitehead,F,1985-02-23,Mongolia,United Kingdom,+44(0)7700 900286,EC56 3HL,ZZ 89 57 39 T,069253241,0,66.4,1.48,A-,9.4,461.7,secondary,18
+Harriet,Lord,F,2003-11-04,Russian Federation,United Kingdom,+44(0)7700 900 177,G95 1XU,ZZ 46 48 35 T,075003391,1,44.6,1.55,O+,4.9,449.5,secondary,28
+Jonathan,Baker,M,1987-01-29,Belgium,United Kingdom,(07700) 900847,TW56 1BP,ZZ 49 87 48 T,077531117,0,64.0,1.66,A-,9.1,365.9,bachelor,16
+Tina,Scott,F,2000-10-23,Mozambique,United Kingdom,+447700900591,L0A 4DY,ZZ299834T,052293221,0,86.7,1.61,O+,7.4,70.8,phD,23
+Geoffrey,Smith,M,1976-07-17,Cameroon,United Kingdom,+44(0)7700900943,G6 3YA,ZZ872419T,124930234,0,71.9,1.77,B+,8.7,313.9,secondary,22
+Carly,Davies,F,1984-05-07,Brunei Darussalam,United Kingdom,07700900780,N3S 7PT,ZZ 43 15 74 T,068943484,0,48.7,1.44,O+,9.2,60.1,secondary,10
+Dominic,Collins,M,1981-06-12,Brazil,United Kingdom,+44(0)7700 900 182,WR7E 4XH,ZZ 14 75 68 T,015668288,0,38.7,1.99,A+,8.6,283.3,secondary,18
+Ruth,Wyatt,F,1958-04-04,Gambia,United Kingdom,+44(0)7700 900 789,DL73 1EX,ZZ187203T,043196612,0,77.7,1.71,B+,9.0,277.3,masters,37
+Henry,Kelly,M,1969-05-31,Cuba,United Kingdom,+447700 900131,G9D 9RL,ZZ 790553 T,120373837,0,49.1,1.94,A+,3.3,49.9,secondary,41
+Paul,Wilkins,M,1986-10-07,Latvia,United Kingdom,07700 900944,HP41 7QZ,ZZ 132630 T,084285210,0,56.5,1.89,A+,2.3,34.4,bachelor,21
+Conor,Storey,M,2002-05-26,Saint Kitts and Nevis,United Kingdom,07700 900533,NE6 6BF,ZZ142839T,085292969,0,56.8,1.84,O+,2.2,486.9,secondary,16
+Wayne,Cox,M,1963-11-02,Western Sahara,United Kingdom,07700900278,DD04 9DQ,ZZ 117380 T,019174943,0,66.2,1.71,O+,8.9,110.1,bachelor,7
+Bruce,Moore,M,1981-07-02,Central African Republic,United Kingdom,(07700) 900 198,W30 2ZF,ZZ 299211 T,051497947,0,55.6,1.69,O+,0.7,439.6,bachelor,10
+Leah,Burton,F,1958-09-18,Russian Federation,United Kingdom,07700 900270,HP4 6AN,ZZ 331923 T,093750464,0,100.0,1.52,O+,2.9,152.1,bachelor,46
+Leah,Reynolds,F,1964-09-05,Russian Federation,United Kingdom,(07700)900986,M17 3LN,ZZ 52 70 67 T,014896792,0,71.3,1.95,B+,8.7,417.0,secondary,39
+Glen,Reid,M,1969-02-19,Central African Republic,United Kingdom,07700 900 416,EN3R 4WR,ZZ 97 42 03 T,064106458,0,49.9,1.7,O+,1.0,257.5,other,13
+Dorothy,Atkinson,F,1968-12-28,Greenland,United Kingdom,+447700 900 213,TA7 2QS,ZZ659118T,082108674,0,35.7,1.69,O+,0.4,439.8,secondary,3
+Terence,Leach,M,1962-06-19,Italy,United Kingdom,07700 900 492,FY8 8PA,ZZ 01 55 73 T,045974829,1,72.9,1.46,A+,4.6,10.5,secondary,25
+Eric,Matthews,M,1962-12-01,Albania,United Kingdom,07700 900534,E8U 1EX,ZZ 403127 T,032742792,0,84.0,1.54,O+,6.4,474.3,masters,43
+James,Moore,M,1956-12-31,British Virgin Islands,United Kingdom,07700 900416,M63 9WX,ZZ260969T,044585772,0,99.7,1.48,B+,0.7,471.9,other,37
+Malcolm,Ward,M,1967-01-14,Colombia,United Kingdom,(07700) 900 750,LN9 3AE,ZZ823695T,092076770,0,52.2,1.48,O+,1.4,158.4,bachelor,37
+Jeffrey,Brown,M,1994-06-25,Costa Rica,United Kingdom,07700 900721,NE8P 3DS,ZZ 87 50 39 T,056784105,0,77.4,1.91,B+,9.7,132.8,primary,25
+Samuel,Ward,M,1999-09-02,Isle of Man,United Kingdom,+447700 900 347,NR06 7FR,ZZ 669947 T,095469258,0,50.1,1.59,O+,7.2,279.0,bachelor,22
+Jack,Douglas,M,1985-11-21,Georgia,United Kingdom,07700 900353,BB95 2UD,ZZ 29 03 20 T,118662466,0,68.2,1.45,A+,9.7,429.5,secondary,2
+Beverley,Kemp,F,1992-01-18,Argentina,United Kingdom,07700900721,CH7Y 4NR,ZZ 94 57 10 T,114374839,0,47.1,1.81,A+,2.6,487.5,bachelor,27
+Roy,Hawkins,M,1984-09-27,Armenia,United Kingdom,07700 900 150,HA0 0ZB,ZZ 92 71 92 T,018211195,0,44.2,1.98,O+,6.2,21.5,bachelor,46
+Joyce,Clark,F,1962-09-14,Vietnam,United Kingdom,+447700 900611,SP78 8EF,ZZ682180T,128316582,0,42.8,1.85,O+,1.0,379.5,primary,48
+Georgia,Moore,F,1994-10-21,Mauritius,United Kingdom,+447700 900 439,CA2W 5NQ,ZZ 500024 T,123221779,0,54.2,1.96,A+,8.3,492.6,masters,27
+Brett,Harvey,M,1973-08-19,Svalbard & Jan Mayen Islands,United Kingdom,07700900025,HG3X 8UF,ZZ 453193 T,066146856,0,63.5,1.52,B+,3.6,81.8,secondary,15
+Christine,Todd,F,1971-08-25,India,United Kingdom,07700 900 684,M04 5SA,ZZ 432458 T,111273991,0,93.9,1.89,O+,8.5,481.2,secondary,32
+Naomi,Ford,F,1975-04-18,Suriname,United Kingdom,+44(0)7700900040,G5 6JY,ZZ 308378 T,117995558,1,74.2,1.48,O+,0.0,99.5,other,18
+Amy,Vaughan,F,1957-01-10,Italy,United Kingdom,(07700)900273,SL6W 3ZU,ZZ622667T,123412902,0,96.6,1.84,A+,7.9,54.1,secondary,13
+Kathleen,Walker,F,1968-06-13,Bolivia,United Kingdom,07700900426,NE6 8SU,ZZ149544T,124698071,0,60.8,1.57,B-,3.5,353.2,primary,32
+Brandon,Lewis,M,1990-01-22,Cook Islands,United Kingdom,+447700 900 460,S8 4AA,ZZ685878T,088792903,0,87.0,1.97,A+,8.3,52.0,bachelor,38
+Leon,Evans,M,1976-11-02,Jersey,United Kingdom,07700 900312,W2H 7FU,ZZ758305T,094689149,0,93.0,1.46,A+,5.9,217.8,masters,46
+Gary,Heath,M,1965-10-13,Bahrain,United Kingdom,(07700)900300,LN19 2TY,ZZ 94 14 52 T,085051197,0,66.6,1.75,AB+,7.0,194.8,secondary,47
+Declan,Griffiths,M,2000-08-15,Gambia,United Kingdom,+44(0)7700 900 520,SY7P 3DS,ZZ767626T,046341273,0,95.2,1.8,B+,2.0,183.7,bachelor,33
+Georgia,Evans,F,1986-07-03,Guam,United Kingdom,(07700) 900 272,HR3R 1XY,ZZ 752152 T,055116554,0,88.0,1.95,A+,3.7,189.9,bachelor,34
+Dean,Ross,M,1955-12-29,Comoros,United Kingdom,+44(0)7700 900422,G7D 8LE,ZZ 61 67 72 T,122012167,0,60.9,1.59,O-,8.9,430.2,bachelor,19
+Katy,Norman,F,1975-01-13,Belgium,United Kingdom,+44(0)7700 900 913,ZE4P 8TL,ZZ264221T,048571588,0,41.4,1.88,A+,8.2,403.8,secondary,32
+Kirsty,Roberts,F,1976-06-17,Kuwait,United Kingdom,07700 900 252,DT31 7SE,ZZ315233T,108575974,0,44.6,1.86,O+,9.8,491.1,other,8
+Tina,Fleming,F,1974-04-05,Singapore,United Kingdom,(07700) 900099,M38 4TG,ZZ 07 88 89 T,108665952,0,64.8,1.85,A+,5.7,92.9,secondary,8
+Geoffrey,Watkins,M,1989-07-13,Cameroon,United Kingdom,+447700900072,E8 2EB,ZZ431032T,066895631,0,62.6,1.8,A-,0.9,31.3,secondary,10
+Lynn,Peters,F,1996-06-21,Saint Pierre and Miquelon,United Kingdom,(07700) 900 907,AL6E 1YF,ZZ447586T,085484780,0,87.4,1.75,O+,5.1,485.9,secondary,40
+Zoe,Alexander,F,1978-09-16,Venezuela,United Kingdom,+447700 900 403,LL4P 2GU,ZZ 29 31 48 T,092927175,0,97.1,1.76,A+,4.2,390.8,bachelor,46
+Harry,Williams,M,1968-05-22,Brazil,United Kingdom,07700 900 801,SR1W 2YH,ZZ 551167 T,035983930,0,64.9,1.74,O-,9.8,430.8,secondary,45
+Hilary,Pearce,F,1996-12-04,France,United Kingdom,07700 900261,ZE3Y 2LL,ZZ 527581 T,026003560,0,37.3,1.86,B+,7.9,374.0,masters,16
+Catherine,Roberts,F,1984-12-24,Myanmar,United Kingdom,07700 900517,W4D 0QP,ZZ 18 47 09 T,112289573,0,65.8,1.81,A+,1.0,146.1,other,9
+Denis,Townsend,M,1982-05-26,Svalbard & Jan Mayen Islands,United Kingdom,(07700) 900740,WF07 2NP,ZZ927709T,062604295,0,56.5,1.59,O-,8.5,191.4,primary,42
+Tracy,Ferguson,F,1990-09-22,Tonga,United Kingdom,+447700 900826,CO8 9GD,ZZ 31 37 30 T,075459479,0,99.7,1.46,O+,2.9,217.7,masters,35
+Jayne,Morris,F,1958-07-02,Georgia,United Kingdom,+447700 900637,S5 9QN,ZZ 24 31 56 T,034492600,0,41.4,1.93,O+,7.1,26.9,secondary,10
+Charlene,Watson,F,1961-03-05,Swaziland,United Kingdom,07700900661,L8 3PT,ZZ 912299 T,100743801,0,92.4,1.98,O+,9.9,307.4,primary,3
+Louis,Ford,M,2000-01-16,Australia,United Kingdom,+44(0)7700 900 327,DH8M 2QX,ZZ 95 48 39 T,050965153,0,91.3,1.98,A+,0.4,456.6,secondary,29
+Olivia,Mason,F,1979-06-08,Swaziland,United Kingdom,07700 900492,BD0 0SJ,ZZ974029T,088100126,0,78.3,1.64,O+,5.3,118.8,secondary,14
+Lynn,Cooper,F,1967-10-26,Saint Martin,United Kingdom,(07700) 900 810,S6 2RA,ZZ 568385 T,103067801,0,96.7,1.82,O+,1.7,187.0,secondary,35
+Oliver,Haynes,M,1968-05-31,Mongolia,United Kingdom,(07700) 900 303,M5 4FG,ZZ 640619 T,082636625,0,58.1,1.89,O+,0.8,39.1,secondary,39
+Heather,Mistry,F,1998-04-13,Portugal,United Kingdom,(07700)900098,L86 3YD,ZZ 122405 T,022989280,0,84.9,1.57,O+,5.4,369.8,other,15
+Lynne,Smith,F,1980-10-28,Burundi,United Kingdom,07700 900 837,PO4P 3YL,ZZ 51 47 54 T,014154353,0,72.7,1.86,O-,0.4,73.7,masters,6
+Megan,Smith,F,1969-06-13,Comoros,United Kingdom,+44(0)7700 900618,SG2 6AX,ZZ 086143 T,094118681,0,52.8,1.82,A+,8.7,222.2,secondary,28
+Stacey,Gardner,F,1964-03-09,France,United Kingdom,+44(0)7700900427,EH8 1UH,ZZ645127T,115821763,0,41.6,1.59,A+,5.6,159.0,other,48
+Jodie,Newton,F,1997-05-18,Georgia,United Kingdom,+447700 900240,SM17 1ER,ZZ 41 69 48 T,019066857,0,99.0,1.93,O+,3.1,182.8,secondary,25
+Pauline,Shah,F,1972-08-03,Central African Republic,United Kingdom,+44(0)7700 900118,G4F 8JS,ZZ 99 25 20 T,062185934,0,42.7,1.42,O-,5.4,100.1,bachelor,33
+Lee,Hunter,M,1994-02-16,Uzbekistan,United Kingdom,07700 900789,ME4N 3BR,ZZ853954T,121720175,0,38.9,1.53,A+,1.9,342.7,primary,7
+Owen,White,M,1978-09-02,Equatorial Guinea,United Kingdom,+447700 900055,EH5Y 5RH,ZZ 69 84 69 T,018150625,0,54.4,1.55,O+,10.0,267.0,other,21
+Jordan,Lee,M,1959-05-05,Palestinian Territory,United Kingdom,+447700900435,E36 4AD,ZZ463270T,030290152,0,54.2,1.7,O+,4.6,467.6,phD,36
+Richard,King,M,1971-04-13,Luxembourg,United Kingdom,(07700) 900495,SA8N 9WB,ZZ 23 31 21 T,019819965,0,60.8,1.82,A+,1.0,453.9,bachelor,32
+Carole,Brooks,F,1982-10-20,American Samoa,United Kingdom,+44(0)7700900985,NE3E 8NR,ZZ 807993 T,074841596,0,66.4,1.93,O-,2.7,303.8,secondary,28
+Lindsey,Simpson,F,2003-04-06,Malawi,United Kingdom,(07700) 900771,M5T 6PA,ZZ 59 18 39 T,110004718,0,98.9,1.94,B+,8.2,384.5,bachelor,17
+Garry,King,M,1957-04-01,Luxembourg,United Kingdom,+44(0)7700900348,TN4 6ZT,ZZ450999T,051512673,0,89.8,1.41,O+,4.4,449.0,secondary,25
+Holly,Bradley,F,1974-10-31,Niger,United Kingdom,+44(0)7700 900328,LL47 1GX,ZZ 45 55 06 T,115247088,0,81.3,1.9,A+,2.9,19.0,other,34
+Tina,Stokes,F,1974-04-10,Senegal,United Kingdom,+44(0)7700 900 515,W9 5ZN,ZZ 470723 T,063106763,0,87.1,1.62,A+,3.8,328.9,secondary,45
+Josephine,Taylor,F,1958-05-22,Greece,United Kingdom,07700 900 074,G71 8BL,ZZ 20 04 68 T,119415793,0,47.6,1.47,A+,2.3,223.4,masters,13
+Leslie,Phillips,M,1971-08-22,Australia,United Kingdom,+44(0)7700900837,B6F 8HE,ZZ 308523 T,107876276,0,78.4,1.88,O+,9.8,294.3,primary,12
+Wayne,Thompson,M,1980-06-08,Zimbabwe,United Kingdom,+44(0)7700 900454,S00 2ZP,ZZ 200829 T,031228262,0,85.2,1.65,O+,7.9,158.6,other,33
+Georgina,Brown,F,1975-07-03,Guatemala,United Kingdom,+44(0)7700 900 039,N5 1YQ,ZZ163594T,033829287,0,83.2,1.86,O-,1.5,279.1,secondary,46
+William,Newton,M,1995-07-18,Moldova,United Kingdom,+44(0)7700 900919,N47 7GR,ZZ515242T,067155451,1,91.9,1.44,B+,7.2,369.1,other,40
+Keith,Carroll,M,1969-12-21,Cook Islands,United Kingdom,07700900979,SE93 5FA,ZZ691064T,103609366,0,80.6,1.48,A+,4.8,149.1,phD,30
+Mohammad,Hewitt,M,1989-06-26,Nepal,United Kingdom,+447700 900 660,DD2 1WZ,ZZ296324T,017575832,0,87.3,2.0,O+,4.1,63.7,masters,5
+Dean,Swift,M,1957-11-01,Liechtenstein,United Kingdom,+44(0)7700900243,AL4 3AJ,ZZ 624983 T,036975798,0,97.4,1.78,O+,0.4,257.2,secondary,18
+Joseph,Holland,M,1996-09-01,Indonesia,United Kingdom,+44(0)7700 900654,M74 9JT,ZZ 27 70 63 T,094614428,0,58.3,1.66,O+,7.2,158.8,secondary,3
+Keith,Mitchell,M,1976-10-20,Bulgaria,United Kingdom,07700900539,G0B 4YN,ZZ204951T,074598849,0,83.1,1.78,O+,7.7,428.3,bachelor,49
+Michelle,Hunt,F,1993-10-26,Sudan,United Kingdom,07700 900 056,W5S 1SS,ZZ 194852 T,010265055,0,73.2,1.42,AB-,1.3,370.2,masters,20
+Mohammed,Lewis,M,1996-03-14,Iran,United Kingdom,+447700900119,L3F 2BD,ZZ 53 69 16 T,045112432,0,83.7,1.67,O+,9.2,73.3,other,22
+Hugh,Newman,M,1967-07-15,Cuba,United Kingdom,+447700 900 633,M6 8EZ,ZZ548379T,049091465,0,99.4,1.52,O+,1.1,325.5,masters,35
+Danny,Spencer,M,1958-06-09,Bolivia,United Kingdom,(07700)900519,CB3 9DE,ZZ725323T,030907788,0,60.6,1.75,O+,9.3,26.8,secondary,7
+Martyn,Smith,M,1972-09-24,Cuba,United Kingdom,+44(0)7700 900 152,GY1R 3UL,ZZ372939T,075646224,0,67.9,1.78,O+,8.9,494.5,bachelor,43
+Hilary,Freeman,F,1963-05-16,South Georgia and the South Sandwich Islands,United Kingdom,(07700) 900 959,AB4 3RJ,ZZ950506T,120980000,0,91.9,1.43,A+,2.7,231.0,bachelor,7
+Yvonne,Nolan,F,1976-05-10,Korea,United Kingdom,(07700)900086,S4 5BB,ZZ190819T,090399640,0,47.0,1.65,B-,4.5,399.9,other,40
+Adam,Griffiths,M,1964-03-01,Tokelau,United Kingdom,07700900833,PL46 0WW,ZZ132671T,043126763,0,39.3,1.54,A+,2.0,264.2,bachelor,25
+Pamela,Jenkins,F,1968-12-14,Mayotte,United Kingdom,07700 900 862,ME9E 4RY,ZZ796583T,024883546,0,84.6,1.92,O+,4.6,298.1,secondary,29
+Trevor,Taylor,M,1985-06-12,Faroe Islands,United Kingdom,(07700) 900655,E44 1JS,ZZ 253673 T,058561973,0,80.2,1.46,A+,8.5,385.5,secondary,20
+Beverley,Davies,F,1967-03-25,Northern Mariana Islands,United Kingdom,07700 900844,S6 0ZG,ZZ 66 56 60 T,057990105,0,74.9,1.53,A+,4.3,336.3,masters,43
+Keith,Hunt,M,1993-12-11,Dominica,United Kingdom,07700900562,M7D 4FZ,ZZ 32 00 74 T,058067927,0,57.0,1.51,O+,7.7,258.4,other,9
+Karen,Thompson,F,1956-07-08,Maldives,United Kingdom,+447700 900 515,W8 4RB,ZZ772318T,091838650,0,45.6,1.82,A+,5.7,210.1,bachelor,45
+Valerie,Wilson,F,1996-07-16,Bahamas,United Kingdom,(07700)900419,G1H 7QL,ZZ208226T,123498900,0,37.1,1.59,B-,4.2,115.6,secondary,47
+Richard,Wilson,M,1994-11-02,Seychelles,United Kingdom,+44(0)7700 900547,PO4M 5FD,ZZ 781122 T,066384553,0,35.2,1.91,A+,2.0,127.6,phD,12
+Pamela,Buckley,F,1956-08-18,Maldives,United Kingdom,07700 900619,KT7B 7FR,ZZ 268056 T,054219782,0,95.3,1.47,A+,7.4,98.0,secondary,10
+Charles,Johnston,M,1996-05-29,Comoros,United Kingdom,+447700900037,SR8P 8XB,ZZ 348340 T,095462035,0,42.1,1.59,B+,0.2,194.2,secondary,26
+Dorothy,Hodgson,F,1969-12-23,Kiribati,United Kingdom,(07700) 900006,NR02 5SJ,ZZ685921T,063066450,0,40.2,1.76,O+,2.4,381.0,phD,41
+Lewis,Pollard,M,1971-12-25,Mongolia,United Kingdom,+44(0)7700 900 907,L42 7JB,ZZ 36 66 02 T,104409345,0,47.5,1.56,O+,3.8,351.7,secondary,9
+Norman,Palmer,M,1997-08-14,Peru,United Kingdom,+44(0)7700900517,DT9 1QT,ZZ 44 10 19 T,073737863,0,97.3,1.52,O+,2.7,443.6,secondary,34
+Garry,Jones,M,1966-11-05,Cape Verde,United Kingdom,07700 900 871,RG52 9ZP,ZZ937602T,054846906,1,80.5,1.91,O+,4.8,310.9,secondary,25
+Jill,Morgan,F,1960-07-27,Latvia,United Kingdom,(07700) 900785,PR14 6TQ,ZZ275149T,049284120,0,46.1,1.66,A+,0.7,422.2,masters,28
+Sarah,Carr,F,1995-08-29,Saint Lucia,United Kingdom,+44(0)7700 900878,FY20 5NS,ZZ 00 36 10 T,077931403,0,84.8,1.56,A-,2.2,394.5,secondary,42
+Angela,Jones,F,1959-02-06,Bangladesh,United Kingdom,07700 900 427,L33 0TU,ZZ210900T,113640742,0,87.7,1.78,O-,7.5,280.6,masters,15
+Carol,Humphreys,F,1961-05-03,Heard Island and McDonald Islands,United Kingdom,+44(0)7700900583,L8J 8JG,ZZ 51 14 66 T,094821567,0,97.9,1.54,A+,3.3,251.3,primary,29
+Elizabeth,Perry,F,1968-07-27,Suriname,United Kingdom,07700 900 680,M9T 3AB,ZZ 03 51 14 T,057016348,0,75.5,1.97,O-,8.2,303.9,secondary,3
+Abigail,Poole,F,1996-02-09,Nepal,United Kingdom,+44(0)7700900128,N5 5BD,ZZ454027T,063316582,1,88.2,1.6,A+,7.8,372.0,other,44
+Joyce,Ford,F,1967-11-12,Northern Mariana Islands,United Kingdom,+44(0)7700 900 381,SO8 0QH,ZZ993781T,083595590,0,66.4,1.59,B-,3.0,430.9,masters,17
+Rosie,Lyons,F,1957-07-25,Suriname,United Kingdom,+447700 900 156,IG32 6RX,ZZ331632T,040561198,0,94.1,1.51,O+,9.7,87.6,secondary,35
+Harriet,Richards,F,1980-09-19,Cape Verde,United Kingdom,07700900576,GU4 6GT,ZZ 272685 T,061025532,0,74.6,1.53,B+,1.1,160.7,secondary,23
+Helen,Edwards,F,1975-08-05,Guyana,United Kingdom,+44(0)7700 900 017,NR9H 7UD,ZZ 13 39 35 T,060440590,0,61.1,1.77,O-,1.3,458.9,secondary,25
+Robert,Ward,M,1983-11-03,Belgium,United Kingdom,+44(0)7700900682,LE7V 0QA,ZZ 77 03 80 T,111616273,0,57.6,1.67,O+,9.6,259.5,phD,31
+Gerard,Swift,M,1976-07-26,Montenegro,United Kingdom,+447700 900 080,L2K 7GT,ZZ 08 08 77 T,074759989,0,61.9,1.71,A+,1.5,300.1,secondary,42
+Toby,Parkinson,M,1967-06-21,Montserrat,United Kingdom,+44(0)7700 900077,FK63 0PR,ZZ399083T,105324885,0,40.4,1.96,A+,1.4,431.3,secondary,34
+Diana,Clayton,F,1998-03-28,United States Virgin Islands,United Kingdom,07700 900463,N6 6XU,ZZ 46 55 65 T,074037533,0,97.2,1.83,A+,5.6,359.1,masters,3
+Joanne,Saunders,F,1981-06-03,Tokelau,United Kingdom,+447700 900 396,S51 3ND,ZZ 41 32 39 T,126542387,0,83.5,1.71,B+,5.5,352.3,other,32
+Mandy,Bailey,F,1964-10-30,Libyan Arab Jamahiriya,United Kingdom,+44(0)7700 900910,WC7 3WX,ZZ 54 22 56 T,124577626,0,39.4,1.7,A+,2.9,178.0,secondary,30
+Hilary,Price,F,1973-11-10,Serbia,United Kingdom,+447700 900 670,YO7 0PU,ZZ711844T,106571572,0,43.4,1.44,O+,1.9,4.6,other,28
+Brandon,Ali,M,1958-02-17,Indonesia,United Kingdom,+447700900505,W8 3BN,ZZ 839831 T,096180455,0,98.9,1.67,A+,1.2,190.8,phD,9
+Judith,Bentley,F,2002-07-14,Saint Lucia,United Kingdom,07700900890,S4H 9XJ,ZZ233733T,055395210,0,64.7,1.79,A+,6.1,472.2,secondary,37
+Lorraine,O'Connor,F,1969-11-16,Switzerland,United Kingdom,+44(0)7700 900 936,W49 1NH,ZZ 05 17 44 T,086438586,0,35.4,1.41,O+,9.4,322.1,bachelor,26
+Katy,Griffiths,F,1998-07-12,Greece,United Kingdom,+447700 900 518,W99 8QL,ZZ 221214 T,013856856,0,92.0,1.86,AB-,3.0,113.5,secondary,48
+Michelle,Harrison,F,1990-02-16,Romania,United Kingdom,+44(0)7700 900 703,S0G 9XX,ZZ 11 56 84 T,113772995,0,70.9,1.65,A+,1.6,481.7,secondary,47
+Gareth,Reynolds,M,1987-10-20,Solomon Islands,United Kingdom,(07700)900105,LE2 0DT,ZZ 74 82 29 T,023827011,0,43.4,1.4,O+,1.1,361.0,bachelor,10
+Jayne,Parsons,F,1978-09-28,Japan,United Kingdom,(07700)900316,LU9W 9ZY,ZZ405871T,118419509,0,54.4,1.83,O+,3.4,187.8,secondary,32
+Eileen,Miller,F,1977-01-10,Panama,United Kingdom,07700900573,WA58 5PY,ZZ376995T,076732700,0,91.9,1.42,O+,4.1,395.6,bachelor,25
+Alison,Thomas,F,1955-12-24,Cayman Islands,United Kingdom,07700 900283,ST1X 6HW,ZZ 26 21 65 T,093701138,0,87.7,1.69,O+,2.5,302.5,secondary,30
+Marcus,Webb,M,1994-02-16,Western Sahara,United Kingdom,+44(0)7700900191,G4 9WF,ZZ499935T,052725333,0,62.1,1.66,A+,1.3,19.6,primary,15
+Philip,Morris,M,1982-09-07,Lebanon,United Kingdom,+447700 900 092,B4B 6BF,ZZ 41 30 97 T,076734151,0,65.9,1.94,A+,1.8,169.3,bachelor,43
+Duncan,Pugh,M,1997-09-07,Thailand,United Kingdom,07700 900 019,W7D 8AL,ZZ 03 58 40 T,075333508,0,39.0,1.89,A-,5.7,491.8,primary,9
+Dorothy,Ellis,F,1959-03-30,Benin,United Kingdom,(07700) 900 591,S4S 2TT,ZZ391882T,121592141,0,85.0,1.72,AB+,4.0,301.0,secondary,22
+Alexandra,Howe,F,1969-12-18,Burkina Faso,United Kingdom,07700 900334,TN0 2XU,ZZ211398T,043273797,0,96.3,1.81,A+,7.7,41.6,other,4
+Mandy,Webb,F,1980-07-22,Jamaica,United Kingdom,+447700900206,TR9W 9FR,ZZ883353T,107069708,0,84.3,1.4,A+,7.5,266.2,secondary,21
+Mathew,Potter,M,1977-05-06,Tajikistan,United Kingdom,07700900057,S4 3AU,ZZ 37 49 44 T,019541097,0,78.4,1.9,B+,3.9,72.0,masters,36
+James,Hutchinson,M,1959-02-02,Canada,United Kingdom,07700 900044,BS1B 9ZB,ZZ 559970 T,099764904,0,78.2,1.5,A+,3.2,297.8,secondary,35
+Alice,Evans,F,1977-10-03,Chile,United Kingdom,+447700 900 360,M9 4FZ,ZZ 64 30 09 T,037923956,0,43.7,1.91,O+,7.4,352.3,other,16
+Leanne,Waters,F,1990-01-13,Qatar,United Kingdom,07700 900873,EX0 9NY,ZZ345844T,077116325,0,60.7,1.54,A+,9.5,146.3,secondary,30
+Glenn,Robinson,M,2002-01-29,Sweden,United Kingdom,(07700) 900 458,RM79 3XT,ZZ139749T,020013860,0,89.2,1.54,B+,6.1,272.8,other,35
+Gail,Singh,F,1990-01-30,Bhutan,United Kingdom,07700 900747,WS04 5ZU,ZZ 83 07 93 T,049304165,1,61.9,1.61,A+,1.8,118.6,secondary,38
+Judith,Morgan,F,1979-05-28,Cambodia,United Kingdom,+44(0)7700 900 672,CW30 7TE,ZZ 549240 T,048443179,0,88.3,1.54,A+,7.1,196.4,primary,23
+Amy,Watson,F,1989-01-12,San Marino,United Kingdom,(07700)900248,B3 5XG,ZZ534380T,116446419,0,56.6,1.99,O+,3.7,51.0,masters,36
+Aimee,Tomlinson,F,1995-09-30,Zambia,United Kingdom,07700900380,G9W 2GY,ZZ079483T,115133228,0,42.5,1.83,A+,1.8,159.9,masters,28
+Bradley,Lewis,M,1976-09-19,Kiribati,United Kingdom,(07700) 900353,W72 6RL,ZZ 54 72 66 T,086390491,0,79.5,1.72,O+,2.2,423.9,bachelor,36
+Amber,Reid,F,2000-09-02,Liberia,United Kingdom,+44(0)7700 900 069,G0A 2DB,ZZ504616T,075332978,0,92.3,1.4,A+,5.9,155.7,secondary,15
+Alex,Sinclair,M,1986-08-23,Marshall Islands,United Kingdom,+44(0)7700900291,TF4R 2NX,ZZ 85 69 51 T,067012248,0,72.0,1.87,O+,8.4,207.3,secondary,46
+Valerie,Wallace,F,1972-03-06,Central African Republic,United Kingdom,(07700)900583,B83 5GR,ZZ737864T,041876947,0,70.2,1.61,AB+,0.1,306.1,bachelor,16
+Sally,Hopkins,F,1966-02-19,Norway,United Kingdom,(07700) 900 782,W2 2AJ,ZZ 39 05 57 T,055955142,0,94.5,1.41,O+,2.9,424.5,bachelor,28
+Elliott,Gibbons,M,1960-11-30,Portugal,United Kingdom,+447700 900959,TN6 1AF,ZZ 953018 T,024664574,0,76.1,1.97,O+,9.7,480.8,bachelor,26
+Robert,Miller,M,1971-12-07,Faroe Islands,United Kingdom,+44(0)7700900565,E1 5YF,ZZ 049493 T,118583325,0,36.8,1.47,A+,7.6,169.8,bachelor,31
+Mohammad,Williams,M,1981-07-18,Svalbard & Jan Mayen Islands,United Kingdom,+44(0)7700900214,SR6N 4SP,ZZ 306251 T,033827496,0,76.9,1.96,O+,6.1,33.9,other,27
+Gemma,Williams,F,1985-12-01,Mauritania,United Kingdom,07700900861,L7S 8PX,ZZ 00 49 62 T,043969823,0,62.4,1.55,A+,7.9,311.9,secondary,3
+Anne,King,F,1972-04-25,Uzbekistan,United Kingdom,07700 900903,E1S 3JF,ZZ 56 86 15 T,101561859,1,49.1,1.42,O+,9.5,455.2,bachelor,17
+Richard,Tucker,M,1959-03-14,French Polynesia,United Kingdom,(07700) 900021,HU4 7SH,ZZ 311627 T,108788208,0,67.0,1.48,A+,2.8,61.8,secondary,46
+Sophie,Brown,F,1966-05-08,Costa Rica,United Kingdom,(07700)900901,M2E 6ER,ZZ 048469 T,067400724,0,35.4,1.57,A-,7.8,483.5,secondary,35
+Helen,Benson,F,1970-03-10,El Salvador,United Kingdom,(07700) 900 183,DG8M 4TU,ZZ 963303 T,062430867,0,76.4,1.45,A+,9.1,100.5,masters,35
+Dennis,Henderson,M,1970-05-24,Bulgaria,United Kingdom,(07700) 900120,BL2 8EE,ZZ 012694 T,017139980,0,70.3,1.83,B-,1.3,386.7,secondary,48
+Leonard,Brown,M,1971-10-07,Chad,United Kingdom,07700 900 974,WS9 8ZR,ZZ121827T,030904312,0,56.7,1.74,O-,1.8,139.8,bachelor,24
+Callum,Smith,M,1988-12-01,United Arab Emirates,United Kingdom,(07700) 900 498,ZE74 3ZX,ZZ166315T,119308101,0,95.1,1.69,O+,8.0,259.2,secondary,33
+Yvonne,Evans,F,1969-11-03,Greenland,United Kingdom,+447700 900 107,WR44 9LR,ZZ 220120 T,069587632,0,38.4,1.95,O+,0.2,172.4,bachelor,25
+Suzanne,Long,F,2002-01-26,Macao,United Kingdom,+447700 900 799,OL49 2NG,ZZ 898642 T,119146460,0,56.2,1.89,O+,6.8,402.9,bachelor,22
+Dylan,Harper,M,1969-10-25,Mali,United Kingdom,(07700) 900309,ML4B 5RQ,ZZ 963500 T,029861657,0,93.3,1.65,O-,5.0,310.4,masters,29
+Terry,Lloyd,M,1978-08-17,Russian Federation,United Kingdom,(07700)900525,BT4 4NF,ZZ963913T,057242400,1,51.0,1.83,B-,4.8,122.0,bachelor,7
+Rebecca,Smith,F,1978-07-31,Wallis and Futuna,United Kingdom,+44(0)7700 900170,CV7 3PD,ZZ 47 74 65 T,108211267,0,69.7,1.65,A+,5.0,439.7,secondary,26
+Barry,Hopkins,M,1992-11-11,Namibia,United Kingdom,+44(0)7700900482,LN6H 4LP,ZZ 43 14 66 T,067118320,0,47.4,1.99,O+,7.3,49.1,secondary,45
+Bernard,Barrett,M,1980-05-25,Saudi Arabia,United Kingdom,(07700) 900020,IG7M 5GA,ZZ 420771 T,077107635,0,75.7,1.77,O+,9.4,71.0,secondary,23
+Ashley,Clarke,M,1988-06-05,Kiribati,United Kingdom,07700 900568,ME7 5YN,ZZ 11 13 67 T,029708228,0,49.7,1.69,A+,8.8,162.1,other,49
+Hugh,Ali,M,1994-01-26,Pitcairn Islands,United Kingdom,(07700)900252,W62 5GT,ZZ 25 01 44 T,052936782,0,54.0,1.87,A+,3.8,239.3,bachelor,50
+Mark,Phillips,M,1983-02-10,Mongolia,United Kingdom,07700 900458,S4E 7JN,ZZ030105T,072401145,0,52.1,1.62,A+,3.6,443.9,secondary,20
+Joan,Fuller,F,1965-06-05,Japan,United Kingdom,(07700) 900546,PA84 6JG,ZZ 742192 T,034441512,0,68.6,1.87,A+,4.6,59.1,secondary,9
+Paul,Chapman,M,1960-05-05,Montserrat,United Kingdom,+44(0)7700900580,PL7 1GL,ZZ 339520 T,010310719,0,96.6,1.56,B+,8.1,407.8,masters,16
+Carl,Chapman,M,1980-02-17,Saint Barthelemy,United Kingdom,+44(0)7700 900623,MK8W 7RH,ZZ 89 96 97 T,036988125,0,47.2,1.66,O+,5.3,443.3,masters,4
+Carly,Perry,F,1967-05-31,Germany,United Kingdom,+44(0)7700 900 296,RM9 6NH,ZZ696837T,020978057,0,97.5,1.41,O+,2.0,26.8,bachelor,39
+Judith,Hobbs,F,1977-12-16,Liberia,United Kingdom,+44(0)7700 900949,E0W 4GL,ZZ 311930 T,056418905,0,61.5,1.43,A+,1.9,107.6,secondary,15
+Julie,Pratt,F,2001-03-29,Djibouti,United Kingdom,07700 900629,PL5B 3UY,ZZ 83 87 27 T,105321477,0,93.1,1.51,O+,0.6,231.4,primary,41
+Tina,King,F,1959-11-27,United Arab Emirates,United Kingdom,+447700 900 367,G6A 8JX,ZZ 502181 T,042653169,0,95.7,1.86,A-,9.1,148.1,secondary,7
+Sandra,Edwards,F,1965-09-05,Rwanda,United Kingdom,(07700) 900 796,HU2 4RQ,ZZ 33 62 64 T,042055903,0,66.5,1.81,O+,1.5,377.0,bachelor,29
+Donna,Kay,F,1989-01-17,Burkina Faso,United Kingdom,+44(0)7700 900028,N76 8FG,ZZ 789209 T,016203969,0,74.0,1.63,O+,3.1,288.3,secondary,44
+Kenneth,Jones,M,1983-05-01,Mali,United Kingdom,+447700900147,N7 7FF,ZZ 957501 T,049016437,0,83.7,1.65,O+,0.3,476.1,phD,32
+Kevin,Haynes,M,1978-08-18,South Georgia and the South Sandwich Islands,United Kingdom,+447700 900868,L61 7AT,ZZ 03 34 98 T,031796626,0,98.6,1.81,A+,4.6,483.4,secondary,3
+Lauren,Preston,F,1961-03-08,Sudan,United Kingdom,07700 900791,L6 4BZ,ZZ 897885 T,111540404,0,41.4,1.64,O+,0.2,279.5,secondary,40
+Hugh,Taylor,M,1983-05-02,Guernsey,United Kingdom,07700 900 795,L28 4TT,ZZ 34 21 32 T,024775023,0,83.2,1.94,A-,6.0,347.3,primary,40
+Nigel,Dodd,M,1972-09-04,Aruba,United Kingdom,07700 900 429,W4 9ER,ZZ565655T,048473000,0,65.7,1.82,O+,1.9,331.1,phD,13
+Olivia,Taylor,F,1980-02-29,Tunisia,United Kingdom,07700900997,IP3 2XL,ZZ 64 94 05 T,029558591,0,97.1,1.56,A+,3.1,129.0,masters,37
+Jade,Atkinson,F,1990-05-26,Dominica,United Kingdom,(07700) 900082,SO8 9LQ,ZZ 65 86 55 T,116643814,0,91.0,1.97,O+,6.5,250.3,secondary,16
+Bradley,Brady,M,1979-02-20,Taiwan,United Kingdom,+447700 900287,E4D 1LP,ZZ 058025 T,081936342,0,93.6,1.92,B+,3.7,469.5,secondary,29
+Richard,Bailey,M,1979-05-25,Martinique,United Kingdom,+44(0)7700 900 450,B9G 7UN,ZZ 60 33 61 T,024152617,0,74.3,1.8,O+,8.7,496.7,masters,24
+Victoria,Kelly,F,1967-09-30,Slovenia,United Kingdom,(07700) 900 385,L4 8HL,ZZ 39 73 19 T,060942302,0,79.4,1.71,A+,9.7,169.2,bachelor,44
+Brenda,Brooks,F,1987-09-24,Slovakia (Slovak Republic),United Kingdom,+44(0)7700900985,L6T 9QW,ZZ 271375 T,089642078,0,88.2,1.61,AB+,8.8,426.7,secondary,38
+Holly,Scott,F,1960-09-28,Nepal,United Kingdom,+44(0)7700 900058,WD69 1HB,ZZ645895T,035215145,0,65.6,1.41,O+,8.6,123.7,secondary,26
+Clive,Matthews,M,1962-12-20,Tokelau,United Kingdom,(07700)900926,M4F 9BE,ZZ 71 53 47 T,036388877,0,62.4,1.56,A-,4.5,488.1,other,9
+Lucy,Jones,F,1964-10-13,Lebanon,United Kingdom,+447700 900859,MK0H 1PR,ZZ698609T,062242929,0,68.0,1.5,A-,7.4,212.3,masters,37
+Kate,Russell,F,1962-09-08,Nauru,United Kingdom,+44(0)7700900599,S52 8ER,ZZ457956T,081277726,0,87.1,1.59,A+,4.0,205.5,secondary,27
+Kenneth,Cox,M,2003-10-30,Bouvet Island (Bouvetoya),United Kingdom,+44(0)7700 900529,G9S 3JX,ZZ720984T,058107463,0,39.0,1.67,A+,1.5,391.9,bachelor,9
+Nicola,Ball,F,1972-12-22,Lesotho,United Kingdom,07700 900 877,N7G 9BD,ZZ 33 34 58 T,038633818,0,85.3,1.46,O+,7.2,431.1,secondary,24
+Claire,Miller,F,1956-10-13,Cocos (Keeling) Islands,United Kingdom,(07700) 900670,N91 2RS,ZZ 775923 T,065929663,0,71.3,1.6,O+,4.6,46.3,secondary,44
+Mohammed,James,M,1992-10-29,Suriname,United Kingdom,+447700 900 271,SM4P 0WT,ZZ 40 04 90 T,019385554,0,74.7,2.0,O+,6.2,457.2,masters,26
+Patricia,Lewis,F,1995-06-23,Syrian Arab Republic,United Kingdom,(07700) 900020,N1 2QY,ZZ 390685 T,076671803,0,90.0,1.43,O+,4.5,330.4,masters,28
+Ross,Smith,M,1963-08-17,Guinea-Bissau,United Kingdom,07700 900758,ZE61 2SR,ZZ009252T,084975410,0,40.0,1.81,O-,8.0,194.9,bachelor,17
+Shannon,Harding,F,1989-07-06,Argentina,United Kingdom,+44(0)7700900764,DG0 3ZW,ZZ 36 42 06 T,105972965,0,83.0,1.56,AB+,6.6,34.4,primary,50
+Sean,Chapman,M,1994-01-17,Panama,United Kingdom,(07700) 900595,PH99 1RH,ZZ 37 58 38 T,123773120,0,48.5,1.96,O+,5.0,278.8,secondary,31
+Keith,Hunter,M,1977-06-18,Brunei Darussalam,United Kingdom,07700 900 998,DA67 4TQ,ZZ 469681 T,077430645,0,77.7,1.62,O+,4.2,254.1,masters,23
+Katy,Lee,F,1994-11-08,Namibia,United Kingdom,+447700 900655,G5E 2WH,ZZ172412T,068790899,0,88.7,1.97,A-,5.8,346.8,bachelor,48
+Colin,Robson,M,1984-06-05,Norfolk Island,United Kingdom,(07700) 900 409,AB5 1HD,ZZ 606943 T,038158335,0,94.7,1.88,A+,5.7,372.9,secondary,23
+Jill,Myers,F,1991-03-31,Isle of Man,United Kingdom,+44(0)7700 900260,EN1 7NL,ZZ060903T,100213865,0,83.9,1.4,B+,3.4,304.6,masters,6
+Dennis,Booth,M,1963-04-01,Bolivia,United Kingdom,+44(0)7700 900351,DD2V 7WZ,ZZ 169838 T,125486716,0,83.0,1.75,AB+,5.0,68.1,bachelor,31
+Kim,Savage,F,1983-09-18,Tunisia,United Kingdom,07700 900548,BN0N 1JQ,ZZ 058393 T,061101579,0,96.0,1.48,A+,1.5,122.5,bachelor,31
+Gordon,Johnson,M,1983-05-18,Luxembourg,United Kingdom,(07700)900502,CA85 6PB,ZZ692577T,045990939,0,66.3,1.67,O+,4.7,379.2,secondary,28
+Teresa,Wallis,F,1961-12-31,Netherlands,United Kingdom,07700900673,GU9X 0UB,ZZ 20 72 36 T,030328037,0,65.2,1.77,A+,7.6,39.5,other,24
+Joshua,Schofield,M,1992-07-02,Slovakia (Slovak Republic),United Kingdom,07700 900 368,TN7Y 7WR,ZZ072731T,047056169,0,63.1,1.8,A+,3.1,418.0,bachelor,12
+George,Cooper,M,1997-05-13,Saint Lucia,United Kingdom,+447700900642,NR48 6DQ,ZZ 087469 T,087578830,0,53.7,1.51,AB-,3.1,62.4,secondary,23
+Laura,Franklin,F,1971-07-12,Swaziland,United Kingdom,(07700) 900 446,FY42 3FZ,ZZ388770T,108700914,0,40.9,1.46,O-,4.5,75.3,bachelor,28
+Glenn,Watts,M,1995-01-12,Belarus,United Kingdom,+447700900326,M2S 4ZY,ZZ442438T,126330829,0,57.1,1.54,B-,2.9,111.1,phD,9
+Ashley,Wright,M,1971-01-11,Estonia,United Kingdom,(07700) 900 089,BS7M 0QR,ZZ785644T,094594001,0,52.8,1.53,O+,3.3,56.3,secondary,8
+Justin,Edwards,M,1981-06-13,Tajikistan,United Kingdom,(07700)900977,HX8E 0RY,ZZ 12 34 47 T,104340828,0,59.0,1.78,B-,1.4,324.5,phD,6
+Pauline,Anderson,F,1978-08-28,Syrian Arab Republic,United Kingdom,+44(0)7700 900937,W4 6SB,ZZ061735T,012787683,0,91.3,1.46,A+,6.9,11.0,bachelor,43
+Jack,Clarke,M,1970-12-01,Liechtenstein,United Kingdom,07700 900018,B8 1QB,ZZ 78 19 34 T,050372351,0,53.1,1.4,A+,9.8,433.6,secondary,48
+Terry,Turner,M,1959-07-17,Bahamas,United Kingdom,+44(0)7700 900758,BH08 2XD,ZZ 78 88 30 T,047020276,0,44.9,1.94,AB+,3.3,351.7,secondary,7
+Terence,Norman,M,1962-05-26,Papua New Guinea,United Kingdom,+44(0)7700900586,OX7W 3DL,ZZ 676244 T,104033371,0,43.0,1.89,B+,2.3,296.4,masters,18
+Sarah,Archer,F,1982-11-19,Gibraltar,United Kingdom,07700 900705,SE70 9LH,ZZ 98 44 81 T,026681597,0,97.7,1.86,A+,0.2,328.8,secondary,8
+Holly,Barton,F,1985-02-16,Kiribati,United Kingdom,+447700 900666,WV1 8WX,ZZ 960526 T,128405008,1,52.5,1.58,A+,4.6,432.9,bachelor,43
+Thomas,Smith,M,1969-08-21,Belarus,United Kingdom,(07700) 900 039,G5J 6EU,ZZ 269052 T,107500432,0,94.7,1.57,O+,4.0,145.1,other,19
+Marcus,Allen,M,1967-11-28,Rwanda,United Kingdom,+447700 900 979,DH35 9QX,ZZ846447T,101004688,0,64.1,1.85,O-,8.2,465.5,secondary,37
+Victor,Graham,M,1968-12-07,Palau,United Kingdom,+44(0)7700900069,B5H 5XP,ZZ 990037 T,077449102,0,58.8,1.82,A+,8.6,395.4,secondary,18
+Pamela,Green,F,1963-01-31,Dominica,United Kingdom,+447700900953,W61 0DF,ZZ 16 76 25 T,080834597,0,56.6,1.61,O+,0.4,36.9,bachelor,21
+Jill,Morgan,F,1967-06-10,Hungary,United Kingdom,+447700900944,S8 1LQ,ZZ 96 51 07 T,120314197,0,94.1,1.86,A+,7.8,484.8,other,37
+Malcolm,Williams,M,1973-01-30,Suriname,United Kingdom,07700 900963,N3C 1XR,ZZ 182817 T,042529044,0,53.5,1.98,O+,6.1,347.5,secondary,20
+Marion,Sanderson,F,1959-01-08,Congo,United Kingdom,+447700900172,DY7Y 0RE,ZZ396311T,026340155,0,37.7,1.64,O+,6.5,481.1,secondary,46
+Arthur,Lloyd,M,1957-11-19,Iceland,United Kingdom,07700 900 212,BS7N 9GL,ZZ 65 45 98 T,023366297,0,62.9,1.47,A+,7.4,11.5,secondary,3
+Lisa,Cox,F,1971-01-20,French Guiana,United Kingdom,+44(0)7700900646,B6 4AR,ZZ 01 90 40 T,016898277,0,46.0,1.86,AB+,9.3,460.8,primary,30
+Anthony,Fitzgerald,M,1962-01-28,Montenegro,United Kingdom,07700 900 633,B11 3TQ,ZZ 559066 T,079765208,0,55.7,1.49,B+,5.0,494.9,primary,16
+Gillian,Roberts,F,1983-04-08,Indonesia,United Kingdom,07700900748,B6U 3AS,ZZ213565T,062393616,0,88.7,1.8,O+,4.9,102.4,masters,29
+Alex,Moran,M,1996-02-14,Moldova,United Kingdom,+44(0)7700 900934,G9 5PW,ZZ967251T,045530580,0,97.3,1.61,A+,0.8,332.2,other,9
+Leigh,Hudson,M,1962-04-20,Holy See (Vatican City State),United Kingdom,(07700) 900901,CR7 4DX,ZZ 92 91 18 T,049028519,0,37.2,1.8,O+,3.4,437.9,secondary,13
+Lisa,Greenwood,F,1995-02-18,Sweden,United Kingdom,07700900524,W4D 4HQ,ZZ 67 54 09 T,034344237,0,74.5,1.42,A+,0.6,452.5,secondary,43
+Ben,Hayes,M,1961-10-09,Tonga,United Kingdom,07700 900759,L4 0LA,ZZ 14 45 66 T,039819673,0,58.7,1.56,A+,2.8,235.7,masters,24
+Eleanor,Atkins,F,1988-04-12,Bosnia and Herzegovina,United Kingdom,+447700 900616,M7 2RZ,ZZ 96 32 28 T,023354474,0,36.6,1.65,O+,2.3,349.3,secondary,3
+Grace,Walker,F,1996-07-18,Armenia,United Kingdom,(07700)900446,NW7W 4SA,ZZ 13 48 30 T,071983143,0,40.4,1.69,A+,8.8,142.5,other,28
+Brett,Gibson,M,1981-11-06,Papua New Guinea,United Kingdom,+44(0)7700900617,B4 5UJ,ZZ 45 32 27 T,047225408,0,80.3,1.65,O+,7.8,425.8,masters,10
+Ann,Smith,F,1998-12-08,Belarus,United Kingdom,+44(0)7700 900788,S37 5ES,ZZ991753T,022106157,0,48.0,1.77,A+,6.0,154.0,secondary,17
+Bryan,Stanley,M,2002-06-16,Cayman Islands,United Kingdom,(07700)900481,G5G 2BP,ZZ334708T,058190328,0,97.6,1.77,A+,9.6,194.6,bachelor,32
+Lindsey,Bradshaw,F,1983-08-23,Anguilla,United Kingdom,07700900767,W5T 7DL,ZZ 63 11 51 T,076635700,0,44.6,1.45,O+,9.0,246.5,bachelor,5
+Charles,Knight,M,1976-09-12,French Polynesia,United Kingdom,+44(0)7700 900 020,M56 6JH,ZZ752042T,053896164,0,74.1,1.52,A+,3.0,338.6,bachelor,18
+Fiona,Williams,F,2001-03-20,Isle of Man,United Kingdom,07700 900034,L9 2RG,ZZ 69 80 20 T,019244491,0,51.9,1.74,B+,4.5,77.9,secondary,14
+Dennis,Ryan,M,1961-07-27,Angola,United Kingdom,(07700) 900388,BA5Y 8PJ,ZZ 817778 T,109799733,0,95.9,1.86,A-,5.9,373.2,secondary,19
+Gregory,Gough,M,1992-12-04,Mayotte,United Kingdom,07700 900 900,PL67 0PA,ZZ937919T,024962438,0,89.5,1.59,O+,6.1,392.0,secondary,38
+Denis,Scott,M,1968-03-25,Jersey,United Kingdom,+447700900350,CT6R 1RN,ZZ 43 26 92 T,063805666,0,70.8,1.67,A+,8.9,191.4,primary,20
+Stephen,Smith,M,1981-03-18,Panama,United Kingdom,07700900781,NP1R 7AG,ZZ 273726 T,058072378,0,86.9,1.52,O+,2.5,171.0,secondary,5
+Deborah,Clarke,F,1994-12-12,Australia,United Kingdom,07700 900367,SA4 1TS,ZZ 632510 T,053512383,0,67.0,1.91,O+,6.6,489.1,masters,15
+Yvonne,Collier,F,1975-02-01,Albania,United Kingdom,07700 900969,S8 9DE,ZZ 16 99 90 T,075960780,0,61.0,1.45,A+,8.0,124.2,other,35
+Derek,Patel,M,1959-09-01,Yemen,United Kingdom,(07700) 900044,G43 3JT,ZZ108221T,036883770,0,74.7,1.98,A+,2.7,354.8,secondary,44
+Nigel,Barnes,M,1976-07-10,Burkina Faso,United Kingdom,+44(0)7700 900 064,NG8 8ZU,ZZ485619T,027125515,0,38.1,1.76,O+,2.7,458.8,masters,5
+Chelsea,Harrison,F,1983-01-17,Cocos (Keeling) Islands,United Kingdom,(07700) 900849,M8 7HS,ZZ 034941 T,129729411,0,48.2,1.6,B+,0.5,74.9,secondary,20
+Georgia,Tomlinson,F,1967-11-22,Japan,United Kingdom,(07700)900501,N56 5DY,ZZ 595271 T,129872766,0,45.6,1.85,O+,8.9,484.4,secondary,6
+Jodie,Bevan,F,2001-09-02,Palau,United Kingdom,+447700 900365,W6 9NP,ZZ 13 29 60 T,117545717,0,47.6,1.93,O-,3.2,421.1,phD,31
+Susan,Welch,F,1957-12-09,Holy See (Vatican City State),United Kingdom,+44(0)7700 900469,S39 9EL,ZZ 064562 T,066991865,0,54.6,1.77,A+,1.8,206.5,bachelor,32
+Zoe,Smith,F,1962-04-19,Nicaragua,United Kingdom,07700900733,W2 9GQ,ZZ 043218 T,125791993,0,44.2,1.5,A+,1.9,299.0,masters,45
+Ben,Day,M,1977-11-16,Brazil,United Kingdom,07700 900676,N4K 3LH,ZZ 808708 T,010125771,0,87.6,1.59,O+,1.7,238.3,secondary,24
+Martyn,Green,M,1983-05-18,Cayman Islands,United Kingdom,+447700900725,CW17 7RZ,ZZ 07 91 19 T,037290100,0,50.8,1.48,A+,2.4,367.1,bachelor,30
+Robin,Patel,M,1964-03-16,Holy See (Vatican City State),United Kingdom,+447700 900 791,L1 7AU,ZZ829026T,021883390,0,40.2,1.41,A+,2.4,297.3,other,37
+Laura,Clark,F,1961-07-05,United States of America,United Kingdom,07700 900 953,CH5 5JY,ZZ 88 71 92 T,119572827,1,76.2,1.75,O+,8.7,194.0,masters,33
+Norman,Hart,M,1979-07-15,Burkina Faso,United Kingdom,07700 900 245,EH4 4PZ,ZZ 74 24 30 T,084701532,0,48.6,1.82,O+,2.7,217.2,bachelor,8
+Leon,Miah,M,1972-03-19,Iceland,United Kingdom,(07700) 900 612,WD1 2XF,ZZ 766638 T,021654765,0,70.3,1.71,A-,7.6,33.6,primary,22
+Chelsea,Ward,F,1987-12-14,Indonesia,United Kingdom,(07700) 900 014,NG0 4PU,ZZ 99 20 91 T,073043418,0,46.2,1.96,A+,3.7,364.5,secondary,13
+Alex,Burton,M,1960-03-24,Slovakia (Slovak Republic),United Kingdom,+44(0)7700900034,B1W 2JH,ZZ 41 13 71 T,017256656,0,94.2,1.42,A+,9.6,296.4,bachelor,41
+Dale,Kirk,M,1999-09-15,Netherlands,United Kingdom,07700 900 363,BS4V 9NT,ZZ 636316 T,011554228,0,97.9,1.9,O+,1.6,238.3,other,47
+Dylan,Day,M,1998-09-05,Qatar,United Kingdom,+44(0)7700 900140,G69 5EU,ZZ 167901 T,037643647,0,35.4,1.99,A-,9.7,183.9,secondary,17
+Chloe,Cunningham,F,1986-11-15,Solomon Islands,United Kingdom,+44(0)7700 900042,TS2P 3ER,ZZ 32 75 99 T,020606442,0,91.2,1.75,AB+,9.9,92.6,other,4
+Ben,Clements,M,1990-09-09,Sudan,United Kingdom,+447700900813,ST1 0JW,ZZ 619181 T,104060988,0,97.6,1.49,B+,4.9,430.1,bachelor,39
+Joe,Ali,M,1962-07-18,Guatemala,United Kingdom,(07700) 900 720,L8 8LY,ZZ326714T,056188659,0,82.8,1.84,A+,1.0,181.8,secondary,20
+Stewart,Green,M,1965-10-14,Uruguay,United Kingdom,+44(0)7700 900437,L3H 9HH,ZZ648834T,107992736,0,71.9,1.82,O+,4.4,1.0,secondary,41
+Lauren,Berry,F,1961-01-05,Nigeria,United Kingdom,+447700 900627,B7 3ZX,ZZ 360373 T,098865875,0,54.1,1.95,A+,6.5,140.2,secondary,26
+Patricia,Howells,F,1989-10-08,Turkmenistan,United Kingdom,(07700) 900 138,CO41 5BL,ZZ 91 85 68 T,089994111,0,48.6,1.81,O+,3.2,279.6,bachelor,10
+Jenna,Evans,F,1970-05-30,South Africa,United Kingdom,07700 900 186,L9F 7PL,ZZ716843T,042257578,0,98.7,1.51,B+,1.7,5.1,secondary,21
+Malcolm,Burns,M,1959-02-27,Kenya,United Kingdom,(07700)900593,BA2 1QS,ZZ 31 69 54 T,105260923,0,76.3,1.66,AB+,6.1,161.3,bachelor,26
+Sophie,Thomas,F,1957-05-08,Western Sahara,United Kingdom,(07700) 900 837,HR5P 5YJ,ZZ 44 20 35 T,057221890,0,58.9,1.74,A+,6.3,496.2,masters,20
+Howard,Mitchell,M,1966-05-21,Hungary,United Kingdom,+447700 900 607,UB9M 1GH,ZZ 569284 T,069686452,1,60.3,1.58,A+,4.9,478.4,other,16
+Toby,Armstrong,M,1983-09-06,Antigua and Barbuda,United Kingdom,(07700) 900976,EC2B 6FL,ZZ 873443 T,048530943,0,35.5,1.5,O-,0.3,50.5,secondary,37
+Dean,Anderson,M,1992-06-28,French Polynesia,United Kingdom,+447700900665,B2 1DH,ZZ697060T,125174358,0,54.9,1.92,A+,5.6,500.0,bachelor,18
+Kate,Matthews,F,1956-10-29,Equatorial Guinea,United Kingdom,(07700)900175,M9W 9JZ,ZZ 35 40 37 T,076582727,1,59.3,1.82,A+,9.0,48.1,secondary,28
+Ian,Todd,M,2003-02-15,Morocco,United Kingdom,(07700) 900355,BT6 8SJ,ZZ223213T,054081648,0,71.0,1.83,A+,5.5,406.1,masters,36
+Cheryl,Flynn,F,1977-12-22,Slovakia (Slovak Republic),United Kingdom,07700 900161,G0S 9JG,ZZ649667T,022411774,0,40.6,1.68,O+,6.1,470.8,secondary,7
+Jean,Nicholls,F,1998-12-03,Namibia,United Kingdom,(07700)900834,W06 2JA,ZZ785589T,129754305,0,85.8,1.55,O+,8.1,394.0,secondary,49
+Vincent,Fuller,M,1978-06-14,Bermuda,United Kingdom,07700900752,S7T 2UF,ZZ 64 70 85 T,096084946,0,54.7,1.85,B+,4.2,10.2,secondary,43
+Ruth,Peters,F,2002-05-24,Algeria,United Kingdom,+44(0)7700 900 242,ZE4R 9UN,ZZ 71 22 10 T,046036313,0,36.5,1.42,A+,4.7,454.9,secondary,16
+Lynda,Stevens,F,1992-04-01,Malawi,United Kingdom,+44(0)7700 900 839,JE2Y 1ZS,ZZ 349017 T,119759608,0,83.0,1.91,A+,1.3,272.0,bachelor,48
+Daniel,Barrett,M,1964-02-15,Marshall Islands,United Kingdom,07700 900 255,B34 1FQ,ZZ 00 91 44 T,079752512,0,68.5,1.81,O+,7.2,190.2,phD,11
+Mohammad,Lewis,M,1970-02-04,Mexico,United Kingdom,+44(0)7700 900229,WV4E 4ZB,ZZ 32 64 48 T,040223601,0,56.8,1.8,A+,1.9,150.4,phD,24
+Gregory,Watts,M,1962-03-05,Japan,United Kingdom,07700 900805,EC11 2FX,ZZ748095T,079535580,0,35.2,1.85,A+,6.0,12.6,masters,11
+Russell,Jones,M,1986-12-07,Spain,United Kingdom,+44(0)7700 900596,DG26 3HN,ZZ 06 87 15 T,014933312,0,94.8,1.56,B+,4.1,147.1,other,40
+Gail,Robertson,F,1999-02-17,Martinique,United Kingdom,07700 900 102,IV1 3TB,ZZ 84 99 24 T,040857019,0,88.6,1.68,B+,4.9,118.5,other,14
+Robert,Fox,M,1978-03-28,Bhutan,United Kingdom,+447700900576,EN46 9AU,ZZ 64 48 49 T,036819058,0,88.1,1.86,B+,0.1,487.9,secondary,43
+Marie,Harris,F,1963-01-14,Korea,United Kingdom,+447700900298,G55 7UH,ZZ 29 36 27 T,016239810,0,85.3,1.6,A+,3.8,101.5,bachelor,42
+Andrea,Howard,F,1995-05-08,Anguilla,United Kingdom,07700900874,NR8 1YA,ZZ 39 50 28 T,107918558,0,37.4,1.75,B+,2.0,184.0,secondary,32
+Tony,Ellis,M,2000-08-22,Guinea-Bissau,United Kingdom,(07700)900495,NW36 5QS,ZZ 32 78 74 T,095820347,1,38.0,1.79,O-,2.4,106.9,masters,25
+Judith,Francis,F,1986-11-21,Burkina Faso,United Kingdom,+447700 900 813,G1 6HW,ZZ 151092 T,030222421,0,95.0,1.41,A+,6.8,208.2,masters,23
+Gillian,Allen,F,1997-04-10,Sao Tome and Principe,United Kingdom,07700 900 925,KA8 9PW,ZZ267124T,035743073,0,42.8,1.83,O+,1.2,281.0,secondary,24
+Gordon,Stewart,M,1998-10-03,Algeria,United Kingdom,(07700) 900381,L5D 4DP,ZZ 99 11 18 T,029363854,0,45.3,1.45,A+,8.5,12.3,secondary,40
+Brett,Whitehouse,M,1997-10-12,Spain,United Kingdom,+447700900585,S9G 7BD,ZZ 107951 T,114112334,0,82.3,1.79,O+,1.7,397.3,secondary,8
+Brenda,Thomas,F,1989-02-09,Serbia,United Kingdom,07700 900337,G33 2HD,ZZ 27 18 47 T,062224497,0,55.3,1.57,A+,3.4,348.2,secondary,18
+Stephanie,Dunn,F,1971-05-25,Western Sahara,United Kingdom,07700900200,DA72 5QS,ZZ 14 32 87 T,027974067,0,74.8,1.46,O+,6.3,157.0,masters,40
+Eleanor,Day,F,1971-01-07,Cook Islands,United Kingdom,+44(0)7700900132,TR71 9RN,ZZ 849987 T,077923709,0,80.3,1.94,A+,9.6,385.7,secondary,32
+Anthony,Garner,M,1996-10-27,Ghana,United Kingdom,+44(0)7700900216,W2 2BW,ZZ 82 19 62 T,035456344,0,88.6,1.8,O+,1.4,188.7,phD,10
+Nicholas,Read,M,1991-12-07,Sweden,United Kingdom,+44(0)7700 900 961,EH2H 4AZ,ZZ345972T,103801892,0,51.3,1.87,O+,0.2,8.6,bachelor,32
+Max,Ellis,M,1959-10-18,Falkland Islands (Malvinas),United Kingdom,+44(0)7700900500,SN66 6ZQ,ZZ 64 55 15 T,031598361,0,50.6,1.6,A-,1.2,481.5,other,23
+Daniel,Turner,M,1970-09-23,Spain,United Kingdom,07700900623,W3 6GA,ZZ809017T,122997020,1,88.2,1.83,B+,4.1,389.7,secondary,34
+Danielle,Shaw,F,1990-06-20,Ethiopia,United Kingdom,+447700900359,ML11 6QW,ZZ 301767 T,094942200,0,41.1,1.63,A+,2.4,100.4,secondary,3
+Sharon,Marsh,F,1966-10-05,French Polynesia,United Kingdom,07700 900 596,CW02 1ZP,ZZ 795822 T,017230533,0,38.4,1.81,A+,1.1,415.2,secondary,7
+Frederick,Roberts,M,1994-12-11,Macao,United Kingdom,(07700) 900931,M32 4EU,ZZ995893T,018441460,0,77.6,1.4,A+,7.0,76.1,bachelor,12
+Paul,Bishop,M,1982-06-26,Trinidad and Tobago,United Kingdom,07700 900233,N86 6SP,ZZ344520T,026733597,0,54.7,1.81,B+,1.0,180.3,masters,49
+Elizabeth,Bray,F,1967-09-21,Guyana,United Kingdom,+44(0)7700 900936,EH3R 6BP,ZZ 805140 T,100477300,0,57.5,1.9,O+,7.8,388.9,secondary,18
+Christian,Gilbert,M,1993-03-17,Sri Lanka,United Kingdom,+447700 900 116,CA3E 3AZ,ZZ192442T,011631361,0,93.4,1.65,A+,4.0,268.0,other,16
+Ross,Brown,M,1981-10-16,Estonia,United Kingdom,(07700) 900 191,M1H 5HX,ZZ506068T,099900030,0,67.8,1.52,A+,4.9,389.7,masters,49
+Gareth,Yates,M,1970-05-18,Wallis and Futuna,United Kingdom,07700 900 413,PR34 7RY,ZZ 500194 T,104682764,0,35.1,1.9,O+,7.7,235.3,other,3
+Marc,McDonald,M,1998-02-05,Turkmenistan,United Kingdom,(07700) 900045,N57 7XS,ZZ 75 42 39 T,107260073,0,40.5,1.45,O+,2.2,313.3,other,42
+Jason,Smith,M,1972-02-20,Korea,United Kingdom,+447700 900962,KA1V 8QL,ZZ 852653 T,121701505,0,96.8,2.0,A-,4.6,72.7,bachelor,22
+Katherine,Ahmed,F,1963-01-10,Mozambique,United Kingdom,07700900168,CH66 6DS,ZZ962536T,096313507,0,37.8,1.6,O+,6.9,316.3,bachelor,31
+Grace,Campbell,F,1984-05-28,Peru,United Kingdom,+447700 900 876,W54 9XJ,ZZ 216272 T,044622020,0,69.7,1.85,A-,4.8,200.7,secondary,17
+Oliver,Griffiths,M,1975-12-10,Guatemala,United Kingdom,+447700 900281,OX36 6FZ,ZZ 961237 T,076042681,0,60.4,1.46,A+,2.5,113.7,secondary,9
+Jodie,Perry,F,1963-09-15,Tonga,United Kingdom,+447700900847,S9E 4XR,ZZ048098T,053078199,0,43.0,1.76,A+,0.6,81.6,secondary,35
+Naomi,Pearce,F,1958-11-11,Singapore,United Kingdom,+447700900923,S54 3ZW,ZZ139526T,061445183,0,86.6,1.6,O+,0.3,196.9,primary,41
+Ben,Holland,M,1992-03-09,French Guiana,United Kingdom,+44(0)7700 900771,TF70 2SG,ZZ 03 66 80 T,069889864,0,53.0,1.48,O-,6.0,445.3,secondary,42
+Rachel,Taylor,F,1960-01-05,Somalia,United Kingdom,+44(0)7700 900 369,DE6 0TU,ZZ 08 95 25 T,067526624,0,93.8,1.6,A+,10.0,476.2,secondary,42
+Matthew,Hobbs,M,1983-07-23,Ghana,United Kingdom,07700 900 987,NR7E 2RE,ZZ930501T,098585087,1,90.2,1.94,O+,2.9,98.8,secondary,34
+Kirsty,Sharpe,F,1996-05-25,Vietnam,United Kingdom,+447700 900 112,WN9 6ES,ZZ 81 42 86 T,036342185,0,69.8,1.66,A+,5.5,138.0,secondary,12
+Beth,Rogers,F,1990-06-17,Poland,United Kingdom,07700 900 661,G51 3UP,ZZ 747470 T,011749460,0,74.7,1.47,O+,2.7,478.3,secondary,31
+Clifford,Green,M,1980-09-11,Dominican Republic,United Kingdom,+44(0)7700 900364,HS95 7TG,ZZ345654T,057879569,0,87.3,1.55,O-,0.4,376.3,secondary,42
+Alexander,Taylor,M,2003-10-02,Timor-Leste,United Kingdom,07700 900 043,G21 8PS,ZZ 555774 T,125060080,0,49.7,2.0,A+,1.6,402.9,primary,5
+Ben,Lloyd,M,2000-07-26,Yemen,United Kingdom,+447700900266,S42 3FZ,ZZ 69 88 01 T,057643229,0,99.7,1.81,B-,8.1,331.2,secondary,13
+Josephine,Knowles,F,1958-10-17,Holy See (Vatican City State),United Kingdom,(07700)900441,N1 0HF,ZZ 61 49 82 T,070832703,0,64.1,1.63,A+,7.0,270.0,bachelor,15
+Steven,Ward,M,2002-07-28,Jordan,United Kingdom,(07700)900755,UB8A 3RG,ZZ 60 09 64 T,083066702,0,62.3,1.79,O-,6.6,262.6,secondary,7
+Gordon,Kelly,M,1984-05-29,Saint Kitts and Nevis,United Kingdom,07700 900 732,WS1B 5DB,ZZ 82 42 73 T,043595145,0,72.8,1.84,O-,3.0,198.5,secondary,44
+Aimee,Pearce,F,1989-09-10,Bouvet Island (Bouvetoya),United Kingdom,07700 900163,NE2 7SH,ZZ 797602 T,068941305,0,38.7,1.73,A+,1.2,390.8,secondary,26
+Hayley,Clayton,F,1994-11-04,Gambia,United Kingdom,07700900354,E7 0DX,ZZ 32 90 52 T,011951821,0,67.0,1.43,A+,8.8,207.8,other,26
+Elliott,Carey,M,1978-09-24,Pitcairn Islands,United Kingdom,(07700) 900 004,LN00 8QS,ZZ 213837 T,038117208,0,40.3,1.59,O+,7.6,270.4,masters,10
+Eileen,Turner,F,1969-06-05,Togo,United Kingdom,(07700) 900437,N4C 6AW,ZZ300619T,107859756,0,49.2,1.54,O+,8.1,124.0,secondary,32
+Sam,Martin,M,1958-09-17,Sierra Leone,United Kingdom,+44(0)7700 900035,SG3 5PG,ZZ 92 95 36 T,066555007,0,67.3,1.86,O+,8.6,305.8,bachelor,24
+Michael,Turner,M,1995-05-28,Madagascar,United Kingdom,+447700 900 882,L43 9AU,ZZ464666T,061804410,0,39.1,1.66,O+,6.0,337.8,secondary,15
+Stewart,Baker,M,1997-12-21,Korea,United Kingdom,(07700)900888,NW6 1UD,ZZ722545T,104933963,0,53.2,1.74,A+,1.2,173.8,secondary,18
+Sharon,Henry,F,1963-05-13,Saint Helena,United Kingdom,07700 900 191,G7 0ZF,ZZ219449T,107319160,0,85.0,1.45,A+,6.7,301.5,secondary,23
+Anthony,Phillips,M,1993-01-09,Cook Islands,United Kingdom,+447700 900 339,W9 9ZH,ZZ 196961 T,068160225,0,43.4,1.8,B+,2.7,373.7,secondary,9
+Terry,Watts,M,1961-05-08,San Marino,United Kingdom,+44(0)7700900067,KT8N 3DZ,ZZ 697956 T,029945023,0,67.0,1.71,A+,1.1,166.9,secondary,36
+Benjamin,Marsh,M,1973-12-18,Mongolia,United Kingdom,+447700900519,L1T 7UJ,ZZ 83 45 35 T,071328892,0,59.5,1.42,B+,0.9,161.0,other,43
+Dennis,Jackson,M,1983-09-13,Korea,United Kingdom,07700 900 202,E8S 9PT,ZZ039654T,104878361,0,63.0,1.86,A+,0.4,58.6,bachelor,22
+Marion,Young,F,1973-10-28,Saint Lucia,United Kingdom,+44(0)7700900695,E37 0JJ,ZZ836106T,077299624,0,66.8,1.82,O+,3.2,76.3,secondary,9
+Irene,Birch,F,1961-06-30,Botswana,United Kingdom,07700 900 848,B40 0NG,ZZ 469404 T,047270686,0,46.4,1.83,A+,7.7,228.6,secondary,4
+Joyce,Jones,F,1974-11-28,Greenland,United Kingdom,07700 900 748,B2B 7HF,ZZ896024T,080768401,0,96.9,1.7,B+,0.9,475.4,bachelor,27
+Billy,Smith,M,1980-09-22,Turks and Caicos Islands,United Kingdom,+44(0)7700 900 888,SP2V 2ZT,ZZ 559885 T,125955292,0,63.1,1.62,O+,0.8,20.2,secondary,3
+Lawrence,Collins,M,1955-11-30,Sao Tome and Principe,United Kingdom,+44(0)7700900607,L8G 4RJ,ZZ 570974 T,020786951,0,39.0,1.63,A+,1.9,202.3,secondary,19
+Owen,Phillips,M,1983-02-19,British Indian Ocean Territory (Chagos Archipelago),United Kingdom,+44(0)7700 900865,W5 8XA,ZZ918708T,093357809,0,95.6,1.59,A+,5.7,68.7,secondary,5
+Thomas,Parker,M,1973-10-04,Sri Lanka,United Kingdom,+447700 900 668,ST3M 3GT,ZZ736513T,120907313,0,71.5,1.78,AB+,2.0,103.6,other,44
+Zoe,Leonard,F,1965-06-17,Liechtenstein,United Kingdom,(07700) 900850,L7 7ZT,ZZ 61 79 15 T,072225635,0,48.6,1.92,O+,2.5,254.2,other,35
+Sophie,Morgan,F,1976-05-29,Panama,United Kingdom,+447700 900 303,B9 7ZH,ZZ042294T,110340498,0,52.5,1.99,B+,3.1,364.3,bachelor,18
+Callum,Norman,M,1995-08-15,Serbia,United Kingdom,07700 900668,YO59 1YG,ZZ 490286 T,118362627,0,40.1,1.78,B-,2.3,27.6,primary,37
+Dylan,Walters,M,1994-12-21,Kenya,United Kingdom,(07700)900889,GU2X 0ZZ,ZZ654759T,025633504,0,35.9,1.49,O+,2.4,477.0,secondary,14
+Hazel,Allen,F,1979-04-30,Macedonia,United Kingdom,(07700) 900 935,S16 3RU,ZZ940296T,029693265,0,52.4,1.82,A+,8.9,420.8,secondary,40
+Shannon,Stephenson,F,1996-08-13,Antarctica (the territory South of 60 deg S),United Kingdom,07700900785,N3 9NB,ZZ495815T,028808611,0,71.9,1.81,A+,6.5,237.4,secondary,45
+Nicole,Harrison,F,1986-09-08,Mali,United Kingdom,+44(0)7700900350,S8T 8WZ,ZZ 630304 T,058675665,0,89.4,1.43,O+,7.0,332.4,secondary,22
+Kevin,Baker,M,1986-10-27,French Guiana,United Kingdom,+447700 900309,JE8 6DP,ZZ780673T,012889895,0,71.4,1.75,A+,4.5,236.0,primary,9
+Alice,Whittaker,F,1989-03-01,French Polynesia,United Kingdom,+447700900731,L53 8QN,ZZ 214844 T,071779658,1,77.3,1.47,O+,4.3,41.9,bachelor,13
+Lawrence,Pearce,M,1960-10-07,Oman,United Kingdom,+447700 900 941,BH4 1JT,ZZ 63 57 45 T,037242093,0,76.8,1.66,A+,2.2,250.2,masters,2
+Olivia,Owens,F,1992-02-23,United Arab Emirates,United Kingdom,07700900086,NW03 5RR,ZZ437549T,062900423,0,74.3,1.9,A+,5.0,387.0,secondary,9
+Christine,Turner,F,1981-10-03,Montenegro,United Kingdom,07700900297,M3 2QH,ZZ 239036 T,014977556,0,82.9,1.91,O+,4.9,278.1,bachelor,21
+Leigh,Jones,M,1993-04-18,Botswana,United Kingdom,(07700) 900914,E8 0YD,ZZ578574T,089506606,0,98.3,1.43,O+,9.4,64.6,bachelor,17
+Joseph,Briggs,M,1988-07-03,Niger,United Kingdom,+44(0)7700 900 348,M3H 5ZU,ZZ288186T,081934962,0,94.1,1.61,O+,1.8,394.9,phD,17
+Kelly,Iqbal,F,1985-08-17,Montserrat,United Kingdom,+44(0)7700 900379,L9E 4SR,ZZ403463T,121502759,0,36.0,1.91,O+,4.1,261.3,masters,37
+Susan,Bishop,F,1993-08-17,Reunion,United Kingdom,07700 900046,TQ68 2EA,ZZ 965384 T,068597827,0,93.5,1.54,A+,6.8,351.1,bachelor,15
+Peter,Murphy,M,1976-03-20,Czech Republic,United Kingdom,(07700)900375,OL7A 9UQ,ZZ947958T,091182940,0,52.7,1.7,A+,5.1,114.7,secondary,37
+Gerard,Elliott,M,1988-01-08,Faroe Islands,United Kingdom,07700 900123,HP2H 6HW,ZZ 47 08 52 T,038733608,0,90.8,1.64,A+,7.1,140.0,bachelor,32
+Katie,Walsh,F,1973-01-05,Bouvet Island (Bouvetoya),United Kingdom,07700 900 846,B0 3HB,ZZ 487608 T,111959325,0,53.5,1.96,O+,4.5,367.4,secondary,22
+Dylan,Henry,M,1960-02-28,Norfolk Island,United Kingdom,+447700 900505,CW6Y 3HU,ZZ 487078 T,078463941,0,52.1,1.78,A-,8.5,385.7,secondary,30
+Abbie,Ferguson,F,1982-05-01,Gabon,United Kingdom,07700 900 010,G0 2BZ,ZZ 82 70 54 T,083856954,0,42.4,1.7,B+,3.3,291.3,secondary,13
+Marilyn,Ford,F,1972-02-20,Monaco,United Kingdom,07700 900703,SP1 5WR,ZZ951988T,100137064,0,87.3,1.99,B+,8.1,84.2,masters,48
+Katy,Martin,F,1998-11-18,Falkland Islands (Malvinas),United Kingdom,(07700)900051,N2 5NB,ZZ 83 97 18 T,084854997,0,45.5,1.95,A+,5.0,216.7,secondary,39
+Lesley,Howells,F,1987-02-06,Saudi Arabia,United Kingdom,(07700)900672,TN81 5WP,ZZ965881T,098425370,0,97.2,1.51,O+,6.9,357.5,masters,18
+Ellie,Khan,F,1974-12-10,Belize,United Kingdom,07700900514,B0H 0QX,ZZ 68 84 07 T,041803554,0,53.1,1.68,O+,3.0,453.9,secondary,7
+Amanda,Ellis,F,1965-10-03,Samoa,United Kingdom,+44(0)7700 900607,W9 0GN,ZZ 83 39 62 T,045970250,1,57.5,1.73,O+,8.0,75.9,masters,37
+Russell,Hayward,M,2001-04-17,British Virgin Islands,United Kingdom,+44(0)7700 900 657,N1F 7QN,ZZ 824161 T,128192133,0,36.8,1.7,O+,6.3,463.4,secondary,43
+George,Donnelly,M,1996-02-26,Ireland,United Kingdom,(07700) 900407,L7 0DF,ZZ 596429 T,090554249,0,87.5,1.83,O+,6.4,400.4,other,45
+Jake,Davies,M,1979-05-22,Saint Pierre and Miquelon,United Kingdom,+44(0)7700 900237,W2 6AY,ZZ 612611 T,046424721,1,38.7,1.77,B+,2.3,267.6,secondary,29
+Suzanne,Howell,F,1975-11-28,Iran,United Kingdom,+44(0)7700 900830,W5 6SB,ZZ 58 38 35 T,083713550,0,56.1,1.78,A-,4.2,169.2,secondary,20
+Alex,Williams,M,1991-01-30,Saudi Arabia,United Kingdom,07700900816,HA95 8XJ,ZZ553159T,031431062,0,40.2,1.68,O+,0.9,329.4,secondary,44
+Marcus,Scott,M,1997-01-23,Italy,United Kingdom,07700900824,L8 0RD,ZZ 336732 T,062252689,0,60.9,1.73,O+,9.7,67.4,secondary,8
+Kyle,Stone,M,1977-03-15,Indonesia,United Kingdom,07700900762,WS7N 9BB,ZZ431097T,083392939,0,98.9,1.76,A+,0.6,157.3,secondary,2
+Joyce,Abbott,F,2003-06-22,Micronesia,United Kingdom,07700 900 608,NG7Y 3DQ,ZZ 539387 T,021028854,0,99.7,1.93,B+,6.3,157.3,secondary,8
+Amber,Jones,F,1987-04-30,Rwanda,United Kingdom,+44(0)7700 900214,WA9M 2XF,ZZ 954868 T,085789728,0,64.0,1.59,O+,3.8,450.7,secondary,47
+Rosemary,Fletcher,F,1963-04-05,Ireland,United Kingdom,+44(0)7700 900 290,L23 8QG,ZZ 96 65 38 T,079135498,0,67.6,1.56,O+,6.5,31.4,secondary,45
+Stanley,Dunn,M,1981-12-29,Rwanda,United Kingdom,07700 900 307,HA5 6LS,ZZ 226907 T,113494231,0,42.4,1.92,B+,9.5,268.7,masters,49
+Victoria,Matthews,F,1960-09-19,Sierra Leone,United Kingdom,+447700 900 434,S2A 8YS,ZZ 72 88 26 T,070804553,0,58.8,1.43,B+,4.1,411.5,secondary,38
+Toby,Cox,M,1962-02-27,Turks and Caicos Islands,United Kingdom,(07700) 900 454,G93 4US,ZZ205051T,049024034,0,78.4,1.65,A+,1.8,292.8,secondary,38
+Jayne,Foster,F,2002-01-13,British Virgin Islands,United Kingdom,+44(0)7700 900020,PH22 4HQ,ZZ 195059 T,020544724,0,77.2,1.65,A+,6.2,181.9,primary,25
+George,Knight,M,1973-11-25,Switzerland,United Kingdom,+447700 900117,GY2 5DN,ZZ560229T,070406537,0,69.2,1.7,O-,8.8,357.0,bachelor,14
+Robin,Turner,M,1973-09-01,Northern Mariana Islands,United Kingdom,(07700) 900 273,KT0 3SU,ZZ 53 54 94 T,074218608,0,55.8,1.52,O+,5.3,194.9,masters,37
+Lynn,Parkes,F,1962-06-10,Panama,United Kingdom,07700 900893,N95 6TE,ZZ 270383 T,092751493,0,37.8,1.66,B+,4.5,2.2,bachelor,14
+Mohamed,Robinson,M,1988-02-16,Peru,United Kingdom,07700 900991,NP8V 2WQ,ZZ 859861 T,035736789,0,94.8,1.42,A+,5.9,271.5,primary,7
+Gemma,Campbell,F,1997-11-15,Antigua and Barbuda,United Kingdom,07700900628,S2T 1LJ,ZZ 37 27 30 T,123040808,0,43.1,1.49,O+,3.3,12.9,bachelor,4
+Justin,Moore,M,2002-05-12,Taiwan,United Kingdom,+44(0)7700900783,CH5M 3GE,ZZ597442T,019089164,0,44.3,1.86,A+,1.5,223.5,secondary,38
+Christian,Price,M,1959-09-02,Thailand,United Kingdom,+447700 900 462,W01 8NU,ZZ 574139 T,129866549,0,37.5,1.91,A+,9.3,163.0,secondary,3
+Charlene,Leach,F,1983-07-18,Kuwait,United Kingdom,+447700 900 434,TR3Y 2AQ,ZZ823863T,011131065,0,94.6,1.8,A+,2.6,85.2,masters,23
+Wayne,Wright,M,1996-04-20,Burundi,United Kingdom,07700900293,LN9 5TQ,ZZ 43 58 07 T,042961806,1,87.1,1.75,O+,1.2,336.1,secondary,35
+Sylvia,Roberts,F,1961-01-21,Bosnia and Herzegovina,United Kingdom,(07700) 900585,E6B 8UL,ZZ 59 19 60 T,027972616,0,71.8,1.85,B+,2.8,20.3,bachelor,9
+Aaron,Anderson,M,1957-01-18,Chad,United Kingdom,(07700)900854,W3K 9HU,ZZ 14 37 53 T,029572580,0,92.9,1.77,A+,4.7,333.8,secondary,37
+Lydia,Moore,F,1989-07-26,Burundi,United Kingdom,(07700)900313,LE27 0AH,ZZ 39 53 37 T,057863436,0,90.8,1.53,O+,8.9,352.1,masters,13
+Paige,Reeves,F,1960-08-22,Togo,United Kingdom,+447700 900 510,BB2P 6HW,ZZ118215T,049453061,0,77.8,1.71,O+,6.2,368.2,masters,5
+Chloe,Peacock,F,1986-12-12,Puerto Rico,United Kingdom,07700900641,M2C 6BS,ZZ916588T,014208089,0,46.1,1.95,O+,4.2,300.0,secondary,22
+Clive,Harris,M,1989-07-22,Liberia,United Kingdom,07700 900 184,B4H 2JA,ZZ057211T,036206632,0,63.1,1.85,O+,3.9,220.0,secondary,2
+Danny,Thompson,M,1968-05-10,Ukraine,United Kingdom,07700 900029,M38 4HA,ZZ 61 98 53 T,040804156,0,84.5,1.45,O+,0.2,267.1,secondary,43
+Jemma,Evans,F,1969-07-01,Greece,United Kingdom,+44(0)7700 900 834,TW5 0YX,ZZ558306T,129024970,0,76.7,1.94,O+,1.2,332.5,bachelor,32
+Rebecca,Thornton,F,1992-10-14,Belarus,United Kingdom,07700 900370,S3 6UR,ZZ 172888 T,020840716,0,58.1,1.52,B+,4.1,42.1,secondary,8
+Eleanor,Gibson,F,2002-03-19,Brunei Darussalam,United Kingdom,07700 900 302,W9 7GP,ZZ 939937 T,088300803,0,56.2,1.89,O+,5.2,472.2,secondary,44
+Alice,Wells,F,1957-03-29,Solomon Islands,United Kingdom,+44(0)7700900202,SR5 0UP,ZZ993855T,055291071,0,57.5,1.94,O+,2.5,259.7,secondary,14
+Peter,Mills,M,1964-01-28,Wallis and Futuna,United Kingdom,+44(0)7700 900322,E8B 4FY,ZZ405675T,032882636,0,85.8,1.59,A-,7.9,8.2,secondary,17
+Lesley,Nicholson,F,1995-08-28,Montenegro,United Kingdom,07700900784,G9 2NU,ZZ 29 95 80 T,048687090,0,37.6,1.91,O+,5.9,478.5,secondary,15
+Christopher,King,M,1999-07-13,Nigeria,United Kingdom,07700 900300,DN0 0XJ,ZZ254370T,019947565,0,72.7,1.84,A+,4.3,462.1,secondary,41
+Gavin,Mills,M,1958-01-22,Bosnia and Herzegovina,United Kingdom,07700 900 577,L11 4SA,ZZ 87 48 99 T,114312299,0,82.8,1.77,B+,6.7,385.5,phD,23
+Geraldine,Wood,F,1966-09-30,Botswana,United Kingdom,+44(0)7700 900 198,NE7 0FJ,ZZ 376996 T,053980669,0,95.3,1.69,A-,9.4,1.0,secondary,42
+Steven,Mistry,M,1963-10-01,Egypt,United Kingdom,07700 900356,G11 0PD,ZZ168131T,068846442,0,73.2,1.64,A+,2.7,156.5,other,48
+Denis,Roberts,M,1958-09-08,Ireland,United Kingdom,(07700)900159,JE3 2QG,ZZ 905168 T,090628175,0,77.8,1.78,A+,2.7,373.1,secondary,3
+Gillian,Adams,F,1975-05-17,Algeria,United Kingdom,+44(0)7700900760,S9 3LW,ZZ741361T,085274152,0,92.1,1.94,O+,4.7,122.2,phD,40
+Marie,Coates,F,1972-08-11,Moldova,United Kingdom,07700 900431,BB04 1RN,ZZ184250T,020739568,0,41.4,1.82,O-,9.2,264.3,bachelor,7
+Trevor,Brown,M,2000-09-07,Samoa,United Kingdom,(07700) 900 377,NE9 5JU,ZZ 95 99 00 T,060788689,0,92.2,1.69,O+,0.6,482.3,secondary,10
+Garry,Harris,M,2003-09-29,Andorra,United Kingdom,07700 900819,ZE08 0AJ,ZZ 50 47 96 T,059074689,0,44.0,1.52,O-,8.7,61.2,secondary,33
+Louis,Hughes,M,1983-10-08,Macao,United Kingdom,+447700900347,HU9 9QJ,ZZ 19 05 25 T,098467778,0,80.6,1.52,A+,2.8,76.2,secondary,9
+Laura,Donnelly,F,1964-02-28,Svalbard & Jan Mayen Islands,United Kingdom,+44(0)7700 900609,N4F 0BN,ZZ 47 53 93 T,109008880,0,96.1,1.74,A+,1.6,241.7,secondary,39
+Stacey,Freeman,F,2000-06-14,Pakistan,United Kingdom,+44(0)7700900876,NR8V 2RZ,ZZ 603608 T,043571897,0,87.9,1.49,O+,0.4,184.6,bachelor,9
+Molly,Pope,F,1973-11-24,Nigeria,United Kingdom,+447700 900754,SL52 5PE,ZZ224946T,033365291,0,94.1,1.68,A+,1.5,137.8,masters,14
+Karen,Brown,F,1996-08-07,San Marino,United Kingdom,07700 900 068,TD37 0SG,ZZ588474T,079015725,0,48.1,1.77,A+,7.2,224.6,secondary,44
+Yvonne,Miller,F,1989-01-19,Spain,United Kingdom,+44(0)7700900113,B8 2EB,ZZ 11 12 13 T,094997925,0,78.6,1.52,O-,1.5,308.3,secondary,47
+Mohammad,Grant,M,1974-01-16,Colombia,United Kingdom,(07700) 900 059,DH7N 7TQ,ZZ 83 13 72 T,027800131,0,43.4,1.69,O+,7.7,278.5,bachelor,43
+Jordan,Watkins,M,1957-12-11,Cambodia,United Kingdom,(07700)900430,N3 4YR,ZZ 583319 T,109824996,0,36.9,1.73,AB+,7.4,496.3,secondary,38
+Eric,Evans,M,1999-10-27,Korea,United Kingdom,(07700) 900 556,B2T 7QU,ZZ181528T,129056524,0,76.8,1.67,A+,3.2,338.0,secondary,24
+Lesley,Cole,F,1995-12-08,Marshall Islands,United Kingdom,+447700 900296,M20 7BY,ZZ 628610 T,011329851,0,75.0,1.91,O+,2.4,25.5,secondary,10
+Bradley,Harding,M,2000-11-12,Cameroon,United Kingdom,+44(0)7700 900455,M51 6WX,ZZ793917T,024793966,0,68.9,1.79,A-,2.0,284.7,masters,35
+Ashleigh,Hargreaves,F,1983-05-18,Montenegro,United Kingdom,+44(0)7700 900840,N2 0DJ,ZZ 88 87 78 T,025153712,0,67.7,1.69,A+,6.9,67.1,masters,4
+Jordan,O'Neill,M,1988-07-10,Paraguay,United Kingdom,07700900741,CO98 8FY,ZZ 10 04 47 T,047893568,0,62.6,1.79,A+,8.7,38.8,secondary,16
+Kenneth,Pickering,M,1990-12-10,Nepal,United Kingdom,07700900193,KW4H 2GL,ZZ125861T,045622647,0,90.4,1.87,O+,6.9,37.3,secondary,2
+Dylan,Hope,M,1958-10-30,Tokelau,United Kingdom,(07700)900047,TW9 9HD,ZZ 030795 T,077111317,0,47.9,1.43,A+,2.4,399.4,secondary,49
+Elaine,Miles,F,1970-05-24,South Africa,United Kingdom,(07700) 900 730,G06 0XQ,ZZ156066T,065565564,0,77.9,1.87,A+,2.6,332.2,bachelor,26
+Denis,Cook,M,2001-08-23,Macedonia,United Kingdom,+447700900819,NP6X 3EN,ZZ 44 37 92 T,050974814,0,70.7,1.65,AB+,5.5,215.9,other,6
+Lee,Adams,M,1962-03-03,Congo,United Kingdom,(07700) 900359,GY3W 8XT,ZZ526166T,111037580,0,90.5,1.86,A+,8.7,31.3,secondary,33
+Gareth,Gibbons,M,2002-12-17,Liberia,United Kingdom,07700 900 090,N53 7UA,ZZ 400482 T,026865630,0,51.7,1.69,A+,4.2,46.6,primary,44
+Adrian,Pritchard,M,1999-07-23,Tunisia,United Kingdom,(07700) 900622,G44 6NG,ZZ 57 32 77 T,093410555,0,78.2,1.91,A+,6.5,236.1,secondary,22
+Graeme,Wilson,M,1957-10-23,Cocos (Keeling) Islands,United Kingdom,+44(0)7700900758,EH51 1ZN,ZZ 28 99 07 T,037732930,1,84.5,1.6,A+,4.0,158.1,secondary,46
+Dylan,Coleman,M,1957-04-29,Monaco,United Kingdom,+44(0)7700 900237,WD59 1WY,ZZ 513710 T,127027319,0,45.2,1.72,B+,5.9,339.9,phD,13
+Gary,Rowe,M,1997-12-26,Myanmar,United Kingdom,+447700900026,ZE5 0JL,ZZ 42 44 78 T,010569094,0,75.6,1.96,A-,9.7,298.9,secondary,27
+Alison,Begum,F,1970-11-11,Gibraltar,United Kingdom,+44(0)7700900884,E2 8GQ,ZZ 204955 T,031514015,0,76.5,1.51,A+,2.4,366.5,secondary,34
+Marian,Lambert,F,1958-01-05,Guyana,United Kingdom,+44(0)7700 900 914,HX99 1FN,ZZ055785T,092373596,0,65.6,1.64,O+,1.5,393.2,other,41
+Laura,Hammond,F,1960-03-06,Venezuela,United Kingdom,+447700 900 837,S7 0ZR,ZZ 89 55 34 T,019157025,0,46.4,2.0,O+,4.2,444.0,bachelor,50
+Pamela,Rees,F,1981-12-31,Sierra Leone,United Kingdom,+447700 900294,CT80 4FR,ZZ 37 91 09 T,049298857,0,83.3,1.84,A+,8.8,70.4,secondary,33
+Jake,Wood,M,1968-11-13,Anguilla,United Kingdom,+447700 900897,N9F 1SU,ZZ976926T,116064040,0,99.8,1.45,O+,8.2,141.1,secondary,23
+Timothy,George,M,1977-01-01,Gabon,United Kingdom,(07700)900953,G49 1DR,ZZ 74 08 50 T,080055046,0,48.8,1.7,O+,8.8,333.4,secondary,44
+Gary,Walker,M,1973-06-12,Sweden,United Kingdom,07700 900445,IM7E 3FY,ZZ 403464 T,120537178,0,43.7,1.98,A+,5.3,101.1,phD,11
+Helen,Duffy,F,1994-10-23,Cote d'Ivoire,United Kingdom,07700900150,PE0 0HH,ZZ 21 90 99 T,080816777,0,96.0,1.8,A-,9.6,262.0,secondary,10
+Patricia,Matthews,F,1985-12-29,Poland,United Kingdom,07700 900 875,LA8 9QZ,ZZ739314T,050515781,0,49.5,1.55,A+,5.0,23.6,secondary,37
+Tracy,Humphries,F,1971-06-24,Singapore,United Kingdom,+447700900062,HU8 3WX,ZZ 39 39 22 T,032836860,0,83.4,1.41,O+,4.4,180.7,other,34
+Marcus,Arnold,M,1972-07-27,Bahamas,United Kingdom,+447700 900251,CF89 9ZP,ZZ 383100 T,114651002,0,41.2,1.85,A+,1.7,81.2,primary,39
+Helen,Lee,F,1973-07-23,Guatemala,United Kingdom,+447700900954,E3 4YW,ZZ 68 21 40 T,111392076,0,54.9,1.63,O+,1.2,14.8,secondary,27
+Joshua,Cook,M,1979-09-05,Portugal,United Kingdom,(07700)900061,NW6 6EW,ZZ 555568 T,113267772,0,80.4,1.67,O-,9.1,138.2,secondary,46
+Mandy,Baker,F,1999-06-02,Serbia,United Kingdom,(07700)900902,G80 5YS,ZZ 34 54 27 T,094521414,0,87.0,1.95,O+,2.3,409.6,secondary,36
+Andrew,Browne,M,1994-08-26,Saint Vincent and the Grenadines,United Kingdom,+447700900200,DE0Y 0TQ,ZZ 04 46 02 T,106419414,0,39.4,1.49,A+,2.2,117.7,secondary,35
+Donald,Watkins,M,1967-04-17,Spain,United Kingdom,(07700) 900 747,RH7B 2PY,ZZ 635507 T,048401043,0,47.8,1.64,O-,3.7,148.8,secondary,19
+Luke,Lee,M,1975-06-24,Mali,United Kingdom,+447700 900 618,B0S 0RX,ZZ 93 01 97 T,046544805,0,42.3,1.49,A+,2.9,423.2,masters,30
+Donald,Gardner,M,1962-03-03,San Marino,United Kingdom,(07700) 900 982,CM7 1WD,ZZ 541224 T,048906810,0,73.5,1.84,A-,5.1,444.0,bachelor,28
+Owen,Patel,M,1999-06-17,Cambodia,United Kingdom,07700900598,KT5 2TH,ZZ 42 22 03 T,048117780,0,48.1,1.77,A+,0.3,180.2,bachelor,35
+Sian,Carter,F,1995-03-01,Palau,United Kingdom,07700 900966,G2D 8HA,ZZ 977659 T,071380513,0,74.9,1.69,A+,5.7,318.3,secondary,29
+Adam,Stanley,M,1980-04-14,Taiwan,United Kingdom,(07700) 900215,S3 2QL,ZZ 999928 T,033033837,0,45.3,1.47,A+,9.1,299.0,secondary,5
+Beverley,Macdonald,F,1982-10-08,Ireland,United Kingdom,07700 900 918,M4 2TN,ZZ 701219 T,041001039,0,85.6,1.7,O+,4.0,351.2,bachelor,29
+Gemma,Price,F,1960-10-03,Kenya,United Kingdom,(07700) 900142,N60 5HX,ZZ874312T,111448674,0,72.6,1.58,O-,5.2,195.9,secondary,9
+Glen,Jones,M,1976-04-18,Hungary,United Kingdom,+447700900958,E3H 6WZ,ZZ484304T,045574397,0,68.5,1.82,A+,1.4,279.6,phD,22
+Nathan,Richardson,M,1967-11-03,Italy,United Kingdom,+447700900401,WR8A 5SH,ZZ 62 92 83 T,058676318,0,87.6,1.47,A+,10.0,341.1,secondary,40
+Jessica,Nelson,F,1977-07-21,Myanmar,United Kingdom,(07700)900076,M9D 9ZG,ZZ 99 58 21 T,125885663,0,86.4,1.61,O+,7.1,499.2,secondary,2
+Francesca,Stewart,F,1980-07-08,Anguilla,United Kingdom,07700 900174,W98 8NW,ZZ 361993 T,080315540,0,79.9,1.85,B+,3.6,385.2,secondary,32
+Leah,Thomson,F,1977-11-10,Cook Islands,United Kingdom,+447700 900213,NP3R 3GX,ZZ132713T,115480201,0,35.6,1.55,O+,5.7,473.1,secondary,15
+Katie,Ford,F,1997-05-08,Azerbaijan,United Kingdom,(07700) 900 576,LU4E 7TU,ZZ 348898 T,112932419,0,88.3,1.8,B+,2.8,27.8,secondary,4
+Charlie,Ingram,M,1988-01-20,Jordan,United Kingdom,+44(0)7700 900 981,FY92 0AL,ZZ 524979 T,125588698,0,80.7,1.53,A+,8.4,30.0,masters,47
+Marc,Barlow,M,1968-01-16,Romania,United Kingdom,07700900318,M3B 7AN,ZZ 07 81 26 T,059375964,0,64.4,1.88,O+,2.8,0.7,secondary,45
+Denise,Buckley,F,1958-10-19,Algeria,United Kingdom,(07700)900124,M0 6AD,ZZ843341T,025680531,0,90.9,1.42,A+,9.7,193.5,secondary,25
+Gareth,King,M,1956-04-29,Kyrgyz Republic,United Kingdom,+44(0)7700 900 521,BB6V 4AQ,ZZ997214T,108287408,0,71.5,1.53,O+,3.3,66.2,other,14
+William,Moore,M,1985-03-04,Namibia,United Kingdom,+44(0)7700 900690,RH51 8HX,ZZ 526730 T,084734428,0,51.4,1.58,A+,8.1,29.9,secondary,7
+Margaret,Walsh,F,1994-07-30,Central African Republic,United Kingdom,(07700)900934,W9 5YB,ZZ 882683 T,089635593,0,66.1,1.69,O+,2.7,368.9,primary,47
+Jacob,Fox,M,1993-02-21,Tunisia,United Kingdom,+44(0)7700 900 365,G2 6UJ,ZZ 96 19 74 T,031756556,0,46.3,1.62,O+,1.4,144.6,bachelor,43
+Jane,Johnson,F,1991-08-26,Malta,United Kingdom,+447700900770,B2 6LN,ZZ 47 77 65 T,105582614,0,42.1,1.49,O-,0.0,242.2,masters,12
+Mohamed,Lowe,M,1977-06-27,Lesotho,United Kingdom,07700 900131,SY4 9HS,ZZ 96 80 35 T,030168051,0,51.9,1.93,O-,7.5,4.3,bachelor,13
+Simon,Fox,M,1996-10-21,Cayman Islands,United Kingdom,07700 900498,AL89 2AH,ZZ152530T,106611694,0,72.2,1.67,A+,9.3,119.6,masters,3
+Arthur,West,M,1963-03-28,Bahamas,United Kingdom,+447700900987,TD1N 6ZL,ZZ 900269 T,047295441,0,69.9,1.79,B+,4.4,62.7,secondary,46
+Denis,Taylor,M,1956-12-24,Belarus,United Kingdom,(07700) 900 981,BN51 4PT,ZZ 084958 T,065192241,0,78.3,1.41,O+,8.9,208.7,secondary,24
+Sally,Watson,F,1984-07-05,Australia,United Kingdom,(07700)900176,N83 6HG,ZZ987941T,033530385,0,83.6,1.83,A+,9.8,353.1,bachelor,4
+Victoria,Edwards,F,1994-10-08,Malawi,United Kingdom,07700 900057,B9C 7EY,ZZ814380T,120213722,0,94.2,1.65,O+,8.9,230.4,secondary,22
+Jason,Johnson,M,1964-06-13,Moldova,United Kingdom,+44(0)7700 900 109,TD9 3ZH,ZZ 125191 T,071228989,0,89.6,1.41,B+,2.7,82.2,bachelor,42
+Deborah,Faulkner,F,1966-01-29,Cocos (Keeling) Islands,United Kingdom,(07700) 900859,L0F 4NU,ZZ761128T,023089118,0,83.8,1.71,O+,9.6,209.7,secondary,16
+Anna,Chan,F,1979-10-31,Lesotho,United Kingdom,+44(0)7700 900 673,NG0Y 7HN,ZZ875063T,014829662,1,53.6,1.68,O+,9.5,123.6,other,27
+Eleanor,Arnold,F,1963-01-15,French Polynesia,United Kingdom,(07700) 900365,TA7 3UG,ZZ417528T,024294258,0,45.7,1.98,AB+,8.7,421.7,secondary,43
+Catherine,Price,F,1986-07-26,Saint Vincent and the Grenadines,United Kingdom,(07700) 900145,B9 7PB,ZZ 600011 T,124505805,0,46.1,1.85,O+,1.1,199.8,secondary,34
+Charles,Smith,M,1982-05-17,Uruguay,United Kingdom,07700900588,SS8A 1QT,ZZ 197353 T,076415975,0,87.0,1.82,O+,9.1,123.9,secondary,38
+Christian,Donnelly,M,1993-12-13,Nauru,United Kingdom,+44(0)7700 900390,EX75 4JU,ZZ 45 32 52 T,116531777,0,79.5,1.87,O+,4.5,358.1,secondary,17
+Chelsea,Jones,F,2003-08-21,Faroe Islands,United Kingdom,+447700900830,M2 2WF,ZZ 785398 T,012708031,0,97.1,1.48,O+,3.2,366.5,secondary,38
+Diana,Fowler,F,2000-10-23,Peru,United Kingdom,+447700 900 815,IP1N 2YB,ZZ968302T,097340951,0,45.7,1.97,O+,2.4,204.2,bachelor,47
+Eleanor,Atkins,F,1997-05-14,Mozambique,United Kingdom,(07700) 900 572,B4 7TX,ZZ 208421 T,077611422,0,91.7,1.75,A-,4.6,397.3,masters,34
+Ryan,Briggs,M,1969-08-09,New Zealand,United Kingdom,(07700) 900209,EN2R 3ZD,ZZ805084T,063746673,0,36.7,1.63,B+,5.1,128.0,secondary,40
+Jordan,Vincent,M,1997-01-22,Eritrea,United Kingdom,+44(0)7700900097,W35 7JZ,ZZ 00 53 03 T,077010421,0,35.8,1.49,O-,4.7,25.4,bachelor,24
+Gary,Hargreaves,M,2002-07-06,Somalia,United Kingdom,+44(0)7700 900 115,SS9N 1XH,ZZ 362040 T,081698062,0,74.9,1.78,O+,4.9,52.4,secondary,22
+Brandon,Clayton,M,1978-02-11,Armenia,United Kingdom,(07700)900181,N75 2HN,ZZ 858415 T,017841414,0,48.8,1.63,B-,3.3,332.3,bachelor,47
+Paula,Walker,F,1956-09-19,Trinidad and Tobago,United Kingdom,07700 900620,SK5R 8LG,ZZ 902515 T,048421528,0,64.0,1.77,O+,2.7,89.0,secondary,17
+Iain,Burrows,M,1989-06-10,Nauru,United Kingdom,+44(0)7700 900 247,WA9 6GS,ZZ 631189 T,030643576,0,79.3,1.43,O+,2.1,82.4,bachelor,49
+Graham,Brown,M,1978-09-29,Croatia,United Kingdom,07700 900 868,B0K 3BW,ZZ740179T,012188745,0,39.0,1.71,O+,3.8,64.7,primary,21
+Nicola,Moss,F,1979-10-01,Guernsey,United Kingdom,+447700 900 467,W39 8SR,ZZ 11 00 83 T,108419399,1,65.1,1.58,A+,0.9,225.1,bachelor,32
+Nicholas,Leach,M,2001-03-07,Seychelles,United Kingdom,(07700) 900311,TQ80 7LZ,ZZ569952T,108520592,0,78.3,1.7,O-,2.6,426.0,secondary,15
+Frank,Hayward,M,1962-08-05,Saint Barthelemy,United Kingdom,07700900635,NE2X 2WP,ZZ 48 66 98 T,124727573,0,86.6,1.67,A-,0.1,351.0,other,39
+Jamie,Cross,M,1994-09-06,Christmas Island,United Kingdom,07700 900805,M89 4BR,ZZ 26 57 16 T,042496795,0,62.5,1.64,A+,7.9,393.0,bachelor,2
+Brenda,Price,F,1967-10-31,Guadeloupe,United Kingdom,+447700 900 750,W5J 4DD,ZZ 95 14 52 T,072074365,0,36.9,1.78,O+,6.7,195.5,phD,19
+Cheryl,Barrett,F,1966-12-13,Mauritius,United Kingdom,(07700) 900273,CA5H 7RB,ZZ 013027 T,098860126,0,82.3,1.46,O+,9.0,412.7,secondary,42
+Victor,Young,M,2003-02-03,Vietnam,United Kingdom,(07700) 900 245,E92 0JL,ZZ 346244 T,054309870,0,91.3,1.42,A-,8.6,222.9,secondary,24
+Carol,Howe,F,1957-11-13,Turkmenistan,United Kingdom,+44(0)7700 900 581,BD98 3NG,ZZ203336T,035801397,0,93.9,1.96,A+,0.9,149.7,secondary,10
+Gregory,Thomas,M,1977-05-20,Mexico,United Kingdom,+447700 900 409,LL11 0YB,ZZ347312T,026767194,0,81.5,1.76,O+,0.0,72.8,bachelor,36
+Lynne,Harris,F,1959-08-17,Comoros,United Kingdom,+44(0)7700 900349,N7E 1SN,ZZ 40 83 59 T,016735440,0,71.2,1.64,O+,8.5,225.8,secondary,4
+Claire,Hunt,F,2003-03-02,Slovenia,United Kingdom,(07700)900076,E1 8AB,ZZ543075T,015901615,0,63.5,1.7,O-,8.8,89.5,masters,26
+Terry,Carr,M,1968-07-05,Mongolia,United Kingdom,+44(0)7700 900 277,E79 4SX,ZZ 758757 T,090585713,0,79.7,1.94,A+,6.1,339.1,secondary,38
+Vincent,Robinson,M,1966-03-11,New Caledonia,United Kingdom,+447700 900 813,S8E 9PE,ZZ 371843 T,052190052,0,35.0,1.7,A+,0.8,440.4,secondary,29
+Ian,Bishop,M,1972-05-12,British Virgin Islands,United Kingdom,+44(0)7700 900563,S0A 5AR,ZZ 062303 T,021055940,0,77.5,1.84,A+,0.5,428.6,other,45
+Samuel,McCarthy,M,1957-05-14,Palau,United Kingdom,+44(0)7700900365,TD4 9HR,ZZ 99 98 47 T,027539538,0,66.6,1.78,O+,5.4,337.5,bachelor,30
+James,Smith,M,1957-09-07,Suriname,United Kingdom,07700900598,G72 8JQ,ZZ 91 59 95 T,038435634,0,84.0,1.98,O+,5.8,458.6,bachelor,17
+Samuel,Hewitt,M,1984-08-05,Turkey,United Kingdom,+44(0)7700900502,S2A 0JT,ZZ 09 85 50 T,099284073,0,82.9,1.89,A+,9.0,289.0,bachelor,41
+Georgia,Smith,F,2000-07-02,Guinea,United Kingdom,+44(0)7700900087,N4 2AZ,ZZ 44 22 69 T,081692576,0,60.5,1.94,O+,4.0,233.7,bachelor,5
+Ricky,Read,M,1977-06-20,Hungary,United Kingdom,+44(0)7700900830,GL57 8NX,ZZ 478584 T,055350776,0,68.7,1.86,A+,9.9,233.6,masters,19
+Bruce,Turner,M,1990-02-14,South Africa,United Kingdom,(07700) 900 258,MK97 3AB,ZZ 76 61 12 T,064121909,1,79.9,1.42,A+,2.6,479.5,masters,35
+Roy,Pickering,M,1993-05-10,Cook Islands,United Kingdom,07700 900058,E0 1ZE,ZZ 763378 T,060824006,0,46.8,1.49,O+,0.1,31.6,other,14
+Julie,Jones,F,1995-01-21,South Georgia and the South Sandwich Islands,United Kingdom,(07700)900784,M7 3TU,ZZ 18 20 11 T,109838254,0,42.3,1.88,A+,7.0,190.4,secondary,47
+John,Anderson,M,2003-06-18,Dominica,United Kingdom,07700 900562,N6H 5AA,ZZ 001831 T,032287668,0,54.0,1.62,O+,8.0,446.6,secondary,33
+Anne,Martin,F,1961-09-07,Slovakia (Slovak Republic),United Kingdom,07700 900812,S8 5BW,ZZ 738887 T,062309066,0,86.6,1.96,O+,1.7,477.3,phD,16
+Frederick,Adams,M,1987-06-11,Gibraltar,United Kingdom,(07700) 900 921,BT7N 6JJ,ZZ609609T,029266278,0,98.5,1.48,O+,0.1,17.7,masters,41
+Kenneth,Watson,M,2001-10-02,Mozambique,United Kingdom,07700 900269,CM1 7WE,ZZ 62 23 67 T,129329963,0,85.7,1.91,A+,7.8,100.4,secondary,37
+Donna,Davies,F,1998-12-19,Brunei Darussalam,United Kingdom,+447700 900938,L18 0RU,ZZ324618T,114671105,0,78.5,1.43,A+,2.2,40.9,secondary,43
+Hannah,Armstrong,F,1993-09-16,Sierra Leone,United Kingdom,(07700)900069,L8W 0AZ,ZZ 06 96 93 T,040215363,0,66.5,1.68,O-,9.4,108.2,secondary,5
+Sean,Hill,M,2003-09-14,Suriname,United Kingdom,07700 900001,BA6V 9NY,ZZ932853T,012335446,0,51.1,1.95,O+,7.4,241.9,phD,47
+Rosie,Wright,F,1993-03-30,Iceland,United Kingdom,07700 900 159,S92 4LG,ZZ435984T,101703727,0,91.2,1.61,A+,7.4,404.4,other,25
+Bruce,Curtis,M,1981-03-13,Moldova,United Kingdom,+44(0)7700900720,YO79 8GL,ZZ 58 57 13 T,114943781,0,61.9,1.75,B+,1.6,185.8,other,24
+Karen,Thomas,F,1974-01-17,Iceland,United Kingdom,+447700 900 310,PH2B 7XU,ZZ 14 24 81 T,014123737,0,60.0,1.44,A+,5.0,292.2,secondary,19
+Mary,Newman,F,1998-01-17,Guatemala,United Kingdom,07700 900 573,TN38 2WH,ZZ 00 83 03 T,084739355,0,96.5,1.42,O+,0.6,145.5,other,39
+Denise,Cooper,F,1986-05-15,American Samoa,United Kingdom,07700 900 836,AB9W 8BG,ZZ291698T,078621738,0,38.2,1.56,B+,4.2,229.1,primary,32
+Martin,Parker,M,1996-06-15,Holy See (Vatican City State),United Kingdom,+44(0)7700900716,S0 8DS,ZZ 004166 T,079601265,0,96.0,1.52,A+,7.6,174.3,bachelor,2
+Samuel,Edwards,M,1998-03-28,Kuwait,United Kingdom,07700 900 695,B6E 2JL,ZZ 090005 T,010667666,0,48.6,1.52,AB+,3.0,419.6,secondary,43
+Leah,Roberts,F,1978-01-26,Romania,United Kingdom,(07700) 900244,L4J 7LE,ZZ 33 01 50 T,074474303,0,42.3,1.42,A+,2.2,392.8,bachelor,14
+Gerard,Lucas,M,1992-03-01,Afghanistan,United Kingdom,+44(0)7700 900 627,N6S 0WB,ZZ603205T,059843328,0,39.7,1.74,A+,9.9,220.8,other,9
+Nicole,Rogers,F,1979-09-10,Serbia,United Kingdom,07700 900 882,W2 2RW,ZZ996225T,071321022,0,38.8,1.89,O+,2.5,123.4,secondary,47
+Anna,Burton,F,1977-06-15,Samoa,United Kingdom,+44(0)7700900677,DT1A 7GR,ZZ375693T,108066962,0,91.4,1.48,O+,9.9,47.8,secondary,39
+Maureen,Parry,F,1963-03-26,Hong Kong,United Kingdom,+447700900006,E16 8HX,ZZ 35 77 67 T,064950316,0,61.3,1.85,O+,8.8,51.1,secondary,31
+Angela,Palmer,F,1987-11-11,Cocos (Keeling) Islands,United Kingdom,07700 900 124,N0T 3NB,ZZ554217T,101324177,0,65.8,1.76,A+,6.9,7.7,bachelor,26
+Sheila,Hutchinson,F,1991-01-06,Nepal,United Kingdom,07700 900 421,CF5M 6LR,ZZ 69 30 31 T,025933835,0,59.9,1.91,B-,8.1,253.7,bachelor,44
+Ronald,Dale,M,1961-02-19,Norfolk Island,United Kingdom,+44(0)7700 900830,TF60 6GE,ZZ 635674 T,128987364,0,46.6,1.85,O+,3.3,479.3,masters,16
+Jacob,Edwards,M,1971-05-20,Anguilla,United Kingdom,(07700) 900030,NP0Y 0AE,ZZ 724236 T,098144949,0,56.6,1.5,O-,8.9,437.4,secondary,40
+Billy,Mason,M,1956-06-01,Mozambique,United Kingdom,+44(0)7700 900 816,SG87 9BA,ZZ 62 69 74 T,090620827,0,93.9,1.72,B+,5.3,119.1,secondary,21
+Kimberley,Andrews,F,1975-08-17,Maldives,United Kingdom,(07700) 900517,W7E 5LB,ZZ574843T,082148919,0,89.7,1.67,A+,5.2,19.7,secondary,12
+Katie,Jones,F,1970-07-14,Jersey,United Kingdom,(07700) 900495,CA15 7NT,ZZ838823T,060301804,0,65.9,1.63,O+,5.6,237.5,bachelor,13
+Joan,Pritchard,F,1988-09-09,Kazakhstan,United Kingdom,+44(0)7700 900 623,M41 2NN,ZZ 612671 T,082871901,0,42.1,1.87,A-,2.8,0.3,primary,14
+Glen,Evans,M,1989-01-22,Mali,United Kingdom,(07700)900884,G5J 3YW,ZZ 423477 T,088158301,0,58.9,1.88,O+,3.5,78.7,primary,20
+Jay,Chapman,M,1993-05-08,Bouvet Island (Bouvetoya),United Kingdom,07700 900 849,WS8R 9BZ,ZZ 79 26 59 T,025450473,0,87.2,1.46,A+,2.3,256.9,bachelor,45
+Marc,Smith,M,1997-04-16,Belize,United Kingdom,(07700) 900950,BT3 3JJ,ZZ460605T,096929027,0,68.1,1.58,AB+,0.4,95.4,masters,21
+Judith,Robson,F,1957-03-22,Bolivia,United Kingdom,+447700900818,L2 9JF,ZZ 663295 T,054978117,0,78.3,1.76,O+,0.6,48.9,bachelor,20
+Stacey,Taylor,F,1979-09-24,Cayman Islands,United Kingdom,07700900623,LD1 5RN,ZZ 246018 T,018717097,0,95.2,1.51,O+,0.3,367.6,primary,34
+Shane,Mellor,M,1960-08-10,Burkina Faso,United Kingdom,(07700) 900628,SW4P 2GP,ZZ 57 74 81 T,022110619,0,52.9,1.41,O+,4.5,362.1,secondary,27
+Lee,O'Neill,M,1976-12-16,Cote d'Ivoire,United Kingdom,+44(0)7700 900 555,DG3 4YX,ZZ908782T,115584563,0,86.0,1.54,A+,1.4,70.7,masters,30
+Carol,Page,F,1998-11-14,Grenada,United Kingdom,+447700900826,CB14 8YN,ZZ 850332 T,040514750,0,75.7,1.94,O+,8.7,109.0,other,6
+Heather,Harrison,F,2001-09-14,Romania,United Kingdom,07700900522,L3B 2SF,ZZ 78 39 28 T,072387832,0,42.6,1.74,A+,2.2,219.6,other,32
+Vincent,Gray,M,1977-12-03,United States Minor Outlying Islands,United Kingdom,+44(0)7700 900322,L1E 7QL,ZZ 101311 T,059975539,1,53.1,1.83,A+,7.7,322.0,bachelor,24
+Simon,Matthews,M,1967-08-14,Niger,United Kingdom,(07700) 900 730,L90 8NG,ZZ287389T,045058842,0,91.8,1.42,O+,8.8,308.4,secondary,19
+Louise,Allan,F,1978-09-19,Finland,United Kingdom,07700 900149,E9F 0TB,ZZ048425T,040661344,0,35.5,1.46,A+,3.9,182.2,masters,13
+Henry,Warren,M,1971-06-10,Slovakia (Slovak Republic),United Kingdom,07700 900982,G7S 9BS,ZZ 00 35 25 T,099363237,0,86.6,1.52,A-,1.6,45.0,bachelor,17
+Denise,Jones,F,1997-01-22,Western Sahara,United Kingdom,07700 900 703,S6B 8LB,ZZ 62 08 97 T,067527607,0,74.4,1.96,A+,9.0,25.7,primary,7
+Joanne,Khan,F,1993-05-14,Western Sahara,United Kingdom,(07700)900293,BS50 6ZT,ZZ 736932 T,015124010,0,45.5,1.49,O+,9.6,91.4,secondary,8
+Amanda,Robinson,F,1998-11-26,Antarctica (the territory South of 60 deg S),United Kingdom,+447700 900398,JE7 8JR,ZZ 50 67 80 T,098512377,0,50.5,1.68,O-,7.1,264.1,bachelor,37
+Paula,Marshall,F,1997-01-23,Nauru,United Kingdom,+447700 900 102,SA2V 3WY,ZZ 87 17 74 T,040741222,0,53.3,1.52,O-,0.6,168.5,bachelor,31
+Nicholas,Edwards,M,1988-05-26,Lao People's Democratic Republic,United Kingdom,(07700) 900409,S3A 8FR,ZZ 39 11 15 T,027864216,0,44.1,1.82,B+,3.4,187.4,secondary,35
+Fiona,Byrne,F,1990-07-04,Andorra,United Kingdom,07700 900 338,BD5 3EG,ZZ 73 41 11 T,012836398,0,45.2,1.44,A+,7.8,425.5,secondary,49
+Victoria,Harvey,F,1992-04-20,Gabon,United Kingdom,+447700 900 213,HU8X 6XR,ZZ 12 60 27 T,081521537,0,58.9,1.97,O+,3.5,444.4,primary,29
+Bethan,King,F,1975-04-27,Saint Barthelemy,United Kingdom,(07700) 900131,PO8 7QJ,ZZ 026395 T,035797032,0,91.1,1.57,A-,4.8,408.5,bachelor,29
+Clive,Rees,M,1961-09-07,Italy,United Kingdom,+44(0)7700900053,TD5Y 0TW,ZZ784509T,018344554,0,66.1,1.55,A+,4.4,421.8,other,42
+Rosie,Gardiner,F,1960-07-07,Thailand,United Kingdom,(07700) 900 053,OX0N 6PU,ZZ 12 18 42 T,093621742,0,56.8,1.68,O-,3.5,86.5,secondary,33
+Damian,Clarke,M,1983-10-04,Argentina,United Kingdom,07700 900703,W73 8YH,ZZ 634852 T,016234815,0,54.7,1.94,O+,2.2,301.7,bachelor,27
+Donna,Watson,F,1994-02-19,Belgium,United Kingdom,(07700) 900077,EN9W 6GB,ZZ 396340 T,120552946,0,47.4,1.98,B+,0.8,154.1,primary,30
+Chloe,Gardiner,F,1974-05-14,Eritrea,United Kingdom,+447700 900566,DD8 0ZD,ZZ 53 78 71 T,029935185,0,74.7,1.6,A+,5.1,449.9,primary,29
+Joseph,White,M,1961-04-26,Kuwait,United Kingdom,(07700)900003,SY28 1TT,ZZ 13 79 49 T,069971963,0,89.6,1.67,A+,3.8,75.3,secondary,20
+Diana,Clark,F,1962-08-14,Botswana,United Kingdom,+44(0)7700 900 805,OX20 0TZ,ZZ651644T,089597851,0,94.5,1.81,O+,6.9,0.8,masters,46
+Neil,Baxter,M,1979-11-24,Switzerland,United Kingdom,(07700) 900153,W88 9LH,ZZ 150743 T,113885471,0,79.0,1.52,O+,6.3,112.5,other,12
+Alison,Jones,F,1985-03-09,Marshall Islands,United Kingdom,(07700)900428,M42 8LD,ZZ953130T,029057539,0,82.0,1.46,O-,2.0,110.2,bachelor,19
+Gregory,Wood,M,1981-03-22,Reunion,United Kingdom,+447700 900 072,TA7W 6QS,ZZ 25 60 30 T,040223193,0,50.3,1.86,O-,2.3,386.7,primary,4
+Owen,Hayward,M,1993-05-21,Liberia,United Kingdom,(07700) 900 399,L1 1TB,ZZ 152449 T,078161515,0,45.8,1.78,O+,7.8,168.2,phD,42
+Georgia,Howe,F,1987-06-20,Jersey,United Kingdom,(07700) 900249,W8 3DE,ZZ957768T,033769499,0,38.8,1.49,A+,5.3,338.3,bachelor,44
+Joanna,O'Brien,F,1981-10-16,Turkey,United Kingdom,(07700) 900 029,FY3P 2BP,ZZ 68 35 54 T,034109294,0,44.1,1.5,O-,3.5,108.5,other,49
+Elizabeth,Gray,F,1980-12-31,Greece,United Kingdom,(07700)900170,W58 6GU,ZZ565281T,055313137,0,79.7,1.41,A+,3.7,416.1,secondary,5
+John,King,M,1957-05-11,Mauritius,United Kingdom,(07700) 900861,TA7X 1SA,ZZ772143T,126781083,0,38.6,1.64,A+,7.3,31.6,secondary,18
+Marion,Jenkins,F,1976-08-14,Mauritius,United Kingdom,+44(0)7700900394,E6C 0EU,ZZ 84 40 48 T,122452002,0,44.3,1.89,O+,0.3,383.4,secondary,40
+Jonathan,Parsons,M,1957-03-20,Samoa,United Kingdom,+447700 900 594,EN00 2UN,ZZ 992547 T,019141455,0,47.9,1.52,A+,5.2,358.3,bachelor,41
+Oliver,Watson,M,2000-02-26,Brazil,United Kingdom,+447700 900568,M2H 8EG,ZZ 289053 T,056588233,0,42.1,1.51,O+,2.5,82.3,phD,5
+Amanda,Smith,F,1994-10-30,Samoa,United Kingdom,+44(0)7700 900 313,HX7V 3GL,ZZ 546925 T,065186011,0,91.4,1.78,A+,8.0,26.9,bachelor,23
+Sylvia,Davies,F,1982-07-11,Tokelau,United Kingdom,+44(0)7700900780,S9 3HR,ZZ 08 52 85 T,049039016,0,60.1,1.69,A+,4.1,455.2,secondary,14
+Brenda,Page,F,1960-04-19,Italy,United Kingdom,+44(0)7700 900171,LU9 9TP,ZZ 769283 T,093219183,0,54.1,1.87,O+,0.2,284.9,secondary,49
+Brenda,Payne,F,2002-07-14,Poland,United Kingdom,+44(0)7700 900806,ST7 8NU,ZZ 26 55 08 T,073472649,0,60.1,1.69,A+,7.0,420.7,primary,8
+Graham,Hunt,M,1994-04-23,Taiwan,United Kingdom,(07700) 900837,LL0B 1GU,ZZ093510T,083021297,1,61.3,1.5,A+,9.0,405.1,bachelor,28
+Tracey,Clarke,F,2001-04-05,French Polynesia,United Kingdom,+44(0)7700 900 512,OX3 4YN,ZZ 02 41 28 T,095495675,0,76.6,1.84,O+,1.7,493.0,masters,26
+Alison,Henderson,F,1956-01-02,South Georgia and the South Sandwich Islands,United Kingdom,+44(0)7700900392,N3J 2PH,ZZ997737T,061181625,0,64.8,1.84,O+,4.6,93.9,bachelor,29
+Melissa,Clark,F,1972-10-15,Korea,United Kingdom,+44(0)7700 900639,BN32 5GE,ZZ 515259 T,058374607,0,85.5,1.72,B+,8.1,98.4,secondary,33
+Louis,Fleming,M,1980-07-12,Lebanon,United Kingdom,+447700900266,TQ01 1NA,ZZ189806T,092236484,0,51.6,1.69,O+,8.1,395.3,phD,4
+Leanne,Ali,F,1983-11-10,Uganda,United Kingdom,+44(0)7700900728,MK5 5XW,ZZ533016T,019847775,0,47.5,1.98,O+,9.3,261.6,bachelor,27
+Hollie,Green,F,1966-01-31,Taiwan,United Kingdom,(07700) 900953,G86 4ES,ZZ617404T,101684516,1,83.0,1.74,A-,1.6,57.9,secondary,35
+Albert,Holland,M,1971-11-13,Solomon Islands,United Kingdom,(07700)900785,W61 5YF,ZZ603602T,116338077,0,40.1,1.91,A+,2.0,195.4,bachelor,30
+Stacey,Butler,F,1969-07-09,Yemen,United Kingdom,+447700 900074,SW7W 5JF,ZZ089296T,129592143,0,71.5,1.83,O+,7.7,286.2,masters,45
+Stephanie,Wright,F,1989-12-22,Zambia,United Kingdom,(07700) 900 294,W9 2QE,ZZ988015T,072452916,0,53.2,1.78,O+,0.2,373.6,secondary,5
+Jeremy,Williams,M,1983-12-02,Syrian Arab Republic,United Kingdom,07700900404,S9 2XL,ZZ 500569 T,010397282,0,69.0,1.91,A+,8.3,325.5,secondary,37
+Jasmine,Fowler,F,1980-05-15,United States of America,United Kingdom,+447700900373,E50 7NL,ZZ 694432 T,125477372,0,52.3,1.78,A-,7.7,268.0,phD,7
+Marie,May,F,1969-07-14,Ireland,United Kingdom,(07700) 900345,M7 1TG,ZZ 737026 T,102855881,0,68.8,1.57,A+,1.9,186.7,secondary,11
+Hollie,Carter,F,1968-11-23,Morocco,United Kingdom,+447700900639,M80 0ER,ZZ514029T,119542161,0,79.1,1.62,O+,5.0,306.3,bachelor,34
+Sian,Howell,F,1976-03-27,Liechtenstein,United Kingdom,07700 900 867,L51 0BH,ZZ151525T,023078129,0,41.1,1.6,B+,2.2,386.6,bachelor,46
+Deborah,Wilson,F,1960-04-02,Chile,United Kingdom,(07700) 900 525,L4W 2BZ,ZZ 18 94 84 T,039166656,0,78.2,1.65,A+,6.0,151.1,secondary,30
+Jemma,Hartley,F,1992-02-06,Netherlands Antilles,United Kingdom,07700900595,M4J 3XG,ZZ 36 61 82 T,025705144,0,57.7,1.87,A+,5.1,173.3,secondary,12
+Andrea,Allen,F,1985-06-07,Palau,United Kingdom,07700 900403,W9T 9JE,ZZ 827383 T,112877082,0,95.6,1.65,O+,4.7,237.0,phD,24
+Jane,Ali,F,1957-08-29,Andorra,United Kingdom,07700 900 056,PE9 5XY,ZZ634032T,034733929,0,40.6,1.44,AB+,4.0,293.7,secondary,10
+Joshua,Foster,M,1973-05-30,Switzerland,United Kingdom,07700 900 127,PH2E 0JW,ZZ 195625 T,078004096,0,74.3,1.73,A+,0.4,162.0,secondary,38
+Claire,Savage,F,1994-08-07,Falkland Islands (Malvinas),United Kingdom,07700 900 978,M8 0ES,ZZ 38 53 19 T,094391181,0,49.8,1.78,O+,5.6,56.0,secondary,4
+Nicole,Abbott,F,1981-04-03,Guernsey,United Kingdom,07700 900 614,TQ24 0NW,ZZ 725522 T,052507166,0,94.8,1.45,O-,9.2,498.9,masters,15
+Marc,Francis,M,1990-04-12,Mexico,United Kingdom,07700900080,SY82 5UD,ZZ 071394 T,040722526,0,79.2,1.8,A+,5.2,150.7,bachelor,39
+Katherine,Reed,F,1966-06-26,Zimbabwe,United Kingdom,(07700) 900318,B58 5WX,ZZ809694T,027775525,0,69.1,1.86,A+,2.2,242.5,secondary,3
+Suzanne,O'Neill,F,1975-08-08,Namibia,United Kingdom,07700900719,HS00 1YD,ZZ 74 54 35 T,051154604,0,72.5,1.95,A+,1.1,103.3,secondary,43
+Hollie,Johnson,F,1974-07-06,Isle of Man,United Kingdom,+44(0)7700 900246,N0F 4LA,ZZ 55 16 73 T,110648983,1,53.5,1.44,A+,9.9,371.5,other,31
+Jeremy,Barrett,M,1972-07-07,Montserrat,United Kingdom,+447700900819,E1 2RX,ZZ 32 78 69 T,013282080,1,49.9,1.64,A+,6.4,209.0,other,48
+Gerard,Cook,M,1956-11-06,Somalia,United Kingdom,07700900195,G11 7AW,ZZ 498628 T,125568867,0,86.9,1.83,A-,6.8,405.3,masters,41
+Francis,Jackson,M,1985-09-15,Barbados,United Kingdom,+44(0)7700 900 476,S2 8JA,ZZ 911803 T,015136781,0,70.3,1.55,O+,0.4,212.7,masters,6
+Jenna,O'Brien,F,1968-11-03,Pitcairn Islands,United Kingdom,07700 900 121,L1G 1YR,ZZ 48 73 67 T,114839086,0,43.3,1.58,A+,6.3,166.5,other,7
+Shirley,Scott,F,1992-01-02,Mozambique,United Kingdom,+447700 900364,G4S 9PY,ZZ607197T,044949583,0,42.7,1.91,A+,6.5,122.6,secondary,30
+Holly,Armstrong,F,1972-06-01,Chad,United Kingdom,+447700 900 755,L6U 7LG,ZZ729115T,084057367,0,60.2,1.52,A+,1.3,274.0,bachelor,32
+Arthur,Simpson,M,1977-01-30,United States Virgin Islands,United Kingdom,+447700 900 137,BD39 4YL,ZZ 882140 T,025231485,0,37.7,1.42,A+,4.9,346.5,masters,21
+Jayne,Kennedy,F,1984-03-07,Taiwan,United Kingdom,+447700900574,M3H 6AP,ZZ 747141 T,127031295,0,76.1,1.48,A+,5.3,407.0,secondary,48
+Lucy,Parker,F,1990-01-29,Ethiopia,United Kingdom,+44(0)7700 900 029,W3 9RR,ZZ 279318 T,077635424,0,71.5,1.63,O-,0.5,114.5,secondary,41
+Allan,Barnes,M,1979-07-26,Rwanda,United Kingdom,(07700) 900686,WV9W 0YH,ZZ 83 52 38 T,089940893,0,71.5,1.9,AB-,1.5,75.2,bachelor,4
+Lauren,Davies,F,1988-10-05,Cape Verde,United Kingdom,07700 900 367,LE0 2BG,ZZ 24 61 51 T,073250036,0,60.9,1.74,A+,3.0,102.5,bachelor,39
+Valerie,Chadwick,F,1978-07-13,Iraq,United Kingdom,+44(0)7700 900 144,G9 3BD,ZZ 855228 T,067642595,0,80.2,1.49,O+,4.5,237.9,secondary,32
+Diane,Bibi,F,1970-08-07,Spain,United Kingdom,+447700900983,TS8 1JR,ZZ589610T,129076944,0,77.4,1.57,A+,2.0,257.3,secondary,32
+Brian,Hicks,M,1981-03-09,Gibraltar,United Kingdom,+447700 900304,DD8 7XQ,ZZ 65 63 43 T,103466211,0,39.6,1.93,A-,2.1,250.4,other,35
+Karl,Rowley,M,1980-08-12,Belgium,United Kingdom,+44(0)7700 900 494,CT0E 5GE,ZZ 972746 T,104635038,0,78.0,1.45,A-,4.8,380.3,secondary,40
+Jane,Pritchard,F,1967-08-08,Niger,United Kingdom,+447700 900 682,W3 1RZ,ZZ 74 49 38 T,092597039,0,47.4,1.79,B+,0.3,179.8,bachelor,50
+Leonard,Robertson,M,1985-04-28,Hungary,United Kingdom,(07700) 900678,LU9R 7PR,ZZ731495T,043718993,0,58.7,1.73,O+,3.6,114.2,primary,11
+Neil,Webb,M,1980-03-04,Burkina Faso,United Kingdom,+447700 900 392,MK4 4JW,ZZ 80 96 73 T,069002625,0,56.0,1.45,A-,1.7,290.7,secondary,33
+Kate,Cox,F,1960-11-27,Switzerland,United Kingdom,+44(0)7700 900 905,N53 0PZ,ZZ 854323 T,085674435,0,59.9,1.99,A+,4.6,234.5,masters,16
+Paula,Dunn,F,1991-02-27,Maldives,United Kingdom,(07700)900852,BL2 6TR,ZZ488736T,042361150,0,66.9,1.59,O+,4.0,34.9,bachelor,3
+Sam,Barker,M,1968-05-06,Ghana,United Kingdom,(07700)900950,B31 5UH,ZZ 70 91 19 T,109001065,0,83.2,1.59,A+,8.3,4.9,phD,7
+Barry,Barry,M,1996-05-20,Bolivia,United Kingdom,(07700)900288,B89 8ZL,ZZ 632458 T,044415952,0,44.6,1.88,O+,1.7,56.3,bachelor,36
+Kathryn,Hancock,F,1975-09-21,Poland,United Kingdom,+44(0)7700 900665,B7A 3SF,ZZ 364375 T,064449267,0,84.8,1.83,O+,2.1,35.1,other,25
+Catherine,Harris,F,1964-12-22,Turks and Caicos Islands,United Kingdom,+447700 900 505,RM12 9FH,ZZ002009T,101695411,0,67.8,1.7,A+,3.5,445.7,bachelor,37
+Teresa,Smith,F,1970-08-11,Saint Martin,United Kingdom,+447700900343,SS1 3WA,ZZ 313922 T,063183650,0,86.3,1.46,O+,5.3,215.6,secondary,23
+Ann,King,F,1977-08-08,Northern Mariana Islands,United Kingdom,+44(0)7700900335,SP6H 0JJ,ZZ 556029 T,075100074,0,63.6,1.98,O+,0.4,375.4,bachelor,4
+Abigail,Cooper,F,2003-05-07,Moldova,United Kingdom,07700900998,W93 8SQ,ZZ 487858 T,077410092,0,50.5,1.67,O+,2.5,457.0,secondary,6
+Maria,Howard,F,1980-01-21,Greenland,United Kingdom,07700 900474,N53 4FX,ZZ811749T,068654469,0,78.6,1.43,A+,7.0,172.2,secondary,41
+Annette,Cook,F,1963-07-03,Dominican Republic,United Kingdom,(07700) 900 620,B9E 7JR,ZZ 46 93 68 T,020739937,0,75.8,1.97,A+,1.5,229.9,secondary,16
+Hannah,Hobbs,F,1967-08-24,Falkland Islands (Malvinas),United Kingdom,07700 900914,S9 6QB,ZZ 02 89 32 T,077814449,0,36.7,1.96,A+,0.4,229.3,phD,17
+Nicole,Smith,F,1985-01-06,South Georgia and the South Sandwich Islands,United Kingdom,07700900081,L2 0SH,ZZ 297078 T,048471918,0,53.2,1.66,O-,1.2,30.9,secondary,13
+Denis,Turner,M,1985-12-23,Cote d'Ivoire,United Kingdom,+44(0)7700 900671,M7G 4NQ,ZZ331917T,043841297,0,81.6,1.5,B+,1.2,182.8,secondary,46
+Christine,Smith,F,1980-01-03,Isle of Man,United Kingdom,+44(0)7700 900040,BN1M 0JD,ZZ 64 75 34 T,071372110,0,66.8,1.5,A-,5.9,270.6,phD,30
+Simon,Fox,M,1980-06-10,Guinea,United Kingdom,(07700)900371,G13 4TU,ZZ584641T,048734765,1,46.3,1.69,O+,7.1,267.7,bachelor,23
+Stewart,Brooks,M,1986-01-02,Kazakhstan,United Kingdom,+447700 900 257,EN93 2BS,ZZ936333T,086994004,0,82.9,1.96,O+,9.6,57.9,other,12
+Neil,Stevens,M,1962-10-25,Ethiopia,United Kingdom,+44(0)7700 900 248,CR9 9PP,ZZ 57 94 99 T,064488150,0,78.8,1.98,O+,3.9,300.1,bachelor,39
+Francesca,Parker,F,1998-03-25,Chad,United Kingdom,(07700) 900880,M6A 0EJ,ZZ133246T,109486253,0,79.3,1.54,A+,0.7,408.1,secondary,16
+Diane,Ward,F,1965-08-13,Gabon,United Kingdom,+447700 900719,L6 2DW,ZZ 79 93 38 T,058925849,0,49.2,2.0,O+,0.7,115.1,bachelor,12
+Tracey,Butcher,F,1987-11-07,Niger,United Kingdom,07700 900 267,SY6 9QG,ZZ672484T,067825419,0,78.7,1.72,AB+,1.3,265.4,secondary,31
+Nigel,Cooper,M,1965-08-05,Ireland,United Kingdom,+447700900533,NN48 8AT,ZZ 452993 T,053135197,0,63.5,1.66,O+,9.1,247.0,masters,9
+Derek,Warren,M,1989-11-17,Iran,United Kingdom,07700900117,E28 9ND,ZZ 117254 T,042243317,0,95.2,1.47,A+,9.8,45.6,primary,28
+Jake,Clarke,M,2003-02-21,France,United Kingdom,+447700900420,E33 4PX,ZZ948810T,047528765,0,75.2,1.61,AB-,2.3,432.6,phD,23
+Danielle,Gallagher,F,1968-08-07,Australia,United Kingdom,+447700900218,L5 9HG,ZZ 73 46 19 T,068652092,0,40.9,1.74,A+,4.7,418.4,secondary,12
+Victor,Thompson,M,2002-06-15,Tuvalu,United Kingdom,(07700) 900 282,N23 0GP,ZZ704667T,096646902,0,78.0,1.5,B+,6.1,252.6,masters,2
+Oliver,Jackson,M,1971-07-13,Bahrain,United Kingdom,+447700900910,S3 5NJ,ZZ066649T,076761881,0,70.0,1.46,A+,7.5,267.4,bachelor,41
+Beverley,Morris,F,1998-03-17,Comoros,United Kingdom,+447700 900416,E8 7TQ,ZZ 248467 T,016788303,0,69.0,1.48,A+,6.6,20.6,primary,45
+Shirley,Thomas,F,1989-04-10,Luxembourg,United Kingdom,+44(0)7700 900590,EC81 8XJ,ZZ 165155 T,076740187,0,49.0,1.85,B+,0.7,397.5,masters,37
+Kirsty,Garner,F,1990-05-31,Turkmenistan,United Kingdom,07700 900059,FK2 1GU,ZZ553924T,020739474,1,46.7,1.88,O+,7.3,495.5,masters,21
+Shannon,Duffy,F,1962-12-23,Latvia,United Kingdom,+44(0)7700 900 206,W8 1BL,ZZ 62 06 34 T,060832823,0,80.9,1.96,B+,7.1,2.0,bachelor,37
+Daniel,Watkins,M,2003-07-14,Turkmenistan,United Kingdom,07700 900562,W4A 5FY,ZZ361616T,101822284,0,66.5,1.57,O+,9.1,341.2,other,23
+Alexandra,Thompson,F,1985-03-06,Norway,United Kingdom,+447700 900 537,L02 8FJ,ZZ589442T,039881339,0,50.5,1.85,A+,5.8,89.0,secondary,49
+Darren,Martin,M,2001-05-25,United States Virgin Islands,United Kingdom,(07700) 900407,WR4V 6JS,ZZ 911294 T,015352594,0,78.2,1.7,O+,0.3,338.4,secondary,44
+Joshua,Young,M,1993-08-17,Cayman Islands,United Kingdom,+447700 900961,MK8X 9RH,ZZ 98 46 22 T,018221101,0,39.0,1.71,A+,7.5,27.8,secondary,42
+Neil,Wilson,M,1986-05-21,Germany,United Kingdom,07700 900532,SA7P 0TP,ZZ 706692 T,122027275,0,42.3,1.91,O+,2.2,201.0,secondary,21
+Charlie,French,M,1985-11-17,Korea,United Kingdom,+447700 900494,W8 6XD,ZZ 45 85 50 T,122999141,0,79.9,1.49,A+,0.6,109.1,primary,36
+Gary,Bishop,M,1964-09-27,Israel,United Kingdom,+447700 900434,W42 0ZU,ZZ 11 24 80 T,034206003,0,66.6,1.56,A-,5.9,112.3,secondary,30
+John,Cooper,M,1990-11-09,Macao,United Kingdom,(07700)900944,NE2 9GT,ZZ146788T,068567297,0,70.9,1.64,O+,2.3,235.4,masters,9
+Joanne,Wright,F,1964-11-22,Saint Lucia,United Kingdom,(07700)900445,G92 0ER,ZZ499131T,124272772,0,66.2,1.78,O+,8.2,93.3,secondary,15
+Jane,Miller,F,1979-11-13,Angola,United Kingdom,+447700 900 829,G9T 3SL,ZZ 942330 T,096445381,0,69.5,1.86,O+,9.6,497.6,bachelor,14
+Janice,Lowe,F,1961-12-18,Jersey,United Kingdom,(07700) 900306,KY18 7AT,ZZ 90 19 21 T,052841880,0,66.0,1.56,O+,8.3,275.3,bachelor,27
+Andrea,Bentley,F,1964-10-29,Nigeria,United Kingdom,(07700)900966,M36 2RJ,ZZ 94 33 77 T,039938745,0,35.1,1.98,A+,4.0,183.8,masters,37
+Joel,Flynn,M,1971-05-03,Nauru,United Kingdom,(07700) 900 776,M58 1YY,ZZ 124614 T,089845150,0,35.2,1.88,A+,0.8,330.4,secondary,28
+Simon,Moore,M,1981-04-22,Bulgaria,United Kingdom,(07700)900566,BH13 1WX,ZZ 70 07 14 T,046751834,0,98.8,1.46,O+,4.9,25.7,secondary,25
+Amy,Morris,F,1957-10-04,United States of America,United Kingdom,(07700) 900750,GY5 3RX,ZZ 877049 T,114758293,0,84.2,1.48,A-,5.4,90.8,secondary,14
+Rachael,Harding,F,1988-10-20,Ethiopia,United Kingdom,07700 900 166,N64 4WA,ZZ 04 12 22 T,065588651,0,43.3,1.73,A+,0.5,19.7,secondary,22
+Ruth,Smith,F,1998-02-21,South Georgia and the South Sandwich Islands,United Kingdom,(07700) 900191,B42 5EB,ZZ240296T,053518303,0,49.9,1.46,O+,2.2,188.6,primary,14
+Christine,Brown,F,1962-09-29,India,United Kingdom,+447700 900877,BH77 9HW,ZZ 666404 T,101580461,0,78.0,1.92,O+,1.6,233.7,phD,37
+Samantha,Kelly,F,1974-02-23,Kuwait,United Kingdom,+447700 900 964,W5T 5DA,ZZ120874T,052240999,0,67.4,1.94,B+,6.7,212.3,bachelor,31
+Shaun,Patel,M,1993-02-11,Chad,United Kingdom,+447700900121,S5H 7JB,ZZ008513T,028866653,0,73.9,1.93,O+,7.1,485.0,secondary,11
+Jamie,Brown,M,1983-12-12,Pitcairn Islands,United Kingdom,(07700)900237,LA6 9JH,ZZ913183T,061705027,0,49.9,1.74,A+,2.7,138.1,bachelor,7
+Jade,Austin,F,1961-01-25,Zimbabwe,United Kingdom,(07700) 900 649,S49 8HH,ZZ 57 61 21 T,020805188,0,82.7,1.62,B+,1.3,53.4,secondary,33
+Charlie,Howell,M,1997-09-06,India,United Kingdom,07700 900296,ZE24 8DG,ZZ 110078 T,074867402,0,37.1,1.5,A+,6.9,32.6,bachelor,21
+Benjamin,Hale,M,1956-11-24,Germany,United Kingdom,(07700) 900275,PA4B 4PU,ZZ 073260 T,074303571,1,67.8,1.58,A+,3.1,306.2,secondary,29
+Liam,Johnson,M,1977-03-15,Saint Kitts and Nevis,United Kingdom,(07700) 900765,LS9 9BA,ZZ916852T,042215921,0,61.9,1.61,A+,5.3,194.8,other,32
+Harry,Watson,M,1988-01-01,United Arab Emirates,United Kingdom,+44(0)7700 900732,HX93 4TP,ZZ 14 72 93 T,097861728,0,78.2,1.95,O+,8.3,342.1,other,22
+Kimberley,Day,F,1961-06-17,Peru,United Kingdom,+44(0)7700900221,NW2B 1PW,ZZ 815666 T,112357230,0,38.2,1.41,B+,6.6,431.6,primary,47
+Sian,Smart,F,1987-10-25,Sudan,United Kingdom,+447700900168,L5 6JS,ZZ752085T,064454139,0,76.8,1.68,O+,2.1,146.1,secondary,50
+Richard,Murphy,M,1996-08-28,Algeria,United Kingdom,07700 900 161,HP5 8QY,ZZ 054322 T,018686898,0,65.0,1.42,A+,9.3,372.3,secondary,12
+Douglas,Barton,M,1964-12-18,Liberia,United Kingdom,07700 900210,E08 9WR,ZZ880921T,043648322,0,55.3,1.53,A+,8.1,310.3,bachelor,46
+Lorraine,Stevenson,F,2001-05-25,New Zealand,United Kingdom,+44(0)7700 900625,N47 4ZP,ZZ 375932 T,060071736,0,97.5,1.54,A+,9.2,132.2,other,13
+Joe,Baker,M,1962-04-21,Heard Island and McDonald Islands,United Kingdom,+447700 900 716,B6B 7FW,ZZ 19 82 59 T,040927075,0,87.8,1.46,O+,1.6,35.8,bachelor,6
+Craig,Marshall,M,1963-02-04,Oman,United Kingdom,(07700) 900122,N7J 9RU,ZZ823250T,102652547,0,96.0,1.95,O+,5.0,325.2,other,50
+Steven,Townsend,M,1993-08-30,Saudi Arabia,United Kingdom,+44(0)7700 900895,UB74 7QX,ZZ 889964 T,018696972,1,87.2,1.45,O+,6.6,452.9,secondary,26
+Clare,Faulkner,F,1980-10-13,Bolivia,United Kingdom,07700 900 213,LN6X 8XA,ZZ 93 73 09 T,090201039,0,69.2,1.55,A+,2.9,22.8,bachelor,42
+Judith,Connor,F,1985-09-07,Australia,United Kingdom,(07700) 900942,L29 0UQ,ZZ451683T,112791171,0,73.1,1.69,O+,3.5,18.3,phD,34
+Jeremy,Smith,M,1983-03-28,Macao,United Kingdom,+447700 900267,S73 1QX,ZZ 86 53 48 T,030085228,0,60.9,1.69,A+,5.2,446.2,bachelor,20
+Tracey,Myers,F,1979-08-03,Antigua and Barbuda,United Kingdom,+44(0)7700 900406,ZE5V 0XP,ZZ 04 01 82 T,047366082,0,73.6,1.71,A+,5.9,199.1,bachelor,8
+Kate,Knight,F,1962-11-26,Ecuador,United Kingdom,+44(0)7700 900645,L44 8TW,ZZ 542819 T,099165464,0,89.0,1.52,O-,5.8,37.8,secondary,49
+Hilary,Jones,F,1977-06-16,Anguilla,United Kingdom,(07700)900745,S5H 5DQ,ZZ 259174 T,113418149,0,94.5,1.62,O+,1.5,348.6,secondary,22
+Damien,Patel,M,1957-02-07,San Marino,United Kingdom,+447700 900 972,M6 7YR,ZZ 34 03 70 T,018735493,1,43.0,1.52,A-,1.3,467.7,other,23
+Scott,James,M,1963-06-28,Niger,United Kingdom,07700 900098,N1J 8TZ,ZZ 48 32 07 T,023695764,0,89.6,1.87,A-,4.8,329.7,secondary,15
+Glen,Taylor,M,1981-05-25,United Arab Emirates,United Kingdom,07700 900538,B6G 9WG,ZZ 593867 T,077326063,0,99.6,1.69,A+,9.4,153.0,primary,5
+Antony,Wright,M,1992-04-27,Cocos (Keeling) Islands,United Kingdom,(07700) 900 514,BT40 6BW,ZZ659083T,094277438,0,58.9,1.95,O+,3.2,493.1,bachelor,3
+Derek,Whitehead,M,1956-03-08,Philippines,United Kingdom,(07700) 900 374,L7A 2BH,ZZ157985T,104472408,0,54.2,1.96,O+,5.8,182.9,other,23
+Amanda,Morgan,F,1974-07-20,Swaziland,United Kingdom,+44(0)7700900957,OX9W 5RW,ZZ868644T,114291051,0,76.8,1.58,O+,5.9,194.2,secondary,7
+Georgia,Evans,F,1990-08-11,Saint Barthelemy,United Kingdom,+447700 900327,BB2 5RB,ZZ416294T,118159717,0,62.5,1.95,A+,4.9,321.2,bachelor,45
+Bethan,Harding,F,2002-09-10,Bangladesh,United Kingdom,+447700900652,W0W 5YE,ZZ 00 05 58 T,113827785,0,78.0,1.61,A+,3.5,204.1,masters,36
+Joanna,Morrison,F,1990-06-03,South Africa,United Kingdom,+447700 900496,LL0R 8XT,ZZ 821646 T,022293484,0,88.0,1.98,O-,3.2,196.2,bachelor,35
+Craig,Phillips,M,1961-11-30,Haiti,United Kingdom,+44(0)7700 900 485,M6W 1EB,ZZ 842482 T,125592710,0,76.1,1.76,A+,1.7,156.6,other,6
+Rachel,Lewis,F,1996-10-16,Dominican Republic,United Kingdom,07700 900866,TD6 9SX,ZZ 609390 T,064579085,0,63.3,1.91,O+,1.3,405.9,secondary,18
+Alan,Clarke,M,1983-09-16,Mali,United Kingdom,(07700) 900 564,N6A 8NT,ZZ 373050 T,113695218,0,85.7,1.93,AB+,1.2,198.4,primary,33
+Margaret,Shaw,F,1982-08-29,Norway,United Kingdom,(07700)900856,M99 5SN,ZZ 99 42 93 T,123588991,0,60.3,1.86,AB-,0.0,414.0,secondary,38
+Glenn,Harris,M,1981-07-04,South Georgia and the South Sandwich Islands,United Kingdom,+447700 900301,N6H 9SQ,ZZ 98 30 42 T,030697933,0,87.6,1.86,O+,7.6,47.9,phD,20
+Adrian,Elliott,M,1959-07-17,Guernsey,United Kingdom,(07700) 900841,RH0W 0XJ,ZZ 84 38 10 T,071853244,0,57.5,1.83,O+,8.5,496.8,masters,9
+Sarah,King,F,1978-01-25,Saint Pierre and Miquelon,United Kingdom,07700 900 110,L3E 7DZ,ZZ936943T,093437978,0,71.6,1.6,A+,1.7,28.8,masters,38
+Charlene,Gordon,F,1990-03-18,Bhutan,United Kingdom,(07700) 900289,DD9 7LZ,ZZ 17 87 02 T,075060017,0,45.9,1.84,O+,1.1,452.6,other,32
+Clifford,Robinson,M,1981-02-01,Trinidad and Tobago,United Kingdom,07700900296,E8 0GD,ZZ 076409 T,102028184,0,41.3,1.88,AB+,0.1,239.7,secondary,22
+Chelsea,White,F,2001-05-08,Fiji,United Kingdom,07700 900 112,UB8P 3YN,ZZ 59 85 90 T,077032784,0,36.1,1.99,O-,7.7,200.3,bachelor,36
+Justin,Faulkner,M,1995-08-12,Monaco,United Kingdom,(07700) 900489,ST6N 8WQ,ZZ 18 32 54 T,089740776,0,75.5,1.97,O+,2.3,277.9,secondary,28
+Joanne,Turner,F,2002-05-30,Nicaragua,United Kingdom,+447700 900269,SY7 3GS,ZZ100555T,013973991,0,94.3,1.82,A+,6.1,227.7,masters,2
+Maria,Phillips,F,1995-12-21,Iceland,United Kingdom,+44(0)7700 900075,E0E 0RU,ZZ 09 36 04 T,044674324,0,98.7,1.7,A+,1.1,170.8,bachelor,49
+Frank,Miah,M,1971-05-31,Russian Federation,United Kingdom,+447700900140,RH3H 7FF,ZZ 74 53 69 T,043115596,0,53.0,1.86,A+,8.9,109.5,bachelor,39
+Emma,Stephenson,F,1971-02-27,Tuvalu,United Kingdom,+44(0)7700 900083,G6K 0XH,ZZ915891T,116593980,0,82.0,1.61,A-,5.1,65.6,secondary,47
+Howard,Bryant,M,1973-12-10,Dominica,United Kingdom,+44(0)7700900474,FY9A 0UZ,ZZ 68 62 39 T,016172595,0,87.5,1.55,A+,1.9,492.8,secondary,21
+Sarah,Davies,F,1959-09-09,Swaziland,United Kingdom,+44(0)7700 900746,NW8E 9ZX,ZZ 883415 T,025723760,0,46.0,1.83,A+,7.0,11.4,bachelor,28
+Marc,Cooper,M,1994-09-03,Denmark,United Kingdom,07700 900560,E3T 3NW,ZZ 851741 T,060196064,0,95.3,1.7,A+,1.5,336.3,secondary,31
+Wayne,Hughes,M,1982-04-19,Serbia,United Kingdom,07700900799,G2 2ES,ZZ 315645 T,058700585,0,88.6,1.99,O-,7.3,26.3,other,25
+Simon,Wright,M,2000-03-07,Antigua and Barbuda,United Kingdom,07700900243,CA4 3TE,ZZ 31 52 46 T,110112503,1,72.1,1.68,A+,4.3,91.6,bachelor,2
+Kimberley,Marsh,F,1956-12-14,Palau,United Kingdom,07700 900540,DN1 6PF,ZZ 69 30 91 T,050155248,0,81.5,1.97,A+,1.0,257.8,other,22
+Emily,Baker,F,1983-02-16,Greece,United Kingdom,+447700 900764,W5 4TS,ZZ 80 17 58 T,064868644,0,95.3,1.51,O-,6.3,402.8,secondary,26
+Gordon,Roberts,M,1996-11-25,Dominica,United Kingdom,+447700 900713,W0U 5NP,ZZ 234520 T,059068653,0,48.3,1.73,A-,0.5,206.1,masters,27
+Robert,Hussain,M,1989-09-25,France,United Kingdom,+447700900127,L1 8AZ,ZZ 395597 T,034959208,0,85.3,1.8,A+,5.3,99.3,other,37
+Kyle,Miller,M,1998-08-21,Saint Helena,United Kingdom,(07700)900482,CV3H 0ZJ,ZZ347115T,118691990,0,40.1,1.62,O+,0.7,82.7,secondary,32
+Gail,Gibbs,F,1959-10-18,Pakistan,United Kingdom,+447700900491,CR6A 9XW,ZZ 971840 T,084438960,0,48.1,1.83,O+,4.9,454.2,bachelor,9
+Iain,Jones,M,1995-04-25,Saint Martin,United Kingdom,07700900831,M5 4WS,ZZ209285T,083070552,0,40.2,1.48,O+,2.2,413.0,secondary,25
+Henry,Fox,M,1958-07-06,Lebanon,United Kingdom,07700 900638,IP28 4DB,ZZ764422T,071839006,0,84.4,1.44,O+,5.4,259.2,secondary,38
+Max,Clarke,M,1989-09-10,Greece,United Kingdom,(07700) 900087,CW2R 1WN,ZZ 664319 T,103470223,0,38.6,1.61,O+,2.2,371.1,secondary,25
+Lisa,Lowe,F,1998-09-18,Philippines,United Kingdom,(07700) 900733,PA4A 3FG,ZZ 82 05 34 T,026065155,0,42.7,1.4,O+,1.5,285.8,primary,26
+Gerald,Edwards,M,1983-05-27,Oman,United Kingdom,+44(0)7700 900 151,HG4 7LB,ZZ916996T,095794295,0,65.4,1.69,A+,6.8,456.8,bachelor,32
+Catherine,Freeman,F,1970-04-14,Chile,United Kingdom,+447700 900634,SW2 2BE,ZZ 185396 T,048764052,0,98.9,1.7,O-,3.6,363.8,other,3
+Annette,Scott,F,1973-08-06,Mongolia,United Kingdom,(07700) 900 818,MK41 8QD,ZZ 26 19 86 T,082020639,0,48.4,1.65,A+,7.5,388.7,phD,23
+Jenna,Hopkins,F,1980-11-16,Aruba,United Kingdom,+44(0)7700 900131,N42 9BD,ZZ 26 09 92 T,117727438,0,41.1,1.47,O+,4.4,401.4,primary,8
+Ross,John,M,1999-04-02,China,United Kingdom,(07700) 900 608,SA2 3LJ,ZZ122429T,068348746,0,89.2,1.71,O-,4.2,33.5,secondary,22
+Cheryl,Johnson,F,1976-07-03,Ghana,United Kingdom,+447700900615,S3U 1XY,ZZ895912T,033913520,0,38.8,1.77,A+,4.3,446.2,secondary,12
+Max,Hooper,M,1979-08-04,El Salvador,United Kingdom,(07700)900502,W0 4YP,ZZ 20 69 72 T,103073536,0,53.6,1.45,B+,5.7,374.6,other,23
+Diana,Burton,F,1956-11-12,Seychelles,United Kingdom,(07700) 900 282,B9 3YL,ZZ 455659 T,054896561,0,65.9,1.92,O+,3.8,44.6,secondary,46
+Daniel,Walsh,M,1958-10-16,Belgium,United Kingdom,+44(0)7700900423,SW1 6DZ,ZZ 29 49 54 T,064304807,0,62.7,1.86,A+,1.7,358.0,bachelor,27
+Alan,Robertson,M,1995-05-25,South Africa,United Kingdom,07700 900384,E2U 7PL,ZZ671687T,031950417,0,99.2,1.8,O-,7.6,342.1,secondary,6
+Keith,Williams,M,1974-12-29,Ecuador,United Kingdom,07700 900 743,S8 8TG,ZZ714962T,086965321,0,64.9,1.63,A+,2.0,68.3,primary,32
+Mohamed,Woodward,M,1974-02-11,Vietnam,United Kingdom,+44(0)7700 900717,W90 8BQ,ZZ 29 20 18 T,064240026,0,41.4,1.86,O+,1.2,307.8,bachelor,16
+Melanie,Holden,F,1986-08-25,Paraguay,United Kingdom,(07700) 900001,ME4A 3QL,ZZ 72 23 72 T,061752656,0,42.0,1.97,O+,9.5,75.5,masters,22
+Megan,Hale,F,1961-04-16,Mauritania,United Kingdom,07700 900 317,TF32 8WY,ZZ 92 93 44 T,015832027,0,44.6,1.42,A+,7.1,5.3,secondary,29
+Samantha,Wright,F,1975-09-07,Pitcairn Islands,United Kingdom,+447700900568,SE6 3TQ,ZZ205792T,013871828,0,35.4,1.53,A+,9.8,319.2,primary,4
+Roy,Shaw,M,1978-02-12,Samoa,United Kingdom,+44(0)7700900111,OX8M 2EN,ZZ 089291 T,014151259,0,60.9,1.7,O+,8.9,213.9,masters,13
+Mohammad,Graham,M,1968-10-08,Iran,United Kingdom,+447700 900 911,SO1A 2SN,ZZ 726243 T,072065264,1,76.5,1.79,O+,0.3,142.9,bachelor,24
+Nicola,James,F,1964-03-22,Benin,United Kingdom,(07700) 900 596,BB92 7RE,ZZ 94 49 45 T,036490451,0,43.3,1.94,A+,7.6,4.2,secondary,12
+Gail,Evans,F,1996-06-22,Slovenia,United Kingdom,07700 900568,SK5H 1HE,ZZ727352T,108874060,0,37.0,1.87,A+,6.4,202.6,secondary,15
+Tina,Power,F,1982-12-07,Pakistan,United Kingdom,(07700) 900132,S7C 8YY,ZZ 029071 T,115135213,0,37.6,1.97,B+,4.9,173.2,bachelor,21
+June,Lambert,F,1996-12-24,Israel,United Kingdom,07700 900 852,S91 4EQ,ZZ 26 74 24 T,026076364,0,66.8,1.79,A+,6.3,317.6,secondary,10
+Abigail,Moore,F,1958-07-19,Tajikistan,United Kingdom,+447700 900 424,PE6 5WT,ZZ 525261 T,044092427,0,60.2,1.91,O+,0.8,282.7,secondary,33
+Russell,Davis,M,1999-09-08,Martinique,United Kingdom,07700900965,L4 9LW,ZZ 30 03 64 T,112492658,0,85.7,2.0,A+,1.8,92.7,bachelor,18
+Caroline,Horton,F,1982-01-30,Ethiopia,United Kingdom,+447700900563,EH92 4WX,ZZ 53 43 57 T,105996048,0,84.7,1.69,O+,5.9,265.1,bachelor,28
+Zoe,Price,F,1991-08-31,Bangladesh,United Kingdom,+447700 900 487,N5U 9ZY,ZZ491054T,126837335,0,94.8,1.88,O+,9.0,101.3,secondary,45
+Gordon,Johnson,M,1973-03-12,Lithuania,United Kingdom,+447700 900 381,EC40 6SP,ZZ 86 85 85 T,107573294,0,41.8,1.49,O+,4.0,211.8,secondary,34
+Christopher,Doherty,M,1988-02-23,Indonesia,United Kingdom,(07700) 900411,M45 4AB,ZZ 563722 T,068141273,0,47.5,1.68,A-,8.2,7.6,bachelor,32
+Laura,Cooper,F,1987-07-11,Jersey,United Kingdom,(07700)900051,DH94 7TB,ZZ049274T,123420062,0,68.6,1.57,A+,2.4,423.7,other,36
+Chelsea,Taylor,F,2001-02-11,Lao People's Democratic Republic,United Kingdom,+44(0)7700900820,PL7W 5DP,ZZ 309954 T,111833904,0,77.2,1.4,A-,3.3,489.0,primary,37
+Sam,Rhodes,M,1961-06-12,Falkland Islands (Malvinas),United Kingdom,(07700)900190,E6H 2UH,ZZ836789T,037196686,0,58.5,1.48,A+,6.8,12.3,primary,22
+Josh,Barry,M,1962-09-09,Congo,United Kingdom,(07700) 900142,EC3M 8ZF,ZZ 786909 T,047323465,0,58.8,1.46,O+,6.5,322.3,phD,2
+Dale,Smith,M,1966-06-28,France,United Kingdom,+44(0)7700 900960,PH2 1RA,ZZ 59 67 29 T,042707439,0,65.3,1.99,A-,3.9,417.9,bachelor,5
+Kyle,Gibson,M,1957-05-12,Panama,United Kingdom,07700 900 331,BH9A 4AN,ZZ 62 87 29 T,123452027,0,60.8,1.84,O+,0.0,8.4,masters,10
+Georgia,Stevenson,F,1978-11-15,Saint Pierre and Miquelon,United Kingdom,(07700) 900 289,B66 3GH,ZZ 638795 T,070944811,0,97.8,1.91,O+,9.1,38.3,phD,22
+Alexander,Hughes,M,1987-02-06,Chad,United Kingdom,07700 900 333,YO4N 3BS,ZZ293049T,041516799,0,42.6,1.45,B+,3.1,440.7,secondary,41
+Carl,Lloyd,M,1980-06-30,Greece,United Kingdom,07700 900877,BS2 7PQ,ZZ 256213 T,096256075,0,38.5,1.56,A+,9.6,25.8,secondary,34
+Frederick,Jenkins,M,1966-07-24,San Marino,United Kingdom,+44(0)7700 900959,E0U 7XQ,ZZ289393T,103544586,0,50.6,1.83,A-,8.2,369.5,bachelor,7
+Dorothy,Johnson,F,1956-05-14,Kenya,United Kingdom,(07700) 900 003,E79 3UU,ZZ 06 21 98 T,081225972,0,51.9,1.76,O+,4.7,320.9,secondary,44
+Sandra,Osborne,F,1986-07-02,Netherlands,United Kingdom,07700900124,OL9 8DG,ZZ 39 34 06 T,100631751,0,42.4,1.71,O+,5.2,49.6,secondary,32
+Tracey,Wheeler,F,1998-09-15,Wallis and Futuna,United Kingdom,+447700900976,EX05 3UQ,ZZ 404472 T,020137209,1,71.9,1.54,A-,1.1,206.9,masters,21
+Victor,Bishop,M,1995-02-25,India,United Kingdom,07700900269,L9D 8AL,ZZ531165T,081087851,0,78.5,1.81,A+,8.1,140.4,bachelor,17
+Lynn,Wyatt,F,1968-07-28,Tuvalu,United Kingdom,+44(0)7700900367,E2C 2BF,ZZ883436T,112822079,0,84.5,1.69,O+,9.3,217.7,bachelor,11
+Wendy,Hall,F,1980-01-19,Somalia,United Kingdom,07700 900277,E2H 6XY,ZZ 213147 T,060664761,0,79.8,1.95,O-,8.0,269.6,masters,24
+Robert,Taylor,M,1977-11-20,Macao,United Kingdom,07700 900545,SR92 5QW,ZZ 474018 T,085163441,0,48.5,1.44,A-,3.4,60.3,phD,34
+Trevor,Randall,M,2002-04-24,Christmas Island,United Kingdom,+44(0)7700900517,UB1 9HG,ZZ056639T,111573840,0,45.0,1.71,O+,4.1,298.4,secondary,30
+Leon,Phillips,M,1958-06-12,Senegal,United Kingdom,07700900545,GL52 9BS,ZZ 900900 T,116930242,0,50.7,1.94,O+,9.8,27.1,secondary,48
+Albert,Russell,M,1981-07-16,Pakistan,United Kingdom,+447700 900738,OL1X 3AY,ZZ 813272 T,127103660,0,72.0,1.48,O+,0.6,269.0,bachelor,12
+Sally,Brown,F,1970-10-01,Guinea,United Kingdom,+44(0)7700 900802,OX2 1SQ,ZZ 042058 T,053989518,0,98.6,1.42,A+,9.2,25.3,secondary,28
+Kerry,Bird,F,1968-10-04,Serbia,United Kingdom,+447700 900 093,WC6 0DE,ZZ807923T,011296997,0,54.5,1.52,B+,5.0,449.6,masters,36
+Samantha,Davies,F,1965-10-25,Germany,United Kingdom,+44(0)7700 900064,W5 5SR,ZZ 532371 T,056190566,0,39.6,1.56,A+,2.3,113.4,secondary,20
+Billy,Rose,M,1962-09-03,Tonga,United Kingdom,+447700 900932,NR1 5UJ,ZZ 47 12 18 T,013240488,0,48.2,1.5,A+,9.2,97.2,bachelor,20
+Carly,Baker,F,1991-03-28,Tonga,United Kingdom,+447700 900 869,DA93 5ZB,ZZ 67 17 46 T,094697403,0,89.6,1.7,A+,1.8,303.4,secondary,43
+Mark,Bell,M,1987-03-05,Guinea-Bissau,United Kingdom,+44(0)7700 900 354,AL4R 3RF,ZZ 21 87 59 T,112606457,0,49.3,1.69,O+,7.8,200.9,secondary,3
+Mathew,Hall,M,1975-03-05,San Marino,United Kingdom,07700 900 984,ME09 8JR,ZZ 421918 T,122961991,0,60.4,1.58,A+,9.4,214.6,bachelor,46
+Sharon,Gilbert,F,1988-12-31,Saint Vincent and the Grenadines,United Kingdom,07700 900929,E3 8QF,ZZ844414T,091010261,0,86.3,1.86,A-,5.4,212.4,secondary,39
+Marian,Sutton,F,1993-04-03,Kuwait,United Kingdom,+447700 900 926,DN8 9JT,ZZ 138979 T,028304487,0,64.6,1.68,A+,2.7,424.5,phD,3
+Laura,Fox,F,1966-02-15,Argentina,United Kingdom,+44(0)7700 900 649,BS0 2TF,ZZ 754638 T,033763893,0,94.8,1.55,A+,7.5,37.0,bachelor,34
+Hugh,Bell,M,1961-04-08,Angola,United Kingdom,+44(0)7700900839,S1U 2BJ,ZZ 14 17 90 T,027479821,0,93.7,1.88,B-,1.3,446.2,secondary,22
+Laura,Rhodes,F,1955-12-24,Iceland,United Kingdom,07700900785,DG5 2QT,ZZ526463T,127886110,0,56.9,1.84,O+,7.6,381.0,masters,9
+Judith,Warren,F,1971-12-19,American Samoa,United Kingdom,+44(0)7700 900 358,OX76 9UZ,ZZ610472T,104329962,0,39.0,1.9,A+,0.1,321.7,secondary,5
+Louise,Lawrence,F,1964-02-20,Liberia,United Kingdom,+44(0)7700 900352,DN9 0ZE,ZZ140801T,033220307,0,68.8,1.62,A+,3.1,175.2,secondary,36
+Kim,Edwards,F,1961-11-08,Japan,United Kingdom,+44(0)7700 900327,G04 6SF,ZZ 88 00 74 T,021817227,0,96.3,1.72,O+,1.4,285.4,secondary,15
+Phillip,Foster,M,1986-10-24,Malawi,United Kingdom,+44(0)7700900992,LL0 3EY,ZZ 942340 T,034824731,0,75.1,1.58,A+,2.4,226.4,other,31
+Natalie,Mitchell,F,1961-01-20,Colombia,United Kingdom,+44(0)7700 900975,E3K 6AW,ZZ 94 85 29 T,113944927,0,63.8,1.6,AB+,4.8,179.6,other,41
+Barbara,Gray,F,1956-08-06,British Indian Ocean Territory (Chagos Archipelago),United Kingdom,+44(0)7700 900 063,CF1 8BL,ZZ508218T,082154534,0,67.3,1.46,O+,3.8,8.5,bachelor,8
+Gail,Lewis,F,1956-09-26,Kiribati,United Kingdom,07700 900473,S8 2EQ,ZZ 81 22 57 T,082643061,0,73.1,1.74,A+,4.4,409.5,other,3
+Gareth,Daly,M,2001-03-29,Cook Islands,United Kingdom,07700 900850,CF2V 2JJ,ZZ550659T,105834689,0,35.2,1.85,O+,6.7,312.1,bachelor,7
+Timothy,Poole,M,1980-02-17,Colombia,United Kingdom,+447700 900 258,TN7A 2DX,ZZ423170T,128149296,0,56.7,1.87,O+,3.1,475.5,bachelor,43
+Jodie,Mann,F,2001-07-01,Kazakhstan,United Kingdom,+447700 900 009,BN8X 3PW,ZZ 363695 T,012139956,0,60.9,1.44,A+,5.9,258.6,secondary,36
+John,Hope,M,1988-04-26,United States Minor Outlying Islands,United Kingdom,07700 900 318,LU5R 2EL,ZZ 336899 T,112416650,0,96.0,1.74,O+,7.5,223.4,secondary,25
+Lindsey,Dawson,F,1998-01-24,United States of America,United Kingdom,07700 900 234,L91 0BH,ZZ 33 29 09 T,104184356,0,92.5,1.42,A+,9.0,466.4,secondary,12
+Yvonne,Thompson,F,1975-06-17,Cape Verde,United Kingdom,07700 900863,M7 2WU,ZZ 81 09 85 T,069412082,0,48.4,1.54,A+,8.3,228.2,secondary,20
+Antony,North,M,1988-06-29,Norway,United Kingdom,07700900736,L93 9QJ,ZZ 801655 T,073293734,0,88.5,1.84,B+,7.0,169.4,other,26
+Clifford,Harding,M,1973-05-31,Austria,United Kingdom,+447700 900 271,KY25 4PR,ZZ 749318 T,038942062,0,58.4,1.42,A+,9.8,129.8,bachelor,9
+Samuel,Bibi,M,1976-06-03,Monaco,United Kingdom,+447700900746,BT55 4PX,ZZ 04 27 86 T,110372657,0,35.9,1.69,AB+,2.8,334.9,masters,47
+Francis,Rogers,M,1978-08-28,China,United Kingdom,+44(0)7700 900 491,L0 4HH,ZZ 333604 T,097443201,0,40.3,1.59,O+,3.7,28.3,bachelor,29
+Jake,Taylor,M,1981-07-21,Saint Lucia,United Kingdom,+44(0)7700900874,HR4 0FP,ZZ 162507 T,030691528,0,75.8,1.95,B+,3.9,180.6,secondary,42
+Kyle,Johnson,M,1997-06-30,Madagascar,United Kingdom,07700 900945,E6 7GF,ZZ 512583 T,121826642,0,85.8,1.42,B+,4.0,36.4,masters,21
+Tom,Williams,M,1980-01-20,Vietnam,United Kingdom,07700 900453,M14 4RY,ZZ 383855 T,029853982,0,63.8,1.62,O+,3.6,376.8,masters,38
+Hollie,Talbot,F,1975-04-23,Cameroon,United Kingdom,+447700 900 532,BB3 9FE,ZZ 40 48 35 T,062851954,0,88.3,1.56,O-,4.0,265.1,secondary,4
+Matthew,Parsons,M,1998-12-28,Mauritania,United Kingdom,+44(0)7700 900690,L9 7NU,ZZ 03 10 76 T,075825207,0,85.1,1.86,A-,6.1,75.0,masters,32
+Michael,Williams,M,1996-04-28,Djibouti,United Kingdom,07700 900 947,SR23 9EW,ZZ530358T,080112442,0,81.2,1.65,A-,2.0,87.4,secondary,20
+Hugh,Smith,M,1974-09-09,Mauritania,United Kingdom,+447700 900 394,UB37 5XD,ZZ 322305 T,074271137,0,43.7,1.88,B+,1.8,80.7,masters,29
+Hazel,Gibbons,F,1978-02-17,Qatar,United Kingdom,07700 900243,DL6Y 4RH,ZZ195739T,125071985,0,83.4,1.73,A+,0.7,133.9,other,6
+Dorothy,Phillips,F,1974-03-21,Bhutan,United Kingdom,07700 900 865,IG1 5BH,ZZ490400T,021216080,0,40.0,1.51,O+,0.1,463.1,secondary,5
+Kieran,Jones,M,1980-05-26,Estonia,United Kingdom,+447700 900 572,B25 7NA,ZZ 496157 T,023002072,0,96.2,1.69,O+,4.4,268.2,secondary,35
+Lindsey,O'Sullivan,F,1967-07-29,Bangladesh,United Kingdom,+44(0)7700900280,SO4 5FB,ZZ 936099 T,104771769,0,90.9,1.8,B+,8.4,292.2,secondary,41
+Joanne,Faulkner,F,1978-11-25,Antarctica (the territory South of 60 deg S),United Kingdom,07700 900 768,GY95 8TW,ZZ 63 12 60 T,076211137,0,85.1,1.99,O+,4.0,358.9,secondary,34
+Carol,Stevens,F,1976-03-22,Hungary,United Kingdom,07700 900 955,E5W 5HF,ZZ 89 96 65 T,032758540,0,61.9,1.49,B+,4.8,338.9,secondary,33
+Damien,Lewis,M,1957-08-22,Sri Lanka,United Kingdom,(07700) 900 980,S61 6BB,ZZ 099525 T,082994710,0,81.9,1.47,O+,0.9,484.6,secondary,3
+Lynda,Hargreaves,F,1963-07-31,Tuvalu,United Kingdom,(07700)900293,S04 5JJ,ZZ 782808 T,010343388,0,77.3,1.84,O+,8.9,154.7,secondary,49
+Gary,Garner,M,1961-01-28,Trinidad and Tobago,United Kingdom,07700 900 350,W72 5NN,ZZ 502391 T,066142229,0,95.1,1.51,B+,4.9,371.3,secondary,43
+Sandra,Allen,F,1955-12-27,Saint Martin,United Kingdom,(07700) 900109,W44 5DF,ZZ 02 32 03 T,109598536,0,52.0,1.89,A+,8.0,424.4,secondary,36
+Lindsey,Hamilton,F,1956-07-19,Bulgaria,United Kingdom,07700 900811,LS38 2XN,ZZ993260T,083174843,0,75.2,1.43,A+,1.4,268.4,bachelor,49
+Melanie,Williams,F,1965-08-11,New Zealand,United Kingdom,+44(0)7700 900 620,E8H 7NB,ZZ 32 16 60 T,029018222,0,71.9,1.93,A+,2.0,263.0,secondary,46
+Shaun,Finch,M,1974-08-01,Gambia,United Kingdom,+447700 900 489,HS2 5EP,ZZ079854T,082280929,0,74.5,1.96,O+,3.7,317.4,secondary,46
+Matthew,Walker,M,1993-01-10,Tokelau,United Kingdom,(07700)900035,N7 8ZU,ZZ543197T,051481063,0,68.0,1.51,B+,3.0,335.2,masters,39
+Dale,O'Connor,M,1980-03-09,Saint Pierre and Miquelon,United Kingdom,+44(0)7700900624,BR31 9GZ,ZZ 427503 T,126977198,0,54.1,1.72,O+,7.9,359.9,secondary,38
+Leonard,Dobson,M,1965-07-01,Guernsey,United Kingdom,+44(0)7700 900577,HD17 6JF,ZZ 19 51 49 T,043561182,0,79.8,1.47,O+,6.8,355.9,secondary,31
+Sean,Moore,M,1968-05-04,Palau,United Kingdom,+447700900893,L8S 3AZ,ZZ 48 21 11 T,043476426,0,86.3,1.52,O+,3.1,73.8,bachelor,27
+Michael,Ellis,M,1981-05-23,Faroe Islands,United Kingdom,(07700)900664,KW1 8WJ,ZZ123099T,054684090,0,81.4,1.56,A+,5.1,141.5,secondary,26
+Sara,Davies,F,1973-02-14,Sweden,United Kingdom,+447700 900443,E4W 3ZS,ZZ 75 02 00 T,124666809,0,66.1,1.47,O+,2.6,202.0,primary,9
+Brandon,Barker,M,1987-07-18,Mauritius,United Kingdom,07700 900199,IP4V 8YH,ZZ 54 97 99 T,039563262,0,87.7,1.75,O+,1.8,338.7,bachelor,19
+Hugh,Allen,M,1963-08-31,Netherlands,United Kingdom,(07700) 900535,L36 9UL,ZZ 398560 T,040983608,0,68.9,1.68,O+,4.9,147.5,bachelor,15
+Elliot,Shaw,M,1989-08-02,Reunion,United Kingdom,(07700) 900124,E8K 8HP,ZZ 68 25 87 T,012767302,0,41.7,1.88,O+,3.8,362.5,other,24
+Marcus,Baxter,M,1962-04-03,Liechtenstein,United Kingdom,(07700)900925,DE8 3HS,ZZ730736T,042107657,0,52.3,1.55,B+,5.0,144.6,bachelor,39
+Jayne,Tucker,F,1977-09-16,Belgium,United Kingdom,+447700900126,E1T 3XB,ZZ173275T,016797310,0,76.8,1.4,A-,4.6,397.8,phD,36
+Caroline,Richards,F,1978-02-18,Haiti,United Kingdom,07700900859,TR9M 9FY,ZZ009537T,059550666,0,66.5,1.57,A-,4.3,158.1,secondary,49
+Danielle,Wood,F,1960-06-03,British Virgin Islands,United Kingdom,07700 900 080,DA6E 7US,ZZ 56 97 50 T,030653003,0,87.6,1.83,O+,1.5,68.4,phD,3
+Lynne,Brown,F,1995-03-02,Denmark,United Kingdom,(07700) 900097,WD10 4ZB,ZZ 735353 T,076296165,0,81.7,1.49,O+,1.2,231.1,bachelor,20
+Carly,Hawkins,F,1963-07-19,Montserrat,United Kingdom,+44(0)7700900120,W98 5DL,ZZ605045T,015276612,0,55.2,1.51,O-,4.8,248.2,other,15
+Amber,Parkinson,F,2001-10-12,Norfolk Island,United Kingdom,+44(0)7700 900487,B75 2RD,ZZ723507T,023231995,0,79.9,1.68,A-,1.4,493.8,bachelor,24
+Trevor,Fox,M,1958-04-14,Georgia,United Kingdom,+447700900926,HS89 7QA,ZZ 097076 T,012791491,0,36.9,1.88,A+,7.7,356.7,bachelor,28
+Gary,Edwards,M,1964-06-20,Heard Island and McDonald Islands,United Kingdom,(07700)900585,MK1W 8ZQ,ZZ 708577 T,113803372,1,94.2,1.68,A+,2.3,7.0,phD,19
+Arthur,Evans,M,2001-11-23,Burundi,United Kingdom,+447700900799,M5B 1RJ,ZZ272152T,011995722,0,86.6,1.77,A+,3.8,228.1,bachelor,40
+Jason,Hall,M,1959-02-15,Guernsey,United Kingdom,+447700 900 399,SA9E 9NF,ZZ 417346 T,126878446,0,36.9,1.9,A+,3.3,116.5,phD,16
+Julia,Randall,F,1981-11-15,Vietnam,United Kingdom,07700 900 908,WS6 0ZZ,ZZ 40 53 33 T,089974254,0,91.1,1.52,B-,8.3,305.3,primary,14
+Kim,Tyler,F,1974-02-24,Turkmenistan,United Kingdom,+447700900371,BS70 5QT,ZZ 72 07 09 T,115128149,0,93.3,1.96,O+,1.8,186.0,other,25
+Phillip,Byrne,M,1973-03-19,Australia,United Kingdom,+44(0)7700900698,RG4 9TF,ZZ359031T,095356507,1,80.5,1.82,A-,0.9,491.7,secondary,34
+Iain,Moore,M,1986-07-15,Albania,United Kingdom,+44(0)7700900454,W1W 8QX,ZZ 821710 T,129354297,0,35.6,1.97,B+,6.0,70.7,secondary,27
+Clifford,Warren,M,1956-04-30,Korea,United Kingdom,07700 900985,S40 2QP,ZZ259035T,112781301,0,92.6,1.75,A+,9.6,446.4,other,39
+Kate,Cross,F,1960-05-11,Swaziland,United Kingdom,(07700) 900612,MK95 7JT,ZZ 835094 T,070201363,0,75.3,1.4,A+,1.1,276.9,bachelor,47
+Harriet,Taylor,F,1971-07-23,Belarus,United Kingdom,07700 900 302,B2E 6SX,ZZ146318T,085474460,0,72.1,1.44,O+,2.7,459.0,secondary,35
+Wayne,Barrett,M,1960-07-28,Vietnam,United Kingdom,07700 900776,S8 5AN,ZZ 622180 T,055490733,0,44.7,1.91,O+,9.8,70.5,phD,37
+Arthur,Thompson,M,1989-02-02,Barbados,United Kingdom,+44(0)7700 900705,E39 0PU,ZZ865468T,071500131,0,82.8,1.46,O+,8.0,107.9,other,40
+Kerry,Reynolds,F,1958-12-20,Marshall Islands,United Kingdom,07700 900062,W8 3WD,ZZ 83 39 30 T,063365957,0,65.4,1.46,O+,4.2,489.4,secondary,10
+Eleanor,Nicholson,F,1977-10-24,Cocos (Keeling) Islands,United Kingdom,(07700)900067,TN04 0HF,ZZ 31 39 40 T,091181572,0,47.6,1.59,A+,6.3,460.0,bachelor,33
+Gary,Ball,M,1973-07-26,Greenland,United Kingdom,+44(0)7700900484,CV1 9GL,ZZ 53 22 04 T,125224428,0,94.5,1.43,A+,9.4,402.5,secondary,13
+Leonard,Harris,M,1957-12-04,Hong Kong,United Kingdom,07700900388,W49 8TN,ZZ 57 06 95 T,074050183,0,38.3,1.5,A+,1.5,413.7,secondary,13
+Judith,Hewitt,F,1976-02-12,Brunei Darussalam,United Kingdom,07700 900926,RG9B 2GJ,ZZ880117T,086243467,0,60.1,1.9,O+,6.2,52.0,secondary,5
+Iain,Davies,M,1968-06-28,Gambia,United Kingdom,(07700)900104,DL0M 6TZ,ZZ 08 32 57 T,062627104,0,47.5,1.67,O+,1.8,41.2,phD,6
+Kate,Mistry,F,1998-01-04,Spain,United Kingdom,07700900828,L59 2RA,ZZ441902T,016564666,0,45.9,1.79,O+,7.1,25.9,bachelor,10
+Bruce,Atkinson,M,1982-06-16,Iraq,United Kingdom,+44(0)7700 900 266,SW6R 8XG,ZZ024423T,043827305,0,38.4,1.92,O+,0.3,377.0,phD,24
+Dawn,Chadwick,F,1979-09-02,New Caledonia,United Kingdom,07700 900422,CB9P 9BE,ZZ 77 76 52 T,040821582,0,71.9,1.95,A-,8.1,390.3,bachelor,22
+Graham,Robson,M,1958-09-29,Tuvalu,United Kingdom,+44(0)7700 900193,IV1 5JE,ZZ588902T,122724028,0,53.1,1.81,A+,7.2,312.2,secondary,10
+Keith,Townsend,M,1981-11-10,Norway,United Kingdom,+447700900947,PL8 7HQ,ZZ 20 30 74 T,083260139,0,77.0,1.44,O+,6.3,26.6,secondary,9
+Hilary,Chapman,F,1991-01-02,Kyrgyz Republic,United Kingdom,(07700)900978,WA4 3UN,ZZ 965995 T,073149008,0,58.7,1.86,A+,8.3,444.3,secondary,47
+Annette,Walker,F,1998-04-08,Kiribati,United Kingdom,(07700) 900 562,DA2 6DN,ZZ510064T,091525002,0,86.4,1.44,A+,8.5,24.0,bachelor,35
+Mohammed,Jenkins,M,1963-10-10,Guinea-Bissau,United Kingdom,(07700) 900 523,E3F 9RW,ZZ 04 51 09 T,022957607,0,51.9,1.75,O+,3.9,74.0,other,49
+Craig,Gray,M,1972-10-29,Kiribati,United Kingdom,(07700)900176,LN88 9GJ,ZZ415904T,061848298,0,58.6,1.96,A-,2.3,488.1,secondary,35
+Victor,Harper,M,1960-01-13,Saudi Arabia,United Kingdom,07700 900043,CV26 8TL,ZZ 85 01 80 T,056324154,0,44.4,1.57,B+,7.7,277.6,secondary,38
+Claire,Sanders,F,1956-09-16,Russian Federation,United Kingdom,(07700) 900 756,NR7R 5LX,ZZ 97 68 54 T,055385246,0,39.3,1.46,A+,2.8,338.7,bachelor,44
+Andrea,Roberts,F,1981-03-17,Solomon Islands,United Kingdom,+447700 900 421,WR8 4XR,ZZ 96 60 03 T,074544369,0,73.3,1.46,O+,3.0,391.7,secondary,8
+Kerry,Smith,F,1999-08-04,India,United Kingdom,+44(0)7700900645,S7E 9HL,ZZ917222T,108462566,0,46.4,1.58,A+,7.8,76.1,secondary,20
+Nicole,Johnston,F,1997-07-20,Grenada,United Kingdom,07700900089,PL0M 4LL,ZZ030904T,103973610,0,51.2,1.45,B+,2.5,342.8,secondary,28
+Hayley,Taylor,F,1990-04-05,France,United Kingdom,07700900653,SO8R 5PS,ZZ 333548 T,063167391,0,93.9,1.8,A+,0.6,376.1,secondary,8
+Marian,Walker,F,2002-10-04,Jamaica,United Kingdom,+447700 900 835,E6 1TL,ZZ 263128 T,087736012,0,96.7,1.75,O-,5.5,86.0,other,6
+Henry,Russell,M,1964-10-22,Marshall Islands,United Kingdom,07700 900 429,OX8H 1PN,ZZ657535T,086996497,1,85.6,1.9,B+,3.8,135.8,secondary,4
+Justin,Noble,M,1967-07-04,Saint Lucia,United Kingdom,+447700 900612,BN2P 2WA,ZZ044938T,063686173,0,78.3,1.5,O-,9.7,237.4,secondary,10
+Allan,Hammond,M,1964-01-26,Nepal,United Kingdom,+447700900869,SA92 1SJ,ZZ 648472 T,072521708,0,92.7,1.98,A+,1.8,262.4,secondary,21
+Robin,Morris,M,2002-06-19,Estonia,United Kingdom,(07700) 900743,TS27 2FD,ZZ 851919 T,014900523,0,56.1,1.85,B+,7.7,336.2,other,35
+Stacey,Barnett,F,1956-04-26,Botswana,United Kingdom,+447700 900776,G89 7HN,ZZ783809T,028276780,0,94.9,2.0,O+,0.9,55.7,secondary,35
+Jayne,Harrison,F,1962-08-16,Guernsey,United Kingdom,(07700)900596,CT5B 5BN,ZZ793814T,062820464,0,75.6,1.5,A+,4.7,430.5,bachelor,35
+Oliver,Holmes,M,1957-01-10,Canada,United Kingdom,07700 900 536,SR56 7HG,ZZ 09 94 67 T,088029663,0,95.6,1.65,B-,0.7,34.6,masters,47
