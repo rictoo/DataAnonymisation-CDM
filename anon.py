@@ -1,10 +1,14 @@
+#%%
+
 import pandas as pd
 import numpy as np
 import hashlib
+import matplotlib.pyplot as plt
+from IPython.core.pylabtools import figsize
 import re
+import os
 
-
-data = pd.read_csv("/Users/tina/Desktop/HDA Term 1/CDM/CDM_Coursework2/Data/customer_information.csv")
+data = pd.read_csv(os.getcwd() + "/Data/customer_information.csv")
 data
 
 # Hashing NIN
@@ -35,7 +39,6 @@ anon_data['birthdate'] = pd.DatetimeIndex(anon_data['birthdate']).year
 anon_data['birthdate'] = pd.cut(anon_data['birthdate'], range(1900, 2500, 5))
 # print(anon_data['birthdate'])
 
-
 # Country_of_birth
 
 # Current_country
@@ -55,7 +58,15 @@ anon_data['postcode'] = postcode_list
 # Weight and Height
 #print(anon_data['height'].max())
 anon_data['weight'] = pd.cut(anon_data['weight'], range(0, 105, 5))
-anon_data['height'] = pd.cut(anon_data['height'], np.linspace(0, 2, 9))
+anon_data['height'] = pd.cut(anon_data['height'], np.linspace(1.25, 2, 4))
+
+# Plot heights
+#figsize(7, 5)
+#plt.hist(anon_data['height'], color='blue', edgecolor='black', bins=10)
+fig, ax = plt.subplots()
+anon_data['height'].value_counts().plot(ax=ax, kind='bar')
+fig.show()
+
 
 print(pd.concat([anon_data['weight'], anon_data['height']], axis=1) )
 #print(pd.concat([anon_data['weight'], anon_data['weight2']], axis=1) )
@@ -80,3 +91,5 @@ print(pd.concat([anon_data['weight'], anon_data['height']], axis=1) )
 
 
 
+
+# %%
