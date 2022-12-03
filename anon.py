@@ -58,17 +58,21 @@ anon_data['postcode'] = postcode_list
 # Weight and Height
 #print(anon_data['height'].max())
 anon_data['weight'] = pd.cut(anon_data['weight'], range(0, 105, 5))
-anon_data['height'] = pd.cut(anon_data['height'], np.linspace(1.25, 2, 4))
+#print(max(anon_data['height']))
+print(min(anon_data['height']))
+
+anon_data['height'] = pd.cut(anon_data['height'], np.linspace(1.4, 2, 7))
 
 # Plot heights
 #figsize(7, 5)
 #plt.hist(anon_data['height'], color='blue', edgecolor='black', bins=10)
-fig, ax = plt.subplots()
-anon_data['height'].value_counts().plot(ax=ax, kind='bar')
-fig.show()
+#fig, ax = plt.subplots()
+#anon_data['height'].value_counts().plot(ax=ax, kind='bar')
+#fig.show()
 
+anon_data.groupby('height')['height'].count().plot(kind='bar')
 
-print(pd.concat([anon_data['weight'], anon_data['height']], axis=1) )
+#print(pd.concat([anon_data['weight'], anon_data['height']], axis=1) )
 #print(pd.concat([anon_data['weight'], anon_data['weight2']], axis=1) )
 
 
