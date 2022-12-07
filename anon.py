@@ -86,8 +86,11 @@ anon_data.groupby('height')['height'].count().plot(kind='bar')
 
 
 
+## K-anonymity test
 
-
+test = {'age': [20, 20, 20, 30, 30, 30], 'zip': [130, 130, 130, 148, 148, 148]}
+test = pd.DataFrame(data=test)
+print(test.groupby(['age', 'zip']).size())
 
 
 
@@ -97,3 +100,4 @@ anon_data.groupby('height')['height'].count().plot(kind='bar')
 
 
 # %%
+
