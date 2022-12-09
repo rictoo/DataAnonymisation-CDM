@@ -4,71 +4,49 @@ import numpy as np
 import hashlib
 import re
 import math
-import pycountry_convert as pc
+from functions import *
 
+# Read in data to be anonymised
 data = pd.read_csv("Data/customer_information.csv")
-data
 
-# Anonymised data
-anon_data = data
+# Create anon_data variable as initial data with unneeded direct identifiers dropped
+#anon_data = data.drop(['given_name', 'surname', 'phone_number', 'national_insurance_number', 'bank_account_number'], axis=1)
+anon_data = pd.DataFrame()
 
-# Drop unneeded direct identifiers
-anon_data = anon_data.drop(['given_name', 'surname', 'phone_number', 'national_insurance_number', 'bank_account_number'], axis=1)
-
-# Hashing NIN
+# Assign Sample ID as a hashed form of the NIN
 hashed_nin = data["national_insurance_number"].apply(lambda x: 
     hashlib.sha256(x.encode()).hexdigest())
 
-anon_data['id'] = hashed_nin
+anon_data['Sample.ID'] = hashed_nin
 
-# print(hashed_nin.shape)
-
-# Create the reference table and adding the hashed_nin values
+# Create a reference table between NIN and respective hashed NIN
 reference_table = pd.DataFrame()
-reference_table['nin_hashed'] = hashed_nin
-reference_table['national_insurance_number'] = data['national_insurance_number']
-print(reference_table)
+reference_table['Hashed.NIN'] = hashed_nin
+reference_table['NIN'] = data['national_insurance_number']
 
-
-
-# Birthdate
-# Convert birthdate to a datetime object
-anon_data['birthdate'] = pd.to_datetime(anon_data['birthdate'])
+# Assign birthdate as banded birthyears
 # Select the birth year only
-anon_data['birthdate'] = pd.DatetimeIndex(anon_data['birthdate']).year
-# print(anon_data['birthdate'])
+birthyears = pd.DatetimeIndex(data['birthdate']).year
 # Band the birth years into 5-year intervals
-anon_data['birthdate'] = pd.cut(anon_data['birthdate'], range(anon_data['birthdate'].min(), anon_data['birthdate'].max(), 20))
-# print(anon_data['birthdate'])
+anon_data['Birthdate'] = pd.cut(birthyears, range(birthyears.min(), birthyears.max(), 20))
 
+# Assign postcode as truncated postcode
+anon_data['Postcode'] = data['postcode'].apply(lambda x: re.search('[a-zA-Z]*', x).group(0))
+#postcode_list = []
+#for i in data['postcode']:
+#    postcode_list.append(re.search('[a-zA-Z]*', i).group(0))
+#anon_data['postcode'] = postcode_list
 
-# Country_of_birth
+# Assign weight and height as banded weights and heights
+anon_data['Weight'] = pd.cut(data['weight'], range(math.floor(data['weight'].min()), math.floor(data['weight'].max()), 20))
+anon_data['Height'] = pd.cut(data['height'], np.linspace(0, 2, 9))
 
-# Current_country
-
-# Postcode
-#sep = ' '
-postcode_list = []
-for i in data['postcode']:
-   # strip = str(i).split(sep, 1)[0]
-    #anon_data['postcode'] = strip
-    postcode_list.append(re.search('[a-zA-Z]*', i).group(0))
-
-anon_data['postcode'] = postcode_list
-
-# CC_Status
-
-# Weight and Height
-#print(anon_data['height'].max())
-anon_data['weight'] = pd.cut(anon_data['weight'], range(math.floor(anon_data['weight'].min()), math.floor(anon_data['weight'].max()), 20))
-anon_data['height'] = pd.cut(anon_data['height'], np.linspace(0, 2, 9))
-
-# Banding avg_drinks
+# Assign avg_drinks as banded avg_drinks
+#print(anon_data['avg_n_drinks_per_week'].max())
+#print(anon_data['avg_n_drinks_per_week'].min())
 #anon_data['avg_n_drinks_per_week'] = pd.cut(anon_data['avg_n_drinks_per_week'], np.linspace(0, 2, 9))
-print(anon_data['avg_n_drinks_per_week'].max())
-print(anon_data['avg_n_drinks_per_week'].min())
 
-# Education level banding
+# Assign education level as banded education level
 edu_list = []
 for i in data['education_level']:
     if(i=="bachelor" or i=="masters" or i=="phD"):
@@ -77,28 +55,6 @@ for i in data['education_level']:
         edu_list.append(i)
 anon_data['education_level'] = edu_list
 
-
-
-# Country of birth
-def country_to_continent(country_name):
-    country_alpha2 = ""
-    try:
-        country_code = pc.country_name_to_country_alpha2(country_name, cn_name_format="default")
-        continent_name = pc.country_alpha2_to_continent_code(country_code)
-        if(continent_name == "AN"):
-            continent_name = "OTHR"
-        elif(continent_name == "EU" or continent_name =="AS" or continent_name =="OC"):
-            continent_name = "EURASOC"
-        elif(continent_name == "NA" or continent_name =="SA"):
-            continent_name = "AMER"
-        
-    except:
-        continent_name = "OTHR"
-    #country_continent_code = pc.convert_country_alpha2_to_continent_code(country_alpha2)
-    #country_continent_name = pc.convert_continent_code_to_continent_name(country_continent_code)
-    return continent_name
-#for cname in anon_data['country_of_birth']: 
-    #print(country_to_continent(cname))
 test = anon_data['country_of_birth'].apply(lambda x: country_to_continent(x))
 #print(anon_data['country_of_birth'])
 
