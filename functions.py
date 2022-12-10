@@ -1,3 +1,6 @@
+import os, hashlib
+import math
+
 #
 # Helper functions
 #
@@ -20,3 +23,8 @@ def country_to_continent(country_name):
     except:
         continent_name = "OTHR"
     return continent_name
+
+def hash(key, to_hash):
+    salt = os.urandom(16)
+    hash = hashlib.sha256(salt + to_hash.encode()).hexdigest()
+    return to_hash, hash, salt.hex()
