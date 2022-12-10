@@ -41,16 +41,26 @@ anon_data['Birthyear'] = pd.cut(birthyears, np.arange(birthyears.min(), birthyea
 # Assign postcode as truncated postcode
 anon_data['Postcode'] = data['postcode'].apply(lambda x: re.search('[a-zA-Z]*', x).group(0))
 
+#anon_data['Region'] = data['postcode'].apply(lambda x: postcode_to_region(x))
+postcode_dictionary = pd.read_csv('Data/postcode_region.csv')
+anon_data = pd.merge(anon_data, postcode_dictionary.iloc[: , :-1], on='Postcode', how='left')
+#anon_data['Region'] = anon_data['Postcode'].to_frame().merge(postcode_dictionary.iloc[: , :-1], on='Postcode', how='left')
+
+#print(anon_data['Region'])
+
 # Assign weight and height as banded weights and heights
 #anon_data['Weight'] = pd.cut(data['weight'], np.arange(math.floor(data['weight'].min()), math.floor(data['weight'].max()+20), 20), right=False)
-weight_noise = np.random.normal(0,1,500)*5
-anon_data['Weight'] = 
+weight_noise = np.random.normal(0,1,1000)*5
+anon_data['Weight'] = round(data['weight']+weight_noise, 1)
+
 # Round minimum and maximum heights to nearest one-fifth prior to making bins
 #anon_data['Height'] = pd.cut(data['height'], np.arange(round(data['height'].min()*5)/5, (round(data['height'].max()*5)/5)+0.2, 0.2), right=False)
+height_noise = np.random.normal(0,1,1000)/5
+anon_data['Height'] = round(data['height']+height_noise, 2)
 bmi = data['weight'] / data['height']**2
-print(bmi)
-anon_data['BMI'] = pd.cut(bmi, bins=[math.floor(bmi.min()), 18.5, 25, 30, round(bmi.max(), -1)], right=False)
-print(anon_data['BMI'])
+print(anon_data['Height'])
+print(data['height'])#anon_data['BMI'] = pd.cut(bmi, bins=[math.floor(bmi.min()), 18.5, 25, 30, round(bmi.max(), -1)], right=False)
+#print(anon_data['BMI'])
 # Assign avg_drinks as banded avg_drinks
 #anon_data['avg_n_drinks_per_week'] = pd.cut(anon_data['avg_n_drinks_per_week'], np.linspace(0, 2, 9))
 
@@ -67,11 +77,13 @@ reference_table.to_csv("reference_table.csv", sep=",", index=None)
 k = 2
 ############
 # Checking k-anonymity, fix this for variable names
-df_count = anon_data.groupby(['Gender', 'Birthyear', 'Continent.of.Birth', 'Education.Level', 'Postcode']).size().reset_index(name = 'Count') 
+df_count = anon_data.groupby(['Gender', 'Birthyear', 'Continent.of.Birth', 'Education.Level', 'Region']).size().reset_index(name = 'Count') 
 print(df_count[df_count['Count']==1])
 # print(df_count.size().describe())
 
 print(anon_data.groupby('Education.Level').size())
 print(anon_data.groupby('Continent.of.Birth').size())
+print(anon_data.groupby('Region').size())
+
 
 ############
