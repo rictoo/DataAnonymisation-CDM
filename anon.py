@@ -50,8 +50,7 @@ anon_data['Height'] = pd.cut(data['height'], np.arange(round(data['height'].min(
 #anon_data['avg_n_drinks_per_week'] = pd.cut(anon_data['avg_n_drinks_per_week'], np.linspace(0, 2, 9))
 
 # Assign education level as banded education level
-anon_data['Education.Level'] = data['education_level'].map(lambda x: "Higher" if x in ["bachelor", "masters", "phD"] 
-                                                           else "Basic" if x in ["primary", "secondary"] else "Other")
+anon_data['Education.Level'] = data['education_level'].map(lambda x: "Higher" if x in ["bachelor", "masters", "phD"] else "BasicOther")
 
 anon_data['Continent.of.Birth'] = data['country_of_birth'].apply(lambda x: country_to_continent(x))
 
@@ -62,9 +61,11 @@ reference_table.to_csv("reference_table.csv", sep=",", index=None)
 k = 2
 ############
 # Checking k-anonymity, fix this for variable names
-df_count = anon_data.groupby(['Gender', 'Birthyear', 'Continent.of.Birth', 'Education.Level']).size().reset_index(name = 'Count') 
+df_count = anon_data.groupby(['Gender', 'Birthyear', 'Continent.of.Birth', 'Education.Level', 'Weight']).size().reset_index(name = 'Count') 
 print(df_count[df_count['Count']<2  ])
 # print(df_count.size().describe())
 
 print(anon_data.groupby('Education.Level').size())
+print(anon_data.groupby('Continent.of.Birth').size())
+
 ############

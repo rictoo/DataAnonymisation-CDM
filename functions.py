@@ -1,14 +1,23 @@
-import os, hashlib
+import os, logging
 import math
+import hashlib
+import country_converter as coco
+import pycountry_convert as pc
 
 #
 # Helper functions
 #
 
-import pycountry_convert as pc
 
 # Convert country to continent
 def country_to_continent(country_name):
+    continent = coco.convert(country_name, to='Continent')
+    if(country_name == 'Netherlands Antilles'): # Hard-coded fix for the single unmatched country
+        continent = 'Europe'
+    return 'OceaniaAntarct' if continent in ['Antarctica', 'Oceania'] else continent
+
+
+def country_to_continent2(country_name):
     country_alpha2 = ""
     try:
         country_code = pc.country_name_to_country_alpha2(country_name, cn_name_format="default")
@@ -24,6 +33,7 @@ def country_to_continent(country_name):
         continent_name = "OTHR"
     return continent_name
 
+# SHA hash using key and salt
 def hash(key, to_hash):
     salt = os.urandom(16)
     hash = hashlib.sha256(salt + to_hash.encode()).hexdigest()
