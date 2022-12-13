@@ -47,5 +47,8 @@ def country_to_continent2(country_name):
 # SHA hash using key and salt
 def hash(key, to_hash):
     salt = os.urandom(16)
-    hash = hashlib.sha256(salt + to_hash.encode()).hexdigest()
-    return to_hash, hash, salt.hex()
+    h = hashlib.sha256()
+    h.update(key)
+    h.update(salt)
+    h.update(to_hash.encode())
+    return to_hash, h.hexdigest(), salt.hex()
