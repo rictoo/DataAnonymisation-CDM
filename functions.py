@@ -3,12 +3,22 @@ import math
 import hashlib
 import country_converter as coco
 import pycountry_convert as pc
-import pgeocode
+#import pgeocode
+from geopy.geocoders import Nominatim
+
 
 
 #
 # Helper functions
 #
+
+# Convert country to continent
+def parse_country(country_name):
+    country = coco.convert(country_name, to='ISO3')
+    if(country_name == 'Netherlands Antilles'): # Hard-coded fix for the single unmatched country
+        country = 'Netherlands'
+    return country
+
 
 # Convert country to continent
 def country_to_continent(country_name):
