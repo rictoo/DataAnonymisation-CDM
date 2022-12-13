@@ -5,6 +5,8 @@ import country_converter as coco
 import pycountry_convert as pc
 #import pgeocode
 from geopy.geocoders import Nominatim
+import cryptography
+from cryptography.fernet import Fernet
 
 
 
@@ -52,3 +54,33 @@ def hash(key, to_hash):
     h.update(salt)
     h.update(to_hash.encode())
     return to_hash, h.hexdigest(), salt.hex()
+
+# Encrypt and save as encrypted file; specify file to encrypt, encrypted file destination, and destination key location
+def encrypt(to_encrypt, file_destination, key_location):
+    key = Fernet.generate_key() # AES in CBC mode with a 128-bit key for encryption
+    fernet = Fernet(key)
+    
+    with open(key_location, 'wb') as f:
+        f.write(key)
+    
+    with open(to_encrypt, 'rb') as f:
+        plaintext = f.read()   
+    
+    encrypted = fernet.encrypt(plaintext)
+    with open(file_destination, 'wb') as e:
+        e.write(encrypted)
+
+# Decrypt and save as plaintext file; specify file to decrypt, decrypted file destination, and key location
+def decrypt(to_decrypt, file_destination, key_location):
+    with open(key_location, 'rb') as f:
+        key = f.read()
+        
+    fernet = Fernet(key)
+
+    with open(to_decrypt, 'rb') as f:
+        encrypted = f.read()
+
+    decrypted = fernet.decrypt(encrypted)
+    
+    with open(file_destination, 'wb') as f:
+        f.write(decrypted)
