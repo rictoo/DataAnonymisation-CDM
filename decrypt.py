@@ -1,3 +1,5 @@
+from cryptography.fernet import Fernet
+
 # To decrypt and save as plaintext file; specify file to decrypt, decrypted file destination, and key location
 def decrypt(to_decrypt, file_destination, key_location):
     with open(key_location, 'rb') as f:
@@ -14,4 +16,5 @@ def decrypt(to_decrypt, file_destination, key_location):
 
 
 # Decrypt file; replace encrypted_filename.csv by filename
-decrypt(encrypted_filename.csv, "decrypted_dataset.csv", "key.key")
+encrypted_filename = "anon_dataset_encrypted.csv"
+decrypt(encrypted_filename, "decrypted_dataset.csv", "key.key")
