@@ -1,4 +1,4 @@
-# Data Anonymisation task - Clinical Data Management Project 
+# Data Anonymisation Project - Clinical Data Management 
 
 ### Project description and rationale:
 - Anonymisation is the practice of removing identifying information from data in order to protect individuals' privacy and is critical to ensure sensitive information is kept secure.
